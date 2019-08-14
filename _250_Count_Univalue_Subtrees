@@ -1,0 +1,141 @@
+public class _250_Count_Univalue_Subtrees {
+
+    /** 题意是说如果一个结点的左子树和右子树的值都相等, 那么就计数+1. 因此我们只需要一个递归的判定一个结点出发,是否其所有结点都相等即可.叶子结点也算是一个结果. **/
+
+    public static void main(String[] args) {
+
+        TreeNode a1 = new TreeNode(5);
+        TreeNode a2 = new TreeNode(1);
+        TreeNode a3 = new TreeNode(5);
+
+        TreeNode a4 = new TreeNode(5);
+        TreeNode a5 = new TreeNode(5);
+
+        TreeNode a6 = new TreeNode(5);
+
+        TreeNode a7 = new TreeNode(5);
+
+
+        a1.left = a2; a1.right = a3;
+
+        a2.left = a4; a2.right = a5;
+
+        a3.right = a6;
+
+        a6.right = a7;
+
+
+        /**
+                             5
+                           /  \
+                         /     \
+         *              1      5
+                      / \       \
+         *           5  5       5
+         *                       \
+         *                        5
+
+        */
+
+
+        Solution_1 solution_1 = new Solution_1();
+        Solution_2 solution_2 = new Solution_2();
+
+        System.out.println(solution_1.countUnivalSubtrees(a1));
+        System.out.println(solution_2.countUnivalSubtrees(a1));
+
+    }
+
+    public static class TreeNode {
+          int val;
+          TreeNode left;
+          TreeNode right;
+          TreeNode(int x) { val = x; }
+    }
+
+    /** DFS **/
+    public static class Solution_1 {
+
+        int count = 0;
+
+        public int countUnivalSubtrees(TreeNode root) {
+
+            if (root == null) return 0;
+
+            is_uni(root);
+
+            return count;
+        }
+
+        /** 主函數 **/
+        boolean is_uni(TreeNode node) {
+
+            /** 1. 如果兩邊都是空，那麼這個節點，自己算一個 **/
+            //base case - if the node has no children this is a univalue subtree
+            if (node.left == null && node.right == null) {
+
+                // found a univalue subtree - increment
+                count++;
+                return true;
+            }
+
+            /** 2. 製造參數    "is_unival"      **/
+            boolean is_unival = true;
+
+            /** check if all of the node's children are univalue subtrees and if they have the same value also recursively call is_uni for children */
+
+            /** 3. 檢查左邊  **/
+            if (node.left != null) {
+                is_unival = is_uni(node.left) /**  **/ && is_unival /** 是否本身是True **/ && node.left.val == node.val /** 是否左節點，等於根節點 **/;
+            }
+
+            /** 3. 檢查右邊  **/
+            if (node.right != null) {
+                is_unival = is_uni(node.right) && is_unival && node.right.val == node.val;
+            }
+
+            /** 4. 返回錯誤  **/
+            // return if a univalue tree exists here and increment if it does
+            if (!is_unival) return false;
+
+            /** 5. 返回加一 **/
+            count++;
+
+            return true;
+        }
+
+    }
+
+    /** DFS -  Pass Parent Values **/
+    public static class Solution_2 {
+
+        int count = 0;
+
+        public int countUnivalSubtrees(TreeNode root) {
+
+            /** 這裡放（root，0），因為root  沒有上級，需要對比  **/
+            is_valid_part(root, 0);
+
+            return count;
+
+        }
+
+        boolean is_valid_part(TreeNode node, int val) {
+
+            // considered a valid subtree
+            if (node == null) return true;
+
+            // check if node.left and node.right are univalue subtrees of value node.val
+            // note that || short circuits but | does not - both sides of the or get evaluated with | so we explore all possible routes
+            /**  這個符號 | 表示兩邊都做檢查  **/
+            if (   !is_valid_part(node.left, node.val)   |   !is_valid_part(node.right, node.val)   ) return false;
+
+            // if it passed the last step then this a valid subtree - increment
+            count++;
+
+            // at this point we know that this node is a univalue subtree of value node.val
+            // pass a boolean indicating if this is a valid subtree for the parent node
+            return node.val == val;
+        }
+    }
+}
