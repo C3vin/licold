@@ -35,10 +35,10 @@ public class _658_Find_K_Closest_Elements {
             } else if (arr.get(n - 1) <= x) {
                 return arr.subList(n - k, n);
 
-            /** 4. 其他情況制造  **/
+            /** 4. 其他情況：x 取值在 中間，但又不存在與array **/
             } else {
 
-                /** ~1 找到 x 的位置  **/
+                /** ~1 找到 x 的位置， x 取值在 中間，但又不存在與array，那麼返回 負數，比如，{3,6,9} 查找7，返回 -3   **/
                 int index = Collections.binarySearch(arr, x);
 
                 /** ~2 難道還會小於 0   不懂!!!!!!!!!!!!!!!!**/
