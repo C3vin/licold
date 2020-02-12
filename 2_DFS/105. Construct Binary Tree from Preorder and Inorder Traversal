@@ -7,6 +7,9 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
+ 
+ // Approach 1: Recursion   https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solution/ 
+ 
 class Solution {
     
     int pre_idx = 0; 
