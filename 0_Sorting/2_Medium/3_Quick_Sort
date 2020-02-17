@@ -1,0 +1,32 @@
+/**
+- The idea of quick sort is also Divide and Conque, which is similiar to Merge sort,
+- It picks an element (called pivot) and puts it into the correct position (All smaller elements are in front of it and greater elements are after it.)
+- Repeat the same process for the two sections in front and after the pivot),
+- There is several way to pick the pivot, which could be the first element, last element or a random element in the array.
+- For normal case, Time complexity is O(N lg N), for the worst case( array already sorted and pick the first as pivot, this does not acutally split the array) time complexity is O(N^2)
+- Stalbe: suppose to yse,
+**/
+
+public static void quickSort(int[] a){
+		quickSort(a, 0, a.length-1);
+	}
+	private static void quickSort(int[] a, int low, int high){
+		if (low < high){
+			int pivot = partition(a, low, high);        // divide
+			quickSort(a, low, pivot-1);                   // recursively process low part
+			quickSort(a, pivot+1, high);                  // recursively process high part
+		}
+	}
+
+private static int partition(int[] a, int low, int high){
+		int pivot = a[low];     // use the fist as pivot
+		while (low < high){
+			while (low < high && a[high] >= pivot) --high; 
+			a[low]=a[high];             //  
+			while (low < high && a[low] <= pivot) ++low;
+			a[high] = a[low];           //swap
+		}
+		a[low] = pivot; // low/high is the right position of pivot
+		return low;// index of pivot
+	}
+	
