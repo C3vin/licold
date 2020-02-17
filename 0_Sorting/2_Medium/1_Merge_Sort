@@ -1,0 +1,34 @@
+/**
+- The idea of merger sort is Divide and Conque, which is to split the array into two halfs, sort them separately and merge them into one,
+it needs an addtional space(array) to store the temp result,
+- Time complexity is straigtly O(N lg N),
+- Stable: Yes, cause the logic only swaps adjacent elements
+**/
+
+	public static void mergeSort( int [] a, int lo, int hi) {
+		if (hi <= lo) {
+			return;
+		}
+		int mid = (lo + hi) >>> 1;
+		mergeSort(a, lo, mid);
+		mergeSort(a, mid + 1, hi);
+		merge(a, lo, mid, hi);
+	}
+
+	public static void merge(int[] a, int lo, int mid, int hi) {
+		int i = lo, j = mid + 1;  // i: low index, j: high index
+		for (int k = lo; k <= hi; k++) {
+			aux[k] = a[k];
+		}
+		for (int k = lo; k <= hi; k++) { // k: merged index
+			if (i > mid) {  // low half finished
+				a[k] = aux[j++];
+			} else if (j > hi) { // high half finished
+				a[k] = aux[i++];
+			} else if (aux[j] <  (aux[i]) ) { // low/high are not finish
+				a[k] = aux[j++];
+			} else {
+				a[k] = aux[i++];
+			}
+		}
+	}
