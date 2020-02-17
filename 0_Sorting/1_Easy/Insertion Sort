@@ -1,0 +1,16 @@
+/**
+- for each run, assumes the elements before current position are sorted and inserts current element into correct position.
+- best case: o(n) no swaping, worst case: o(n2)
+- stable: Yes, cause it only swaps adjacent elements
+**/
+
+public static void insertionSort(int[] a) {
+	    for (int i = 1; i < a.length; i++) {
+	        int current = a[i];
+	        int j;
+	        for ( j = i ; j > 0 && current < a[j -1] ; j--) {
+	        	a[j] = a[j-1];
+	        }
+	        a[j] = current;
+	    }
+	}
