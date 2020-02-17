@@ -1,3 +1,10 @@
+/**
+- compare adjacent element, if previous is greater, swap them
+- each run gets the biggest at the end,
+- best case: o(n) with the flag, worst case: o(n2)
+- stable: Yes, cause it only swaps adjacent elements
+**/
+
 public static void bubbleSort(int [] a) {
 	    for (int i = 0; i < a.length; i++) {
 	        int flag = 0;
