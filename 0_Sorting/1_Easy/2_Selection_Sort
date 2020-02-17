@@ -1,0 +1,21 @@
+/**
+- each run finds index of smallest and swap it to correct position,
+- best case/worst case: o(n2),
+- stable: No, cause it has non adjacent swap.
+**/
+
+public static void selectionSort(int [] a) {
+	    for (int i = 0; i < a.length; i++) {
+	    	int min = i;
+	        for (int j = i + 1 ; j < a.length; j++) {
+	        	if( a[j] < a[min]) {
+	        		min = j;
+	        	}
+	        }
+	        if (min != i ) { // if not at the same position
+	        	int temp = a[i];
+                a[i] = a[min];
+                a[min] = temp;
+            }
+	    }
+	}
