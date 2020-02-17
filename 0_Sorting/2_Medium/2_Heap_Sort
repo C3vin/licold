@@ -1,0 +1,45 @@
+/** 
+- The idea of Heap sort is to use the characteristic of heap, build a Big-Top heap, and move the root(biggest) to the tail and keep doing this.
+does not need additional space,
+- Time complexity is straigtly O(N lg N),
+- Stalbe: No, cause there is parent-child swapping, which doesn't keep the order.
+**/
+
+public static void heapSort(int arr[])  {
+		int n = arr.length;
+		// Build max heap, from all non-leaf nodes (n/2 -> 0), Max at the top
+		for (int i = n / 2 - 1; i >= 0; i--) {
+			heapify(arr, n, i);
+		}
+		// Heap sort
+		for (int i=n-1; i>=0; i--)  {
+			// swap the first (max), and last
+			int temp = arr[0];
+			arr[0] = arr[i];
+			arr[i] = temp;
+			// Heapify root element
+			heapify(arr, i, 0);
+		}
+	}
+
+	public static void heapify(int arr[], int n, int i)  {
+		// Find largest among root, left child and right child
+		int largest = i; 
+		int l = 2*i + 1; 
+		int r = 2*i + 2;  
+
+		if (l < n && arr[l] > arr[largest])
+			largest = l;
+
+		if (r < n && arr[r] > arr[largest])
+			largest = r;
+
+		// Swap if require and continue heapifying if swap
+		if (largest != i)  {
+			int swap = arr[i];
+			arr[i] = arr[largest];
+			arr[largest] = swap;
+			// heapify the effect child node
+			heapify(arr, n, largest);
+		}
+	}
