@@ -1,0 +1,53 @@
+import java.util.ArrayList;
+import java.util.List;
+
+public class _658_Find_K_Closest_Elements {
+
+    public static void main(String[] args) {
+
+        int[] arr = {2, 7, 14, 17, 20, 30, 34};
+
+        int k = 5;
+        int x = 20;
+
+        Solution_1 solution_1 = new Solution_1();
+
+        System.out.println(solution_1.findClosestElements(arr, k, x));
+    }
+
+    /**
+     * https://youtu.be/3ifFNvdfjyg?t=240
+     **/
+    public static class Solution_1 {
+
+        public List<Integer> findClosestElements(int[] arr, int k, int x) {
+
+            List<Integer> res = new ArrayList<>();
+
+            /** 看视频看视频看视频！！！！！！！！！！！！！！！！ */
+            int begin = 0, end = arr.length - k;
+
+            /** 尝试找leftbound的值 */
+            while (begin < end) {
+
+                int mid = begin + (end - begin) / 2;
+
+                if (x - arr[mid] /** x 和 */ > arr[mid + k] - x) {
+                    begin = mid + 1;
+                } else {
+                    end = mid;
+                }
+
+            }
+
+            int index = begin;
+
+            /** 找到这K个点 */
+            while (k != 0) {
+                res.add(arr[index++]);
+                k--;
+            }
+            return res;
+        }
+    }
+}
