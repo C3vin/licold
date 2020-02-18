@@ -1,0 +1,36 @@
+class Solution {
+  
+    
+        public int findDuplicate(int[] nums) {  
+            
+            /** 注意，这里不是序号，而是数字本身 **/
+            int low = 1;            
+            int high = nums.length - 1;  
+            
+            while (low < high) {    // this should be low < high, so when low = high, the index is the target we want.   
+                
+                int mid = low + (high - low)/2; 
+                
+                int cnt = 0;     
+                
+                for (int a : nums) {            
+                    if (a <= mid) // count the number of elements not larger than mid.
+                   ++cnt;        
+                }       
+                
+                if (cnt <= mid) // if the number no larger than mid, there are no duplicates for the number not larger than mid
+                // since if there is, for the number larger than mid, there must also be a duplicated number(or else it cannot have enough element)
+                // which breaks the rule for only one duplicated number.
+                    low = mid + 1;    
+                
+                else high = mid;   // for the opposite, since there must be a duplicate for the number no larger than mid, the number larger than mid shall be excluded.
+                // it is impossible that the duplicated number is larger than n.
+                // I think it is rather "high = mid" since the mid may also be the possible target.
+            }   
+            
+            return low;
+            
+        }
+
+    
+}
