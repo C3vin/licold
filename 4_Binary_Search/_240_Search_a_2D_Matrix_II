@@ -86,10 +86,10 @@ public class _240_Search_a_2D_Matrix_II {
             /** 3.3 找中間column的位置 **/
             int mid = left + (right-left)/2;
 
-            /** 3.4  從up，從高往低走 **/
+            /** 3.4  從up, 從高往低走 **/
             int row = up;
 
-            /** 3.5  找到 row。 找到夾住 target的兩行  **/
+            /** 3.5  找到 row, 找到夾住 target的兩行  **/
             while (row <= down && matrix[row][mid] <= target) {
 
                 if (matrix[row][mid] == target) return true;
