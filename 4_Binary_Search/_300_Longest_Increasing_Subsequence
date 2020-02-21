@@ -1,0 +1,122 @@
+import java.util.Arrays;
+
+public class _300_Longest_Increasing_Subsequence {
+
+    public static void main(String[] args) {
+
+        int[] a = {10,9,2,5,3,7,101,18};
+
+        Solution_1 solution_1 = new Solution_1();
+        Solution_2 solution_2 = new Solution_2();
+
+        System.out.println(solution_1.lengthOfLIS(a));
+        System.out.println(solution_2.longestSubsequenceWithActualSolution(a));
+
+        /**
+         *
+         *         public static void main(String args[]){
+         *             Solution_2 lis = new Solution_2();
+         *             int arr[] = {23,10,22,5,33,8,9,21,50,41,60,80,99, 22,23,24,25,26,27};
+         *             int result = lis.longestSubsequenceWithActualSolution(arr);
+         *             int result1 = lis.longestSubsequenceRecursive(arr);
+         *             System.out.println(result);
+         *             System.out.println(result1);
+         *         }
+         *
+         * **/
+
+
+
+    }
+
+    /**  Tushar    NlogN    https://www.youtube.com/watch?v=S9oUiVYEq7E  **/
+    public static class Solution_1 {
+
+        public int lengthOfLIS(int[] nums) {
+
+            int[] dp = new int[nums.length];
+            int len = 0;
+            for (int x : nums) {
+
+                int index = Arrays.binarySearch(dp, 0, len, x);
+                if (index < 0) {
+                    index = -(index + 1);
+                }
+                dp[index] = x;
+                if (index == len) {
+                    len++;
+                }
+            }
+            return len;
+        }
+    }
+
+    /** Tushar DP | https://www.youtube.com/watch?v=CE2b_-XfVDk&t=26s **/
+    public static class Solution_2 {
+        /**
+         * DP way of solving LIS
+         */
+        public int longestSubsequenceWithActualSolution(int arr[]){
+
+            /** 1. 製造DP  **/
+            int T[] = new int[arr.length];
+
+            /** 2. 真正的solution  **/
+            int actualSolution[] = new int[arr.length];
+
+            /** 3. 初始化 DP 和  actualSolution[]   **/
+            for(int i=0; i < arr.length; i++){
+                T[i] = 1;
+                actualSolution[i] = i;
+            }
+
+            /** 4. 看視頻，看如何跳動，準備好 DP  **/
+            for(int i=1; i < arr.length; i++){
+
+                    /** 4.1 每次都 回到 初始點  **/
+                    for(int j=0; j < i; j++){
+
+                            /** ~1 如果 j 小於 i **/
+                            if(arr[i] > arr[j]){
+
+                                /** 看是否更新 DP  **/
+                                if(T[j] + 1 > T[i]){
+
+                                    T[i] = T[j] + 1;
+
+                                    //set the actualSolution to point to guy before me
+                                    actualSolution[i] = j;
+                                }
+                            }
+                    }
+            }
+
+
+            //find the index of max number in T
+            int maxIndex = 0;
+
+            /** 5. 找到最大的值 **/
+            for(int i=0; i < T.length; i++){
+                if(T[i] > T[maxIndex]){
+                    maxIndex = i;
+                }
+            }
+
+            /** 6. 無用功：嘗試打印出來真正的結果  **/
+            int t = maxIndex;
+
+            int newT = maxIndex;
+
+            do{
+                t = newT;
+                System.out.print(arr[t] + " ");
+                newT = actualSolution[t];
+
+            }while(t != newT);
+
+            System.out.println();
+
+            return T[maxIndex];
+        }
+    }
+}
