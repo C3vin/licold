@@ -1,43 +1,40 @@
-/**
-* Approach 1: HashMap + Binary Search
-**/ 
-
 class TimeMap {
+    
+    Map<String, List<Pair<Integer, String>>> M;
 
-            Map<String, List<Pair<Integer, String>>> M;
+    public TimeMap() {
+        M = new HashMap();
+    }
 
-            public TimeMap() {
+    public void set(String key, String value, int timestamp) {
+        if (!M.containsKey(key))
+            M.put(key, new ArrayList<Pair<Integer, String>>());
 
-                M = new HashMap();
-            }
+        M.get(key).add(new Pair(timestamp, value));
+    }
 
-            public void set(String key, String value, int timestamp) {
+    public String get(String key, int timestamp) {
+        
+        if (!M.containsKey(key)) return "";
 
-                if (!M.containsKey(key))
-                    M.put(key, new ArrayList<Pair<Integer, String>>());
+        List<Pair<Integer, String>> A = M.get(key);
+        
+        int i = Collections.binarySearch(A, new Pair<Integer, String>(timestamp, "{"),
+                (a, b) -> Integer.compare(a.getKey(), b.getKey()));
 
-                M.get(key).add(new Pair(timestamp, value));
-            }
-
-            public String get(String key, int timestamp) {
-
-                if (!M.containsKey(key)) return "";
-
-                List<Pair<Integer, String>> A = M.get(key);
-                                                                                /** 这里似乎给任意值都可以 **/
-                int i = Collections.binarySearch( A, new Pair<Integer, String>(timestamp, "{"), (a, b) -> Integer.compare(a.getKey(), b.getKey()) );
-
-                /** 对于Collection.binarySearch()的例子：
-                 *  1.  Array的排序：https://blog.csdn.net/a1b2c3d4123456/article/details/51097161
-                 *  2.  Collection的排序：https://z724130632.iteye.com/blog/2314991
-                 *  3.  pair是有key的
-                 *  **/
-
-                if (i >= 0)
-                    return A.get(i).getValue();
-                else if (i == -1)
-                    return "没有找到";
-                else
-                    return A.get(-i - 2).getValue();
-            }
+        
+        /** 对于Collection.binarySearch()的例子：
+         *  1.  Array的排序：https://blog.csdn.net/a1b2c3d4123456/article/details/51097161
+         *  2.  Collection的排序：https://z724130632.iteye.com/blog/2314991
+         *  3.  pair是有key的
+         *  **/
+        
+        
+        if (i >= 0)
+            return A.get(i).getValue();
+        else if (i == -1)
+            return "";
+        else
+            return A.get(-i-2).getValue();
+    }
 }
