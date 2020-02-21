@@ -19,7 +19,7 @@ class TimeMap {
 
         List<Pair<Integer, String>> A = M.get(key);
         
-        int i = Collections.binarySearch(A, new Pair<Integer, String>(timestamp, "{"),
+        int i = Collections.binarySearch(A, new Pair<Integer, String>(timestamp, "---"),
                 (a, b) -> Integer.compare(a.getKey(), b.getKey()));
 
         
