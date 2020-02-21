@@ -2,24 +2,42 @@ class Solution {
  
     public int minSubArrayLen(int s, int[] nums) {
         
+        /** Sum is 1 position longer */
         int[] sums = new int[nums.length + 1];
         
+        /** Start from position 1 **/
         for (int i = 1; i < sums.length; i++) sums[i] = sums[i - 1] + nums[i - 1];
         
+        /** Initiate the minLen **/
         int minLen = Integer.MAX_VALUE;
         
         
+        /**
+         Index   0 1 2  3   4   5
+         Array   2 3 1  2   4   3
+         Sum     0 2 5  8   10  14  17 
+                                     ^
+                                     |
+                                    sums.length - 1
+                                
+        
+        **/
+        
+        
+        
+        
         /**Why start from 0?  because here i is the left bound **/
-        for (int i = 0; i < sums.length; i++) {
+        for (int start = 0; start < sums.length; start++) {
+ 
             
                                    /** why start from i+1, because it is a right bound **/
-            int end = binarySearch(i + 1, sums.length - 1, sums[i] + s, sums);
+            int end = binarySearch(start + 1, sums.length - 1, sums[start] + s, sums);
+                                /** lo          hi            target     **/ 
             
+            /** When start is the last position of the array --> if start already bigger than target, then return start --> esle, return start + 1 --> which is overflow**/
+            if ( end == (sums.length - 1) + 1 )  break;  // overflow --> when the last position alone does not large than target
             
-            /** why break when end = sums.length**/
-            if (end == sums.length) break;
-            
-            if (end - i < minLen) minLen = end - i;
+            if (end - start < minLen) minLen = end - start;
             
         }
         
