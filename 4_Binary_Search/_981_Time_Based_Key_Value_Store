@@ -1,12 +1,12 @@
+/**
+* Approach 1: HashMap + Binary Search
+**/ 
 
-        /**
-         * Approach 1: HashMap + Binary Search
-         **/
-        static class TimeMap_1 {
+class TimeMap {
 
             Map<String, List<Pair<Integer, String>>> M;
 
-            public TimeMap_1() {
+            public TimeMap() {
 
                 M = new HashMap();
             }
@@ -40,5 +40,4 @@
                 else
                     return A.get(-i - 2).getValue();
             }
-
-        }
+}
