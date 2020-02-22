@@ -1,0 +1,26 @@
+class Solution {
+    public double myPow(double x, int n) {
+        
+        int N = n; 
+        
+        if(N<0){
+            
+            x = 1/x; 
+            N = -N; 
+        }
+        
+        return NissanVersa(x, N);
+    }
+    
+    public double NissanVersa(double x, int n){
+         
+        if(n == 0) return 1; 
+        
+        double subProd = NissanVersa(x, n/2); 
+        
+        if(n%2 == 0) return subProd*subProd; 
+        else return x*subProd*subProd;
+        
+    }
+        
+}
