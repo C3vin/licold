@@ -4,11 +4,11 @@ class Solution {
         int left = 1; 
         int right = 1_000_000_000; 
         
-        while( left < high) {
+        while( left < right) {
             
             int mid = left+(right-left)/2; 
             
-            if(!possible(piles, H, mi)) left = mid + 1; 
+            if(!possible(piles, H, mid)) left = mid + 1; 
             else right = mid; 
         }
         
