@@ -1,0 +1,110 @@
+class Solution {
+    
+    int[][] distance = {{1,0},{-1,0},{0,1},{0,-1}};
+    
+    public int numIslands(char[][] grid) {
+        
+        /** 1. 边界条件 **/
+        if (grid == null || grid.length == 0 || grid[0].length == 0)  {
+            return 0;  
+        }
+        
+        /** 2. 制造并查集 **/
+        UnionFind uf = new UnionFind(grid);  
+        
+        /** 3. 拿到长和高 **/
+        int rows = grid.length;  
+        int cols = grid[0].length; 
+        
+        /** 4. 检查每一个元素 **/
+        for (int i = 0; i < rows; i++) {  
+            for (int j = 0; j < cols; j++) {  
+                
+                /** 4.1 如果是1就开始战斗 **/
+                if (grid[i][j] == '1') {  
+
+                        /** 4.1.1 四个方向走一下 **/
+                        for (int[] d : distance) {
+
+                            int x = i + d[0];
+                            int y = j + d[1];
+
+                            /** 如果碰到一，就合并 **/
+                            if (x >= 0 && x < rows && y >= 0 && y < cols && grid[x][y] == '1') {
+
+                                int id1 = i*cols+j; /** 原先的点 **/
+                                int id2 = x*cols+y; /** 新方向的点 **/
+
+                                uf.union(id1, id2);  /** 合并，把id2并进去 **/
+                            }  
+                        }  
+                }  
+            }  
+        }  
+        
+        return uf.count;  
+    }
+    
+    
+    /** The template of UnionFind **/
+    class UnionFind {
+        
+        int[] father;  /** 制造爸爸 **/
+        
+        int m, n;  /** 定义宽高 **/
+        
+        int count = 0;  /** 结果数目 **/
+        
+        UnionFind(char[][] grid) {  
+            
+            m = grid.length;  
+            
+            n = grid[0].length;  
+            
+            father = new int[m*n];  
+            
+            for (int i = 0; i < m; i++) {  
+                for (int j = 0; j < n; j++) {  
+                    
+                    /** 把每一个1，变成爸爸里面的仔 **/
+                    if (grid[i][j] == '1') {
+                    
+                        int id = i * n + j;
+                        
+                        father[id] = id;
+                        
+                        count++;
+                    }
+                }  
+            }  
+        }
+
+        /** 合并 **/
+        public void union(int node1, int node2) {  
+            
+            int find1 = find(node1);
+            
+            int find2 = find(node2);
+            
+            if(find1 != find2) {
+                
+                father[find1] = find2;
+                
+                count--;
+            }
+        }
+        
+        /** 找到仔 **/
+        public int find (int node) {  
+            
+            if (father[node] == node) {  
+                return node;
+            }
+            
+            father[node] = find(father[node]);  
+            
+            return father[node];
+        }
+    } 
+    
+}
