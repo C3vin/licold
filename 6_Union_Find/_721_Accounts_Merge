@@ -1,48 +1,94 @@
 class Solution {
+    
     public List<List<String>> accountsMerge(List<List<String>> accounts) {
+        
         DSU dsu = new DSU();
+        
         Map<String, String> emailToName = new HashMap();
         Map<String, Integer> emailToID = new HashMap();
+        
         int id = 0;
+        
+        /** 对电邮，进行合并 **/
         for (List<String> account: accounts) {
+            
+            /** 初始化name。如果name有值，就不再赋值 **/
             String name = "";
+            
+            /** 对每一个元素扫描 **/
             for (String email: account) {
+                
                 if (name == "") {
+                    
                     name = email;
                     continue;
                 }
+                
+                /** 电邮 - 名字 **/
                 emailToName.put(email, name);
+                
+                /** 电邮 - ID **/
                 if (!emailToID.containsKey(email)) {
+                    
                     emailToID.put(email, id++);
+                    
                 }
-                dsu.union(emailToID.get(account.get(1)), emailToID.get(email));
+                
+                                           /** 把第1个电邮 的ID 当根节点。永远都有1个电邮，可能第2个就没有了 **/
+                dsu.union( emailToID.get(  account.get(1) ),                                                emailToID.get(email));
             }
+            
         }
-
+        
+        /** 制造答案集 **/
         Map<Integer, List<String>> ans = new HashMap();
+        
+        /** 拿出所有电邮 **/
         for (String email: emailToName.keySet()) {
+            
+            /** 找到电邮的根节点 **/
             int index = dsu.find(emailToID.get(email));
-            ans.computeIfAbsent(index, x-> new ArrayList()).add(email);
+            
+            /** 汇总同样根节点的电邮 **/
+            ans.computeIfAbsent(  index, X -> new ArrayList()  ).add(email);
         }
+        
+        /** 拿出每一组电邮，然后排序，然后把名字加上去。 **/
         for (List<String> component: ans.values()) {
+            
             Collections.sort(component);
-            component.add(0, emailToName.get(component.get(0)));
+            
+            component.add(0, emailToName.get(component.get(0))); /** 每一组至少有一个电邮 **/
         }
+        
         return new ArrayList(ans.values());
     }
 }
-class DSU {
+
+
+class DSU {  // Disjoint Set Union (DSU) structure 
+    
     int[] parent;
+    
     public DSU() {
+        
         parent = new int[10001];
-        for (int i = 0; i <= 10000; ++i)
-            parent[i] = i;
+        for (int i = 0; i <= 10000; ++i) parent[i] = i;
+        
     }
+    
     public int find(int x) {
+        
         if (parent[x] != x) parent[x] = find(parent[x]);
+        
         return parent[x];
     }
+    
     public void union(int x, int y) {
+        
         parent[find(x)] = find(y);
+        
     }
+    
+    
 }
