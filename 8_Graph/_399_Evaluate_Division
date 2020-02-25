@@ -1,0 +1,79 @@
+class Solution {
+     
+        /** 定义全局变量 **/
+        class GraphNode {
+                                        String den;
+                                        double val;
+
+                                        GraphNode(String den, double val) {
+                                            this.den = den;
+                                            this.val = val;
+                                        }
+        }
+
+        /** 制造map，值是graph node **/
+        HashMap<String, List<GraphNode>> map;
+ 
+        public double[] calcEquation(List<List<String>> equations, double[] values, List<List<String>> queries) {
+
+            map = new HashMap<>();
+
+            /** 把每个字母，变成一个node **/
+            for (int i = 0; i < equations.size(); i++) {
+ 
+                    List<String> equation = equations.get(i);
+                     
+                    /** 看 map 是否存在分子 **/
+                    if (!map.containsKey(equation.get(0)))       map.put(equation.get(0), new ArrayList<>());
+                
+                    /** map 加正路徑  **/
+                    map.get(equation.get(0)).add( new GraphNode(equation.get(1), values[i]) );
+
+                    /** 看 map 是否存在分母 **/
+                    if (!map.containsKey(equation.get(1)))  map.put(equation.get(1), new ArrayList<>());
+                
+                    /** map 加反路徑  **/
+                    map.get(equation.get(1)).add(new GraphNode(equation.get(0), 1/values[i]));
+            }
+
+            /** 按照queries大小，来制作答案 **/
+            double[] res = new double[queries.size()];
+
+            /** cook up 答案 **/
+            for (int i=0; i < res.length; i++) {
+
+                               /** start **/          /** end **/               /** visited **/   
+                res[i] = find( queries.get(i).get(0), queries.get(i).get(1), 1, new HashSet<>() );
+            }
+
+            return res;
+        }
+
+        private double find( String start,     String end,       double value,       HashSet<String> visited )    {
+
+            if (visited.contains(start)) return -1; /* 以免死循環 **/
+            
+            if (!map.containsKey(start)) return -1; /** 如果不存在 start, 就返回 -1 **/
+            
+            if (!map.containsKey(end)) return -1; /** 如果不存在 end, 就返回 -1  --> 这一行没有也行，但是，会消耗不必要的 run time **/
+ 
+            if (start.equals(end)) return value;
+
+            visited.add(start);
+ 
+            for (GraphNode next : map.get(start)) {
+
+                                                 /** 乘上next.val **/   
+                double sub = find(next.den, end, value*next.val,        visited);
+
+                if (sub != -1.0) return sub;
+
+            }
+
+            /** 如果没有找到答案，就backtrack **/
+            visited.remove(start);
+            
+            return -1;
+        }
+ 
+}
