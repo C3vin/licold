@@ -17,27 +17,27 @@ class Solution {
                                                                     /** 给单词上编号 **/   
                             if (!index.containsKey(p))       index.put(p, count++);
                     }
-                }
+                 
     
                 /** 合并 */
                 dsu.union( index.get( pair.get(0) ), index.get( pair.get(1) ) );
 
-            }
+           }
 
             /** 扫描 words 1 **/
             for (int i = 0; i < words1.length; ++i) {
                 
                 String w1 = words1[i], w2 = words2[i];
                 
-                if (w1.equals(w2)) continue;
+                if ( w1.equals(w2) ) continue;
                 
                 if (
-                    !index.containsKey(w1) || 
-                    !index.containsKey(w2) || 
-                    dsu.find(  index.get(w1)  ) != dsu.find(  index.get(w2)  )
+                    !index.containsKey(w1) ||   !index.containsKey(w2) ||  dsu.find(  index.get(w1)  ) != dsu.find(  index.get(w2)  )
                    )
                     return false;
             }
+    
+    
     
             return true;
         }
