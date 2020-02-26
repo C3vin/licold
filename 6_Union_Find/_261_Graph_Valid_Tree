@@ -1,53 +1,32 @@
 public class Solution {
+    
     public boolean validTree(int n, int[][] edges) {
-        UnionFind set = new UnionFind(n);
-        for(int[] edge: edges) {
-            if(set.find(edge[0], edge[1])) return false;    // cycle check
-            set.union(edge[0], edge[1]);
+        
+        // initialize n isolated islands
+        int[] nums = new int[n];
+        Arrays.fill(nums, -1);
+        
+        // perform union find
+        for (int i = 0; i < edges.length; i++) {
+            
+            int x = find(nums, edges[i][0]);
+            int y = find(nums, edges[i][1]);
+            
+            // if two vertices happen to be in the same set
+            // then there's a cycle
+            if (x == y) return false;
+            
+            // union
+            nums[x] = y;
         }
-        return set.size() == 1;                             // single tree check
+        
+        return edges.length == n - 1;
     }
     
-    class UnionFind {
-        private int[] id, size;
-        private int count;
+    int find(int nums[], int i) {
         
-        public UnionFind(int len) {
-            id = new int[len];
-            size = new int[len];
-            for(int i = 0; i < len; i++) {
-                id[i] = i;
-                size[i] = 1;
-            }
-            count = len;
-        }
+        if (nums[i] == -1) return i;
         
-        public int size() {
-            return count;
-        }
-        
-        private int root(int i) {
-            while(i != id[i]) {
-                id[i] = id[id[i]];
-                i = id[i];
-            }
-            return i;
-        }
-        
-        public boolean find(int p, int q) {
-            return root(p) == root(q);
-        }
-        
-        public void union(int p, int q) {
-            int pi = root(p), qi = root(q);
-            if(size[pi] < size[qi]) {
-                id[pi] = qi;
-                size[qi] += size[pi];
-            } else {
-                id[qi] = pi;
-                size[pi] += size[qi];
-            }
-            count--;
-        }
+        return find(nums, nums[i]);
     }
 }
