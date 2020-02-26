@@ -1,0 +1,106 @@
+class Solution {
+    
+        private class UnionFind {
+
+            public int[] size;
+            public int[] parent;
+
+            /** 初始化UF **/
+            UnionFind(int count) {
+                
+                size = new int[count];
+                
+                parent = new int[count];
+                
+                for (int i = 0; i < count; i++) {
+                    
+                    size[i] = 1;
+                    parent[i] = i;
+                    
+                }               
+            }
+ 
+            /** 找父母 **/
+            int find(int p) {
+                
+                while (p != parent[p]) p = parent[parent[p]];
+                
+                return p;
+            }
+            
+            /** 注意，这里, Union的方式**/
+            int union(int p, int q) {
+                
+                int P_Root = find(p);
+                int Q_Root = find(q);
+                
+                if (P_Root == Q_Root) return size[P_Root];
+                 
+                /** 为什么要这么去union **/
+                if (size[P_Root] > size[Q_Root]) {
+                    
+                    parent[Q_Root] = P_Root;
+                    
+                    size[P_Root] += 1;        /** 给级别高的加星星 **/
+                    
+                    return size[P_Root];
+                    
+                } else {
+                    
+                    parent[P_Root] = Q_Root;  /** 反过来，还是给级别高的加星**/
+                    
+                    size[Q_Root] += 1;
+                    
+                    return size[Q_Root];
+                }
+
+            }
+        }
+
+        public String smallestStringWithSwaps(String s, List<List<Integer>> swaps) {
+            
+            /** 获得string的长度 **/
+            int N = s.length();
+
+            /** 建立UF **/
+            UnionFind uf = new UnionFind(N);
+            
+            /** 合并swaps里面的配对 **/
+            for (List<Integer> swap : swaps) {
+                uf.union(swap.get(0), swap.get(1));
+            }
+            
+            /** 建立 graph **/
+            Map<Integer, List<Character>> graphs = new HashMap<>();
+            
+            
+            /** 给每一个head,制造集合，并加入当前的字符 **/
+            for (int i = 0; i < N; i++) {
+                
+                int head = uf.find(i);
+                
+                List<Character> characters = graphs.computeIfAbsent( head, (dummy) -> new ArrayList<>() );
+                
+                /** 意思就是说，这个位置可以有多少个选择可以被Head调换 **/
+                characters.add(s.charAt(i));
+            }
+            
+            /** 对每一个集合里面的内容，排序 **/
+            for (List<Character> characters : graphs.values())   Collections.sort(characters);
+             
+            StringBuilder sb = new StringBuilder(N);
+            
+            /** 每一个字母所代表的集合 **/
+            for (int i = 0; i < N; i++) {
+                
+                List<Character> characters = graphs.get(uf.find(i));
+                
+                /** 每次拿最前面的字母，并删去这个已经被使用过的字母 **/
+                char currentMin = characters.remove(0);
+                
+                sb.append(currentMin);
+            }
+               
+            return sb.toString();
+        }
+}
