@@ -22,7 +22,7 @@ class MyHashMap {
         int idx(int key) { return key % nodes.length;}        
  
         /* 4. find  (CORE FUNCTION)           this is the original key, 从左往右找，从最原始的array上面的点开始找 */
-        ListNode find(ListNode bucket, int key) {
+        ListNode find(int key, ListNode bucket) {
          
             ListNode prev = null;
                                          /* once the key is not matching */
@@ -46,7 +46,7 @@ class MyHashMap {
             if (nodes[i] == null) nodes[i] = new ListNode(-1, -1);
             
             
-            ListNode prev = find(nodes[i], key);
+            ListNode prev = find(key,nodes[i]);
             
             /* 找到最后一个元素，然后加上新的node */
             if (prev.next == null) prev.next = new ListNode(key, value);
@@ -63,7 +63,7 @@ class MyHashMap {
             if (nodes[i] == null) return -1;
             
             /* try to find the matching key*/
-            ListNode node = find(nodes[i], key);
+            ListNode node = find(key, nodes[i]);
             
                                       /* 找不到，就返回-1；找到 */   
             return node.next == null ? -1 : node.next.val;
@@ -76,7 +76,7 @@ class MyHashMap {
             
             if (nodes[i] == null) return;
             
-            ListNode prev = find(nodes[i], key);
+            ListNode prev = find(key,nodes[i]);
             
             if (prev.next == null) return;
             
