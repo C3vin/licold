@@ -1,0 +1,88 @@
+class MyHashMap {
+    
+        /* 1. create ListNode structure  */
+        class ListNode {
+
+            int key;
+            int val;
+
+            ListNode next;
+
+            ListNode(int key, int val) {
+                
+                this.key = key;
+                this.val = val;
+            }
+        }
+        
+        /* 2. create a ListNode array */
+        final ListNode[] nodes = new ListNode[10000];
+
+        /* 3. get the MOD key --> PLEASE PAY ATTENTION: Integer.hashcode(int) just return int --> now change! */
+        int idx(int key) { return key % nodes.length;}        
+ 
+        /* 4. find  (CORE FUNCTION)           this is the original key, 从左往右找，从最原始的array上面的点开始找 */
+        ListNode find(ListNode bucket, int key) {
+         
+            ListNode prev = null;
+                                         /* once the key is not matching */
+            while (bucket != null && bucket.key != key) { /* loop until find the key. Find from the last element on the chain */
+                /* move forward */
+                prev = bucket;
+                bucket = bucket.next;
+            }
+            
+            /* if you find a match, the previous one should be pre. */
+            
+            return prev;
+        }
+ 
+        /* 5. put method */    
+        public void put(int key, int value) {
+            
+            int i = idx(key);
+            
+            /* if this position is null, give it a ListNode */
+            if (nodes[i] == null) nodes[i] = new ListNode(-1, -1);
+            
+            
+            ListNode prev = find(nodes[i], key);
+            
+            /* 找到最后一个元素，然后加上新的node */
+            if (prev.next == null) prev.next = new ListNode(key, value);
+            
+            /* 或者，不是最后一个，但可以更新*/
+            else prev.next.val = value;
+        }
+
+        /* get */
+        public int get(int key) {
+            
+            int i = idx(key);
+            
+            if (nodes[i] == null) return -1;
+            
+            /* try to find the matching key*/
+            ListNode node = find(nodes[i], key);
+            
+                                      /* 找不到，就返回-1；找到 */   
+            return node.next == null ? -1 : node.next.val;
+        }
+
+        /* move */
+        public void remove(int key) {
+            
+            int i = idx(key);
+            
+            if (nodes[i] == null) return;
+            
+            ListNode prev = find(nodes[i], key);
+            
+            if (prev.next == null) return;
+            
+            /* remove */
+            prev.next = prev.next.next;
+        }
+
+
+}
