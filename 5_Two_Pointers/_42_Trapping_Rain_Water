@@ -1,5 +1,5 @@
 class Solution {
-
+    
     public int trap(int[] height) {
 
             /** 边界条件 */
@@ -15,6 +15,7 @@ class Solution {
             while(i<j) {
 
                     /** 每次都更新一下，左右最高点 left_Max & right_Max --> 左右指针会往中间压缩 */
+                
                     L_Max = Math.max(L_Max, height[i]);
 
                     R_Max = Math.max(R_Max, height[j]);
