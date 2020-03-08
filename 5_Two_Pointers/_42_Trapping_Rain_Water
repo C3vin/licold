@@ -1,4 +1,6 @@
-public int trap(int[] height) {
+class Solution {
+
+    public int trap(int[] height) {
 
             /** 边界条件 */
             if(height == null || height.length < 3) return 0;
@@ -24,3 +26,4 @@ public int trap(int[] height) {
             }
             return M;
         }
+}
