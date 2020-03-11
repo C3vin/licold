@@ -1,0 +1,61 @@
+class Solution {
+    
+    
+        int count = 0;
+
+        public int countUnivalSubtrees(TreeNode root) {
+
+            if (root == null) return 0;
+
+            is_uni(root);
+
+            return count;
+        }
+
+        /** 主函數 **/
+        boolean is_uni(TreeNode node) {
+
+            /** 1. 如果兩邊都是空，那麼這個節點，自己算一個 **/
+            //base case - if the node has no children this is a univalue subtree
+            if (node.left == null && node.right == null) {
+
+                // found a univalue subtree - increment
+                count++;
+                return true;
+            }
+
+            /** 2. 製造參數    "is_unival"      **/
+            boolean is_unival = true;
+
+            /** check if all of the node's children are univalue subtrees and if they have the same value also recursively call is_uni for children */
+
+            /** 3. 檢查左邊  **/
+            if (node.left != null) {
+                is_unival = is_uni(node.left) /**  **/ && is_unival /** 是否本身是True **/ && node.left.val == node.val /** 是否左節點，等於根節點 **/;
+            }
+
+            /** 3. 檢查右邊  **/
+            if (node.right != null) {
+                is_unival = is_uni(node.right) && is_unival && node.right.val == node.val;
+            }
+
+            /** 4. 返回錯誤  **/
+            // return if a univalue tree exists here and increment if it does
+            if (!is_unival) return false;
+
+            /** 5. 返回加一 **/
+            count++;
+
+            return true;
+        }
+}
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
