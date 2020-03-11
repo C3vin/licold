@@ -1,0 +1,77 @@
+class Solution {
+     
+        List<Integer> ans;
+        TreeNode target;
+
+        int K;
+
+
+        public List<Integer> distanceK(TreeNode root, TreeNode target, int K) {
+
+            /** 1. 製造答案集 **/
+            ans = new LinkedList();
+
+            /** 2. 初始化 target 和 K  **/
+            this.target = target;
+            this.K = K;
+
+            /** 3. DFS  **/
+            dfs(root);
+
+            return ans;
+        }
+
+        /** 3. DFS  **/
+        public int dfs(TreeNode node) {
+
+            /** 邊界條件 **/
+            if (node == null)
+                return -1;
+            else if (node == target) {
+
+                subtree_add(node, 0);
+
+                return 1;
+
+            } else {
+
+                int L = dfs(node.left), R = dfs(node.right);
+
+                if (L != -1) {
+                    if (L == K) ans.add(node.val);
+                    subtree_add(node.right, L + 1);
+                    return L + 1;
+                } else if (R != -1) {
+                    if (R == K) ans.add(node.val);
+                    subtree_add(node.left, R + 1);
+                    return R + 1;
+                } else {
+                    return -1;
+                }
+            }
+        }
+
+        // Add all nodes 'K - dist' from the node to answer.
+        public void subtree_add(TreeNode node, int dist) {
+
+            if (node == null) return;
+
+            if (dist == K)
+                ans.add(node.val);
+            else {
+                subtree_add(node.left, dist + 1);
+                subtree_add(node.right, dist + 1);
+            }
+        }
+}
+
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
