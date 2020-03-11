@@ -1,0 +1,62 @@
+class Solution {
+     
+        public String countAndSay(int n) {
+
+            /** 1. 初始化 s 為 1  |  第一次工作 **/
+            String s = "1";
+
+            /** 2. 工作 n-1 次   **/
+            for(int i = 1; i < n; i++){
+
+                s = countIdx(s);
+
+            }
+
+            return s;
+        }
+
+        /** 加工廠 **/
+        public String countIdx(String s){
+
+            /** 1. 製造  sb  **/
+            StringBuilder sb = new StringBuilder();
+
+            /** 2. 拿到首字符   **/
+            char c = s.charAt(0);
+
+            /** 3. 初始化 count **/
+            int count = 1;
+
+            /** 4. 遍歷 s **/
+            for(int i = 1; i < s.length(); i++){
+
+                /** ~1 如果這個跟 c  一樣， 數多一個   **/
+                if(s.charAt(i) == c) count++;
+
+                /** ~2 不然，  **/
+                else
+
+                {
+                    /** 添加 count **/
+                    sb.append(count);
+
+                    /** 添加 c  **/
+                    sb.append(c);
+
+                    /** 更新 c  **/
+                    c = s.charAt(i);
+
+                    /** 每次 reset count **/
+                    count = 1;
+                }
+            }
+
+            /** 5. 添加count  **/
+            sb.append(count);
+
+            /** 6. 添加 c  **/
+            sb.append(c);
+
+            return sb.toString();
+        }
+}
