@@ -1,5 +1,7 @@
 class Solution {
     
+        // what is rolling hash: https://www.youtube.com/watch?v=BfUejqd07yo 
+      
         public List<String> findRepeatedDnaSequences(String s) {
 
                 int L = 10, n = s.length();
