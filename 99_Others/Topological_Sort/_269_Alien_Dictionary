@@ -4,6 +4,19 @@ class Solution {
 
             Map<Character, Set<Character>> graph = constructGraph(words);
 
+            for(int i = 1; i< words.length; i++){
+                
+                String a = words[i-1]; 
+                String b = words[i];
+                
+                if(a.length()>b.length() && a.startsWith(b) ){
+                    
+                    return "";
+                }
+                
+            }
+        
+        
             return topologicalSorting(graph);
         }
 
