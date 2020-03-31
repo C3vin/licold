@@ -1,6 +1,8 @@
 class Solution {
     
-    // 参考视频:  https://youtu.be/pYKGRZwbuzs?t=706  
+    // 参考视频:  https://youtu.be/pYKGRZwbuzs?t=706   
+	
+	// 时间复杂度: https://stackoverflow.com/questions/39519667/whats-the-time-complexity-of-this-recursive-algorithm 
     
     public List<String> wordBreak(String s, List<String> wordDictList) {
         
