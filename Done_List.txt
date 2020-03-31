@@ -1,0 +1,2715 @@
+PS C:\Users\Dior> Get-ChildItem E:\GitHub\licold -Recurse -File | sort -Descending
+
+
+    Directory: E:\GitHub\licold\8_Graph
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              4 test
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              2 test
+
+
+    Directory: E:\GitHub\licold\6_Union_Find
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              5 test
+
+
+    Directory: E:\GitHub\licold\99_Others\Math
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              4 test
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              2 test
+
+
+    Directory: E:\GitHub\licold\0_Algorithm
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              2 test
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2426 Templates
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM             39 sfd
+
+
+    Directory: E:\GitHub\licold
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            224 README.md
+
+
+    Directory: E:\GitHub\licold\99_Others\Bit_Manipulation
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/20/2020  11:19 AM              0 Info.txt
+
+
+    Directory: E:\GitHub\licold\0_Algorithm\2_Medium
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1475 3_Quick_Sort
+
+
+    Directory: E:\GitHub\licold\0_Algorithm\1_Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            510 3_Insertion_Sort
+
+
+    Directory: E:\GitHub\licold
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/28/2020  10:36 AM          30911 2020 leetcode SQL - Answer.docx
+
+
+    Directory: E:\GitHub\licold\0_Algorithm\1_Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            576 2_Selection_Sort
+
+
+    Directory: E:\GitHub\licold\0_Algorithm\2_Medium
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1266 2_Heap_Sort
+-a----        3/18/2020  12:05 PM           1038 1_Merge_Sort
+
+
+    Directory: E:\GitHub\licold\0_Algorithm\1_Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            655 1_Bubble_Sort
+
+
+    Directory: E:\GitHub\licold\15_Tree\4_BST
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              0 1 copy 6
+
+
+    Directory: E:\GitHub\licold\1_BFS\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1638 1 copy 6
+
+
+    Directory: E:\GitHub\licold\15_Tree\4_BST
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              0 1 copy 5
+-a----        3/18/2020  12:05 PM              0 1 copy 4
+
+
+    Directory: E:\GitHub\licold\15_Tree\2_Construct_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              0 1 3 copy 9
+-a----        3/18/2020  12:05 PM              0 1 3 copy 8
+-a----        3/18/2020  12:05 PM              0 1 3 copy 7
+-a----        3/18/2020  12:05 PM              0 1 3 copy 6
+-a----        3/18/2020  12:05 PM              0 1 3 copy 5
+-a----        3/18/2020  12:05 PM              0 1 3 copy 4
+-a----        3/18/2020  12:05 PM              0 1 3 copy 13
+-a----        3/18/2020  12:05 PM              0 1 3 copy 12
+-a----        3/18/2020  12:05 PM              0 1 3 copy 11
+-a----        3/18/2020  12:05 PM              0 1 3 copy 10
+
+
+    Directory: E:\GitHub\licold\15_Tree\1_Tree_Traverse
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              0 1 2 copy 9
+
+
+    Directory: E:\GitHub\licold\15_Tree\3_Tree_Path
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              0 1 2 copy 9
+-a----        3/18/2020  12:05 PM              0 1 2 copy 8
+
+
+    Directory: E:\GitHub\licold\15_Tree\1_Tree_Traverse
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              0 1 2 copy 8
+
+
+    Directory: E:\GitHub\licold\15_Tree\3_Tree_Path
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              0 1 2 copy 7
+
+
+    Directory: E:\GitHub\licold\15_Tree\1_Tree_Traverse
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              0 1 2 copy 7
+-a----        3/18/2020  12:05 PM              0 1 2 copy 6
+
+
+    Directory: E:\GitHub\licold\15_Tree\3_Tree_Path
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              0 1 2 copy 6
+
+
+    Directory: E:\GitHub\licold\15_Tree\1_Tree_Traverse
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              0 1 2 copy 5
+-a----        3/18/2020  12:05 PM              0 1 2 copy 4
+-a----        3/18/2020  12:05 PM              0 1 2 copy 3
+-a----        3/18/2020  12:05 PM              0 1 2 copy 2
+-a----        3/18/2020  12:05 PM              0 1 2 copy 15
+-a----        3/18/2020  12:05 PM              0 1 2 copy 14
+-a----        3/18/2020  12:05 PM              0 1 2 copy 13
+-a----        3/18/2020  12:05 PM              0 1 2 copy 12
+-a----        3/18/2020  12:05 PM              0 1 2 copy 11
+-a----        3/18/2020  12:05 PM              0 1 2 copy 10
+
+
+    Directory: E:\GitHub\licold\15_Tree\3_Tree_Path
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              0 1 2 copy 10
+
+
+    Directory: E:\GitHub\licold\15_Tree\1_Tree_Traverse
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM              0 1 2 copy
+
+
+    Directory: E:\GitHub\licold\1_BFS\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1638 _994_Rotting_Oranges
+-a----        3/18/2020  12:05 PM           1391 _993_Cousins_in_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\15_Tree\1_Tree_Traverse
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2217 _987_Vertical_Order_Traversal_of_a_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1191 _981_Time_Based_Key_Value_Store
+
+
+    Directory: E:\GitHub\licold\15_Tree\4_BST
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            502 _96_Unique_Binary_Search_Trees
+
+
+    Directory: E:\GitHub\licold\6_Union_Find
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1657 _959_Regions_Cut_By_Slashes
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1251 _958_Check_Completeness_of_a_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1586 _957_Prison_Cells_After_N_Days
+-a----        3/18/2020  12:05 PM            910 _953_Verifying_an_Alien_Dictionary
+
+
+    Directory: E:\GitHub\licold\15_Tree\4_BST
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1205 _95_Unique_Binary_Search_Trees_II
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1186 _947_Most_Stones_Removed_with_Same_Row_or_Column
+
+
+    Directory: E:\GitHub\licold\6_Union_Find
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            842 _947_ Most_Stones_Removed_with_Same_Row_or_Column
+
+
+    Directory: E:\GitHub\licold\15_Tree\1_Tree_Traverse
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1377 _94_Binary_Tree_Inorder_Traversal
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2069 _934_Shortest_Bridge
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1991 _93_Restore_IP_Addresses
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2022 _92_Reverse_Linked_List_II
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2479 _909_Snakes_and_Ladders
+
+
+    Directory: E:\GitHub\licold\2_DFS\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            856 _897_Increasing_Order_Search_Tree
+
+
+    Directory: E:\GitHub\licold\15_Tree\2_Construct_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            935 _889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal
+
+
+    Directory: E:\GitHub\licold\5_Two_Pointers
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/19/2020   5:52 PM            838 _88_Merge_Sorted_Array
+
+
+    Directory: E:\GitHub\licold\3_LinkedList\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            592 _876_Middle_of_the_Linked_List
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            996 _875_Koko_Eating_Bananas_
+
+
+    Directory: E:\GitHub\licold\2_DFS\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            874 _872_Leaf_Similar_Trees
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1851 _863_All_Nodes_Distance_K_in_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\8_Graph
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           3824 _863_All_Nodes_Distance_K_in_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           3804 _863_All_Nodes_Distance_K_in_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1292 _86_Partition_List
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            455 _852_Peak_Index_in_a_Mountain_Array
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            396 _852_Peak_Index_in_a_Mountain_Array
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/19/2020   5:34 PM           2057 _85_Maximal_Rectangle
+
+
+    Directory: E:\GitHub\licold\99_Others\Monotonic_Stack
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1614 _84_Largest_Rectangle_in_Histogram
+
+
+    Directory: E:\GitHub\licold\3_LinkedList\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            573 _83_Remove_Duplicates_from_Sorted_List
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            468 _82_Remove_Duplicates_from_Sorted_List_II
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1136 _811_Subdomain_Visit_Count
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1045 _81_Search_in_Rotated_Sorted_Array_II
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1961 _79_Word_Search
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1228 _787_Cheapest_Flights_Within_K_Stops
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1766 _787_Cheapest_Flights_Within_K_Stops
+-a----        3/18/2020  12:05 PM           1379 _785_Is_Graph_Bipartite
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1381 _785_Is_Graph_Bipartite
+
+
+    Directory: E:\GitHub\licold\99_Others\Bit_Manipulation
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/20/2020   2:03 PM            869 _78_Subsets
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            923 _78_Subsets
+-a----        3/18/2020  12:05 PM            878 _77_Combinations
+
+
+    Directory: E:\GitHub\licold\99_Others\Greedy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2331 _767_Reorganize_String
+
+
+    Directory: E:\GitHub\licold\5_Two_Pointers
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/19/2020   5:00 PM           3864 _76_Minimum_Window_Substring
+
+
+    Directory: E:\GitHub\licold\22_Array
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/19/2020   1:53 PM            732 _75_Sort_Colors
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1798 _743_Network_Delay_Time
+
+
+    Directory: E:\GitHub\licold\99_Others
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1984 _743_Network_Delay_Time
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            772 _74_Search_a_2D_Matrix
+
+
+    Directory: E:\GitHub\licold\99_Others\Monotonic_Stack
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            642 _739_Daily_Temperatures
+
+
+    Directory: E:\GitHub\licold\6_Union_Find
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1897 _737_Sentence_Similarity_II
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            677 _733_Flood_Fill
+
+
+    Directory: E:\GitHub\licold\6_Union_Find
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2800 _721_Accounts_Merge
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1686 _721_Accounts_Merge
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            923 _718_Maximum_Length_of_Repeated_Subarray
+
+
+    Directory: E:\GitHub\licold\21_Stack
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/19/2020   1:36 PM            904 _71_Simplify_Path
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2210 _708_Insert_into_a_Sorted_Circular_Linked_List
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2774 _706_Design_HashMap
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1243 _705_Design_HashSet
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/19/2020  12:34 PM            421 _70_Climbing_Stairs
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            750 _695_Max_Area_of_Island
+-a----        3/18/2020  12:05 PM           1269 _694_Number_of_Distinct_Islands
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1097 _692_Top_K_Frequent_Words
+
+
+    Directory: E:\GitHub\licold\2_DFS\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            883 _690_Employee_Importance
+
+
+    Directory: E:\GitHub\licold\1_BFS\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            887 _690_Employee_Importance
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            437 _69_Sqrt_x
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/19/2020  12:23 PM            484 _69_Sqrt
+
+
+    Directory: E:\GitHub\licold\6_Union_Find
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1562 _684_Redundant_Connection
+
+
+    Directory: E:\GitHub\licold\17_String
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/19/2020  12:00 PM           2924 _68_Text_Justification
+
+
+    Directory: E:\GitHub\licold\22_Array\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020   6:39 PM            592 _66_Plus_One
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1143 _658_Find_K_Closest_Elements
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020   6:32 PM           1223 _64_Minimum_Path_Sum
+-a----        3/18/2020   5:47 PM           1285 _63_Unique_Paths_II
+-a----        3/18/2020   5:30 PM            434 _62_Unique_Paths
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            957 _61_Rotate_List
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1536 _609_Find_Duplicate_File_in_System
+
+
+    Directory: E:\GitHub\licold\17_String
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            997 _6_ZigZag_Conversion
+
+
+    Directory: E:\GitHub\licold\22_Array
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020   5:09 PM           1262 _59_Spiral_Matrix_II
+
+
+    Directory: E:\GitHub\licold\15_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1005 _572_Subtree_of_Another_Tree
+
+
+    Directory: E:\GitHub\licold\22_Array\Intervals
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:56 PM           1010 _56_Merge_Intervals
+
+
+    Directory: E:\GitHub\licold\2_DFS\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            845 _559_Maximum_Depth_of_N-ary_Tree
+
+
+    Directory: E:\GitHub\licold\1_BFS\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            792 _559_Maximum_Depth_of_N_ary_Tree
+
+
+    Directory: E:\GitHub\licold\99_Others\Greedy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            567 _55_Jump_Game
+
+
+    Directory: E:\GitHub\licold\22_Array
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            533 _55_Jump_Game
+
+
+    Directory: E:\GitHub\licold\6_Union_Find
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1194 _547_Friend_Circles
+
+
+    Directory: E:\GitHub\licold\15_Tree\3_Tree_Path
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1152 _543_Diameter_of_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1828 _542_01_Matrix
+
+
+    Directory: E:\GitHub\licold\22_Array
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020   3:47 PM           1089 _54_Spiral_Matrix
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1039 _535_Encode_and_Decode_TinyURL
+
+
+    Directory: E:\GitHub\licold\99_Others\Recursion
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1074 _53_Maximum_Subarray
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1957 _529_Minesweeper
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            790 _528_Random_Pick_with_Weight
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1083 _526_Beautiful_Arrangement
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            841 _525_Contiguous_Array
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1860 _505_The_Maze_II
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1858 _505_The_Maze_II
+
+
+    Directory: E:\GitHub\licold\99_Others\Math
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            290 _50_Pow
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1681 _5_Longest_Palindromic_Substring
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1600 _494_Target_Sum
+-a----        3/18/2020  12:05 PM           1573 _490_The_Maze
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1571 _490_The_Maze
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            722 _49_Group_Anagrams
+
+
+    Directory: E:\GitHub\licold\22_Array
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1439 _48_Rotate_Image
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1578 _47_Permutations_II
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            739 _463_Island_Perimeter
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2235 _46_Permutations
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1360 _445_Add_Two_Numbers_II
+
+
+    Directory: E:\GitHub\licold\5_Two_Pointers
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1599 _438_Find_All_Anagrams_in_a_String
+
+
+    Directory: E:\GitHub\licold\15_Tree\3_Tree_Path
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1171 _437_Path_Sum_III
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            928 _430_Flatten_a_Multilevel_Doubly_Linked_List
+
+
+    Directory: E:\GitHub\licold\99_Others\Math
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1329 _43_Multiply_Strings
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1224 _426_Convert_Binary_Search_Tree_to_Sorted_Doubly_Linked_List
+
+
+    Directory: E:\GitHub\licold\5_Two_Pointers
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            896 _42_Trapping_Rain_Water
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2028 _417_Pacific_Atlantic_Water_Flow
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2030 _417_Pacific_Atlantic_Water_Flow
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            730 _409_Longest_Palindrome
+
+
+    Directory: E:\GitHub\licold\99_Others\Monotonic_Stack
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1306 _402_Remove_K_Digits
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1091 _40_Combination_Sum_II
+
+
+    Directory: E:\GitHub\licold\8_Graph
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           3041 _399_Evaluate_Division
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1134 _39_Combination_Sum
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            342 _387_First_Unique_Character_in_a_String
+
+
+    Directory: E:\GitHub\licold\17_String
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1473 _38_Count_and_Say
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1460 _379_Design_Phone_Directory
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1097 _378_Kth_Smallest_Element_in_a Sorted_Matrix
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            864 _369_Plus_One_Linked_List
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            866 _366_Find_Leaves_of_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2818 _36_Valid_Sudoku
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            547 _359_Logger_Rate_Limiter
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2328 _351_Android_Unlock_Patterns
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1059 _350_Intersection_of_Two_Arrays_II
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            462 _35_Search_Insert_Position
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            791 _349_Intersection_of_Two_Arrays
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1197 _349_Intersection_of_Two_Arrays
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            846 _347_Top_K_Frequent_Elements
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1309 _34_Find_First_and_Last_Position_of_Element_in_Sorted_Array
+
+
+    Directory: E:\GitHub\licold\15_Tree\4_BST
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/29/2020   5:57 PM           1875 _333_Largest_BST_Subtree
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/29/2020   4:31 PM            819 _332_Reconstruct_Itinerary
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1107 _33_Search_in_Rotated_Sorted_Array
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            720 _328_Odd_Even_Linked_List
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/29/2020   4:09 PM            891 _325_Maximum_Size_Subarray_Sum_Equals_k
+
+
+    Directory: E:\GitHub\licold\22_Array
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/29/2020   4:21 PM            564 _324_Wiggle_Sort_II
+
+
+    Directory: E:\GitHub\licold\6_Union_Find
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/29/2020   3:30 PM           1053 _323_Number_of_Connected_Components_in_an_Undirected_Graph
+
+
+    Directory: E:\GitHub\licold\21_Stack
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1011 _32_Longest_Valid_Parentheses
+
+
+    Directory: E:\GitHub\licold\99_Others\Math
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/29/2020   3:12 PM            265 _319_Bulb_Switcher
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2489 _314_Binary_Tree_Vertical_Order_Traversal
+
+
+    Directory: E:\GitHub\licold\15_Tree\1_Tree_Traverse
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2487 _314_Binary_Tree_Vertical_Order_Traversal
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/29/2020   1:06 PM           1551 _312_Burst_Balloons
+
+
+    Directory: E:\GitHub\licold\99_Others\Math
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/29/2020  10:55 AM            649 _311_Sparse_Matrix_Multiplication
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/29/2020   9:54 AM           1142 _309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown
+-a----        3/29/2020   9:24 AM           1641 _304_Range_Sum_Query_2D_Immutable
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           3418 _301_Remove_Invalid_Parentheses
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           3668 _300_Longest_Increasing_Subsequence
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            503 _3_Longest_Substring_Without_Repeating_Characters
+
+
+    Directory: E:\GitHub\licold\0_System_Design
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/28/2020   7:58 PM           2219 _297_Serialize_and_Deserialize_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\15_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1284 _297_Serialize_and_Deserialize_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\99_Others\Math
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1648 _29_Divide_Two_Integers
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1592 _287_Find_the_Duplicate_Number
+
+
+    Directory: E:\GitHub\licold\5_Two_Pointers
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            561 _287_Find_the_Duplicate_Number
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1195 _286_Walls_and_Gates
+
+
+    Directory: E:\GitHub\licold\5_Two_Pointers\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/28/2020   7:33 PM            515 _283_Move_Zeroes
+-a----        3/18/2020  12:05 PM            535 _28_Implement_strStr
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            823 _279_Perfect_Squares
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            559 _278_First_Bad_Version
+
+
+    Directory: E:\GitHub\licold\22_Array
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/28/2020   7:00 PM            813 _277_Find_the_Celebrity
+
+
+    Directory: E:\GitHub\licold\0_System_Design
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/28/2020   7:51 PM            912 _271_Encode_and_Decode_Strings
+
+
+    Directory: E:\GitHub\licold\99_Others\Topological_Sort
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/28/2020   8:39 PM           3500 _269_Alien_Dictionary
+
+
+    Directory: E:\GitHub\licold\99_Others\Bit_Manipulation
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/20/2020   2:39 PM            468 _268_Missing_Number
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2443 _265_Paint_House_II
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1888 _261_Graph_Valid_Tree_
+
+
+    Directory: E:\GitHub\licold\6_Union_Find
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            826 _261_Graph_Valid_Tree
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1886 _261_Graph_Valid_Tree
+
+
+    Directory: E:\GitHub\licold\99_Others\Bit_Manipulation
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/28/2020   2:21 PM        1147830 _260_Single_Number_III.pdf
+-a----        3/28/2020   2:17 PM           1117 _260_Single_Number_III
+
+
+    Directory: E:\GitHub\licold\5_Two_Pointers
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            593 _26_Remove_Duplicates_from_Sorted_Array
+
+
+    Directory: E:\GitHub\licold\15_Tree\3_Tree_Path
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            838 _257_Binary_Tree_Paths
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/28/2020  12:16 PM           1039 _256_Paint_House
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1320 _254_Factor_Combinations
+
+
+    Directory: E:\GitHub\licold\22_Array\Intervals
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020   3:31 PM           1100 _253_Meeting_Rooms_II
+-a----        3/18/2020   3:00 PM            440 _252_Meeting_Rooms
+
+
+    Directory: E:\GitHub\licold\0_System_Design
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/28/2020  11:50 AM            835 _251_Flatten_2D_Vector
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1805 _250_Count_Univalue_Subtrees
+
+
+    Directory: E:\GitHub\licold\15_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/28/2020  11:00 AM           1885 _250_Count_Univalue_Subtrees
+
+
+    Directory: E:\GitHub\licold\99_Others\Recursion
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/28/2020  10:51 AM           1077 _247_Strobogrammatic_Number_II
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            759 _246_Strobogrammatic_Number
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1569 _244_Shortest_Word_Distance_II
+
+
+    Directory: E:\GitHub\licold\99_Others\Math
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            462 _242_Valid_Anagram
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020   7:18 PM            460 _242_Valid_Anagram
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020   7:13 PM            993 _240_Search_a_2D_Matrix_II
+
+
+    Directory: E:\GitHub\licold\99_Others
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            690 _240_Search_a_2D_Matrix_II
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            493 _24_Swap_Nodes_in_Pairs
+
+
+    Directory: E:\GitHub\licold\99_Others\Deque
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020   7:06 PM           2033 _239_Sliding_Window_Maximum
+
+
+    Directory: E:\GitHub\licold\15_Tree\4_BST
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            555 _235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree
+
+
+    Directory: E:\GitHub\licold\3_LinkedList\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1553 _234_Palindrome_Linked_List
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020   7:11 PM            930 _230_Kth_Smallest_Element_in_a_BST
+
+
+    Directory: E:\GitHub\licold\15_Tree\4_BST
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            742 _230_Kth_Smallest_Element_in_a_BST
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1592 _23_Merge_k_Sorted_Lists
+
+
+    Directory: E:\GitHub\licold\22_Array
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/26/2020   5:47 PM           1930 _229_Majority_Element_II
+-a----        3/27/2020   2:51 PM            663 _228_Summary_Ranges
+
+
+    Directory: E:\GitHub\licold\21_Stack
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020   2:43 PM           1252 _227_Basic_Calculator_II
+
+
+    Directory: E:\GitHub\licold\15_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            425 _226_Invert_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\0_System_Design
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020   2:33 PM            975 _225_Implement_Stack_using_Queues
+
+
+    Directory: E:\GitHub\licold\21_Stack
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020   2:21 PM           2720 _224_Basic_Calculator
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1927 _222_Count_Complete_Tree_Nodes
+
+
+    Directory: E:\GitHub\licold\15_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2718 _222_Count_Complete_Tree_Nodes
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020   2:14 PM            936 _221_Maximal_Square
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            709 _22_Generate_Parentheses
+-a----        3/27/2020   1:30 PM            843 _216_Combination_Sum_III
+
+
+    Directory: E:\GitHub\licold\99_Others\Heap
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020   1:19 PM            397 _215_Kth_Largest_Element_in_an_Array
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2412 _211_Add_and_Search_Word_Data_structure_design
+
+
+    Directory: E:\GitHub\licold\0_System_Design
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020   1:19 PM           2425 _211_Add_and_Search_Word_Data_structure_design
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2037 _210_Course_Schedule_II
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2037 _210_Course_Schedule_II
+
+
+    Directory: E:\GitHub\licold\3_LinkedList\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            398 _21_Merge_Two_Sorted_Lists
+
+
+    Directory: E:\GitHub\licold\5_Two_Pointers
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            368 _209_Minimum_Size_Subarray_Sum
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2105 _209_Minimum_Size_Subarray_Sum
+
+
+    Directory: E:\GitHub\licold\0_System_Design
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020   1:19 PM           2363 _208_Implement_Trie_Prefix_Tree
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            969 _207_Course_Schedule
+
+
+    Directory: E:\GitHub\licold\99_Others\Topological_Sort
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            971 _207_Course_Schedule
+
+
+    Directory: E:\GitHub\licold\3_LinkedList\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            603 _206_Reverse_Linked_List
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1363 _205_Isomorphic_Strings
+
+
+    Directory: E:\GitHub\licold\99_Others\Math
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2232 _204_Count_Primes
+
+
+    Directory: E:\GitHub\licold\3_LinkedList\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            711 _203_Remove_Linked_List_Elements
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            626 _202_Happy_Number
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1669 _200_Number_of_Islands
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            720 _200_Number_of_Islands
+
+
+    Directory: E:\GitHub\licold\6_Union_Find
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           3149 _200_Number_of_Islands
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            922 _20_Valid_Parentheses
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1096 _2_Add_Two_Numbers
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1551 _199_Binary_Tree_Right_Side_View
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            775 _19_Remove_Nth_Node_From_End_of_List
+
+
+    Directory: E:\GitHub\licold\22_Array
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020  12:04 PM           1479 _189_Rotate_Array
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020  10:39 AM           1928 _187_Repeated_DNA_Sequences
+
+
+    Directory: E:\GitHub\licold\99_Others\Recursion
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           3702 _18_4Sum
+
+
+    Directory: E:\GitHub\licold\17_String
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/26/2020   8:21 PM           1222 _179_Largest_Number
+
+
+    Directory: E:\GitHub\licold\0_System_Design
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/26/2020   7:34 PM           1016 _173_BinarySearchTreeIterator
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1012 _17_Letter_Combinations_of_a_Phone_Number
+
+
+    Directory: E:\GitHub\licold\22_Array
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/26/2020   4:13 PM           1007 _169_Majority_Element
+
+
+    Directory: E:\GitHub\licold\5_Two_Pointers
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/26/2020   3:23 PM            746 _167_Two_Sum_II_Input_array_is_sorted
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1731 _166_Fraction_to_Recurring_Decimal
+
+
+    Directory: E:\GitHub\licold\17_String
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/26/2020   3:13 PM            724 _165_Compare_Version_Numbers
+
+
+    Directory: E:\GitHub\licold\22_Array
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/24/2020   3:25 PM           1049 _163_Missing_Ranges
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            403 _162_Find_Peak_Element
+
+
+    Directory: E:\GitHub\licold\3_LinkedList\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            793 _160_Intersection_of_Two_Linked_Lists
+
+
+    Directory: E:\GitHub\licold\5_Two_Pointers
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1235 _16_3Sum_Closest
+
+
+    Directory: E:\GitHub\licold\0_System_Design
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/20/2020   6:28 PM            658 _155_Min_Stack
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2062 _153_Find_Minimum_in_Rotated_Sorted_Array
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020  10:39 AM            662 _152_Maximum_Product_Subarray
+
+
+    Directory: E:\GitHub\licold\21_Stack
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/20/2020   4:24 PM            888 _150_Evaluate_Reverse_Polish_Notation
+
+
+    Directory: E:\GitHub\licold\5_Two_Pointers
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1749 _15_3Sum
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1714 _148_Sort_List
+
+
+    Directory: E:\GitHub\licold\15_Tree\1_Tree_Traverse
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            587 _145_Binary_Tree_Postorder_Traversal
+-a----        3/18/2020  12:05 PM            588 _144_Binary_Tree_Preorder_Traversal
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1666 _143_Reorder_List
+-a----        3/18/2020  12:05 PM           1433 _142_Linked_List_Cycle_II
+
+
+    Directory: E:\GitHub\licold\3_LinkedList\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            857 _141_Linked_List_Cycle
+
+
+    Directory: E:\GitHub\licold\17_String
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            585 _14_Longest_Common_Prefix
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            855 _138_Copy_List_with_Random_Pointer
+
+
+    Directory: E:\GitHub\licold\99_Others\Bit_Manipulation
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/20/2020   2:40 PM            231 _136_Single_Number
+
+
+    Directory: E:\GitHub\licold\99_Others\Greedy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/20/2020  11:16 AM           1200 _134_Gas_Station
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            561 _133_Clone_Graph
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            563 _133_Clone_Graph
+
+
+    Directory: E:\GitHub\licold\11_Backtracking
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2010 _131_Palindrome_Partitioning_
+
+
+    Directory: E:\GitHub\licold\6_Union_Find
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2517 _130_Surrounded_Regions
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1717 _130_Surrounded_Regions
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1673 _130_Surrounded_Regions
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            745 _1283_Find_the_Smallest_Divisor_Given_a_Threshold
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2074 _127_Word_Ladder
+-a----        3/18/2020  12:05 PM           6657 _126_Word_Ladder_II
+
+
+    Directory: E:\GitHub\licold\5_Two_Pointers
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/20/2020  10:44 AM            813 _125_Valid_Palindrome
+
+
+    Directory: E:\GitHub\licold\15_Tree\3_Tree_Path
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1100 _124_Binary_Tree_Maximum_Path_Sum
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/20/2020  10:41 AM            201 _123_Best_Time_to_Buy_and_Sell_Stock_III
+
+
+    Directory: E:\GitHub\licold\22_Array\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            362 _122_Best_Time_to_Buy_and_Sell_Stock_II
+-a----        3/18/2020  12:05 PM            358 _121_Best_Time_to_Buy_and_Sell_Stock
+
+
+    Directory: E:\GitHub\licold\6_Union_Find
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           3544 _1202_Smallest_String_With_Swaps
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/19/2020   7:24 PM            959 _120_Triangle
+
+
+    Directory: E:\GitHub\licold\99_Others\Math
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            758 _12_Integer_to_Roman
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2406 _1197_Minimum_Knight_Moves
+
+
+    Directory: E:\GitHub\licold\22_Array\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/19/2020   6:58 PM           1195 _118_Pascal_Triangle
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            891 _117_Populating_Next_Right_Pointers_in_Each_Node_II
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1307 _117_Populating_Next_Right_Pointers_in_Each_Node_II
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            773 _116_Populating_Next_Right_Pointers_in_Each_Node
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/26/2020   6:17 PM           1126 _1143_Longest_Common_Subsequence
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1481 _114_Flatten_Binary_Tree_to_Linked_List
+
+
+    Directory: E:\GitHub\licold\15_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1395 _114_Flatten_Binary_Tree_to_Linked_List
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1185 _113_Path_Sum_II
+
+
+    Directory: E:\GitHub\licold\15_Tree\3_Tree_Path
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1183 _113_Path_Sum_II
+-a----        3/18/2020  12:05 PM            531 _112_Path_Sum
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1346 _1110_Delete_Nodes_And_Return_Forest
+
+
+    Directory: E:\GitHub\licold\1_BFS\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            662 _111_Minimum_Depth_of_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\15_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            662 _111_Minimum_Depth_of_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2872 _1102_Path_With_Maximum_Minimum_Value
+
+
+    Directory: E:\GitHub\licold\15_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            474 _110_Balanced_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\15_Tree\2_Construct_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1337 _109_Convert_Sorted_List_to_Binary_Search_Tree
+
+
+    Directory: E:\GitHub\licold\15_Tree\4_BST
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2210 _109_Convert_Sorted_List_to_Binary_Search_Tree
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1411 _1086_High_Five
+
+
+    Directory: E:\GitHub\licold\15_Tree\4_BST
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            861 _108_Convert_Sorted_Array_to_Binary_Search_Tree
+
+
+    Directory: E:\GitHub\licold\15_Tree\2_Construct_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            884 _108_Convert_Sorted_Array_to_Binary_Search_Tree
+
+
+    Directory: E:\GitHub\licold\15_Tree\1_Tree_Traverse
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1098 _107_Binary_Tree_Level_Order_Traversal_II
+
+
+    Directory: E:\GitHub\licold\1_BFS\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1125 _107_Binary_Tree_Level_Order_Traversal_II
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            984 _1060_Missing_Element_in_Sorted_Array
+
+
+    Directory: E:\GitHub\licold\15_Tree\2_Construct_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1889 _106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1112 _105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal
+
+
+    Directory: E:\GitHub\licold\15_Tree\2_Construct_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1116 _105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1390 _1043_Partition_Array_for_Maximum_Sum
+
+
+    Directory: E:\GitHub\licold\2_DFS\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            508 _104_Maximum_Depth_of_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\15_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            382 _104_Maximum_Depth_of_Binary_Tree
+
+
+    Directory: E:\GitHub\licold\15_Tree\1_Tree_Traverse
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1586 _103_Binary_Tree_Zigzag_Level_Order_Traversal
+-a----        3/18/2020  12:05 PM           1098 _102_Binary_Tree_Level_Order_Traversal
+
+
+    Directory: E:\GitHub\licold\4_Binary_Search
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1095 _1011_Capacity_To_Ship_Packages_Within_D_Days
+
+
+    Directory: E:\GitHub\licold\1_BFS\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1053 _101_Symmetric_Tree
+
+
+    Directory: E:\GitHub\licold\2_DFS\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            478 _101_Symmetric_Tree
+
+
+    Directory: E:\GitHub\licold\15_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            815 _101_Symmetric_Tree
+
+
+    Directory: E:\GitHub\licold\15_Tree\2_Construct_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           1787 _1008_Construct_Binary_Search_Tree_from_Preorder_Traversal
+
+
+    Directory: E:\GitHub\licold\15_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            354 _100_Same_Tree
+
+
+    Directory: E:\GitHub\licold\2_DFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            540 _100_Same_Tree
+
+
+    Directory: E:\GitHub\licold\7_DP
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           2772 _10_Regular_Expression_Matching
+
+
+    Directory: E:\GitHub\licold\9_Hash_Table
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM            628 _1_Two_Sum
+
+
+    Directory: E:\GitHub\licold\22_Array
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020  11:06 AM           8196 .DS_Store
+
+
+    Directory: E:\GitHub\licold
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/27/2020  11:06 AM          18436 .DS_Store
+
+
+    Directory: E:\GitHub\licold\3_LinkedList
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           8196 .DS_Store
+
+
+    Directory: E:\GitHub\licold\15_Tree
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM          10244 .DS_Store
+
+
+    Directory: E:\GitHub\licold\15_Tree\1_Tree_Traverse
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           6148 .DS_Store
+
+
+    Directory: E:\GitHub\licold\1_BFS
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           8196 .DS_Store
+
+
+    Directory: E:\GitHub\licold\15_Tree\3_Tree_Path
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           6148 .DS_Store
+
+
+    Directory: E:\GitHub\licold\3_LinkedList\Easy
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----        3/18/2020  12:05 PM           6148 .DS_Store

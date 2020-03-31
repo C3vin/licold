@@ -1,0 +1,62 @@
+class Solution {
+    
+   // https://youtu.be/pYKGRZwbuzs?t=706  
+    
+   public List<String> wordBreak(String s, List<String> wordDict){
+       
+       List<String> res = new LinkedList<String>();
+       HashSet<String> set = new HashSet<String>(); 
+       
+       HashMap<String, List<String>> used = new HashMap<String, List<String>>(); 
+       
+       for(String str:wordDict){
+           set.add(str); 
+       }
+       
+       res = helper(s, set, used); 
+       
+       return res; 
+       
+   }
+    
+    
+   public List<String> helper(String s, HashSet<String> set, HashMap<String, List<String>> used) {
+       
+       // 这一步是为了提速的
+       if(used.containsKey(s)) return used.get(s); 
+       
+       if(s.length() == 0) return null; 
+       
+       List<String> res = new LinkedList<String>(); 
+       
+       /* 一个一个遍历  --> 这里的解法接的看视频讲解 */
+       for(int i = 1; i <= s.length(); i++) {
+            
+               List<String> partRes = null; 
+    
+               String sub = s.substring(0, i); 
+ 
+               if (set.contains(sub)) {
+
+                       partRes = helper(s.substring(i), set, used); 
+
+                       if(partRes == null) {
+
+                           res.add(sub); 
+
+                       } else {
+
+                           for (String str:partRes) {
+
+                               res.add(sub + " " + str);
+                           }
+                       }
+               }
+       }
+       
+       // 这一步是为了提速的
+       used.put(s, res);
+       
+       return res; 
+   } 
+}
