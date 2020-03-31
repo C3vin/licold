@@ -1,62 +1,56 @@
 class Solution {
     
-   // https://youtu.be/pYKGRZwbuzs?t=706  
+    // 参考视频:  https://youtu.be/pYKGRZwbuzs?t=706  
     
-   public List<String> wordBreak(String s, List<String> wordDict){
-       
-       List<String> res = new LinkedList<String>();
-       HashSet<String> set = new HashSet<String>(); 
-       
-       HashMap<String, List<String>> used = new HashMap<String, List<String>>(); 
-       
-       for(String str:wordDict){
-           set.add(str); 
-       }
-       
-       res = helper(s, set, used); 
-       
-       return res; 
-       
-   }
+    public List<String> wordBreak(String s, List<String> wordDictList) {
+        
+        Set<String> wordDict = new HashSet<>(wordDictList);
+        
+        Map<String, List<String>> memo = new HashMap<>(); 
+        
+        return wordBreak(s, wordDict, memo); 
+    }
     
-    
-   public List<String> helper(String s, HashSet<String> set, HashMap<String, List<String>> used) {
-       
-       // 这一步是为了提速的
-       if(used.containsKey(s)) return used.get(s); 
-       
-       if(s.length() == 0) return null; 
-       
-       List<String> res = new LinkedList<String>(); 
-       
-       /* 一个一个遍历  --> 这里的解法接的看视频讲解 */
-       for(int i = 1; i <= s.length(); i++) {
+    public List<String> wordBreak(String s, Set<String> wordDict, 
+                                  Map<String, List<String>> memo) {
+        
+        if (memo.containsKey(s)) return memo.get(s);
+        
+        List<String> ans = new ArrayList<>(); 
+        
+        if (wordDict.contains(s)) ans.add(s); 
+        
+        // 分割左大段，右小段
+        for (int i = s.length()-1; i >= 0; i--) {
             
-               List<String> partRes = null; 
+            String right = s.substring(i); 
+            
+            // 如果右小段在字典中
+            if (wordDict.contains(right)) {
+                
+                String left = s.substring(0, i);
+                
+                // 递归求解左大段
+                List<String> leftAns = wordBreak(left, wordDict, memo);
+                
+                // 将右小段衔接在左大段后面
+                ans.addAll(append(leftAns, right));
+            }
+        }
+        
+        memo.put(s, ans);
+        return memo.get(s);
+    }
     
-               String sub = s.substring(0, i); 
- 
-               if (set.contains(sub)) {
-
-                       partRes = helper(s.substring(i), set, used); 
-
-                       if(partRes == null) {
-
-                           res.add(sub); 
-
-                       } else {
-
-                           for (String str:partRes) {
-
-                               res.add(sub + " " + str);
-                           }
-                       }
-               }
-       }
-       
-       // 这一步是为了提速的
-       used.put(s, res);
-       
-       return res; 
-   } 
+    private List<String> append(List<String> list, String str) {
+        
+        List<String> res = new ArrayList<>(); 
+        
+        for (int i = 0; i < list.size(); i++) {
+            
+            res.add(list.get(i).concat(" ").concat(str));
+        }
+        
+        return res;
+    }
 }
