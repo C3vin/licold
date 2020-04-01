@@ -1,5 +1,7 @@
 class Solution {
-    
+     
+	 // https://youtu.be/Pi7sMZWIIXE?t=24 
+	  
      public int getSum(int a, int b) {
 
             /** 邊界條件 */
