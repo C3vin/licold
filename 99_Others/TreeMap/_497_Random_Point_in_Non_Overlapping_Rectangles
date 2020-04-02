@@ -1,0 +1,45 @@
+class Solution {
+    
+    private int[][] rects;
+    
+    private Random r;
+    
+    private TreeMap<Integer, Integer> map;
+    
+    private int area;
+
+    public Solution(int[][] rects) {
+        
+        this.rects = rects;
+        r = new Random();
+        
+        map = new TreeMap<>();
+        
+        area = 0;
+        
+        for (int i = 0; i < rects.length; i++) {
+                        
+                     // 矩形的面积，长乘宽 
+            area += (rects[i][2] - rects[i][0] + 1) * (rects[i][3] - rects[i][1] + 1);
+            
+            map.put(area, i);
+        }
+    }
+    
+    public int[] pick() {
+        
+        // 随机的取出一个数
+        int randInt = r.nextInt(area);
+        
+        // 找到相对应的矩形
+        int key = map.higherKey(randInt);
+        
+        // 找出哪个矩形
+        int[] rect = rects[map.get(key)];
+        
+        int x = rect[0] + (key - randInt - 1) % (rect[2] - rect[0] + 1);  //  拿到坐标x
+        int y = rect[1] + (key - randInt - 1) / (rect[2] - rect[0] + 1);  //  拿到坐标y 
+        
+        return new int[]{x, y};
+    }
+}
