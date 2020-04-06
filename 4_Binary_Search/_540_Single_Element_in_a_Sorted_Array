@@ -1,0 +1,40 @@
+class Solution {
+    
+    // 思路  https://youtu.be/uJa9Q-05JxY?t=229  
+    // 已经自己录制视频
+    
+    public int singleNonDuplicate(int[] nums) {
+      
+                int lo = 0;
+                int hi = nums.length - 1;
+
+                /**
+                 *
+                 *  0  --> 00^01 = 01    就是数对的概念，每一对数，是互相检测和相等
+                 *  1  --> 01^01 = 10
+                 *
+                 *  2  --> 10^01 = 11
+                 *  3  --> 11^01 = 10
+                 *
+                 *  4  --> 100^001 = 101
+                 *  5  --> 101^001 = 100
+                  
+                 *
+                 * */
+
+                while (lo < hi) {
+
+                    int mid = lo + (hi - lo) / 2;
+
+                    if (nums[mid] == nums[mid^1]) {
+                        lo = mid + 1;
+
+                    } else {
+                        hi = mid;
+                    }
+
+                }
+
+                return nums[lo];
+    }
+}
