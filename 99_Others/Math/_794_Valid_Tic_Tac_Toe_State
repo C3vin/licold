@@ -1,0 +1,79 @@
+class Solution {
+
+            /** 主函数 */
+            public boolean validTicTacToe(String[] board) {
+
+                /** 初始化 */
+                int xCount = 0, oCount = 0;
+
+                /** 遍历行，数一下有多少 X 和 O */
+                for (String row: board)
+
+                    for (char c: row.toCharArray()) {
+
+                        if (c == 'X') xCount++;
+                        if (c == 'O') oCount++;
+                    }
+
+                /** 验证是否有效 */
+                if (oCount != xCount && oCount != xCount - 1) return false;
+
+                /** 检验X胜利的状态 */
+                if (win(board, 'X') && oCount != xCount - 1) return false;
+
+                /** 检验 */
+                if (win(board, 'O') && oCount != xCount) return false;
+
+                return true;
+            }
+
+            /** win 的子函数 */
+            public boolean win(String[] B, char P) {
+                // B: board, P: player
+
+                for (int i = 0; i < 3; ++i) {
+
+                    /** 竖着能不能成一条线 */
+                    if (P == B[0].charAt(i) && P == B[1].charAt(i) && P == B[2].charAt(i))
+                        return true;
+
+                    /** 横着能不能成一条线 */
+                    if (P == B[i].charAt(0) && P == B[i].charAt(1) && P == B[i].charAt(2))
+                        return true;
+                }
+
+                /** 斜着能不能成一条线  \  */
+                if (P == B[0].charAt(0) && P == B[1].charAt(1) && P == B[2].charAt(2))
+                    return true;
+
+                /** 斜着能不能成一条线  /  */
+                if (P == B[0].charAt(2) && P == B[1].charAt(1) && P == B[2].charAt(0))
+                    return true;
+
+                return false;
+
+            }
+}
+
+/**
+         * Tic-Tac-Toe游戏规则:
+         *
+         * 玩家只能轮流在空格（" "）里面画字符。
+         * 第一个玩家总是画"X"，第二个玩家总是画"O"。
+         * "X"和"O"只能画在空白的格里面，不能画在已经存在"O"和"X"的格里。
+         * 三个相同记号排成横线、直线、斜线，即游戏结束。
+         * 如果没有空的格，游戏也结束。
+         * 游戏结束不能再移动。
+         *
+         * 题目意思: https://zhuanlan.zhihu.com/p/34216982
+         *
+         * ******************************
+         *
+         * 根据规则1和2，假设X的数目为countX, O的数目为countO，那么： --> 我们可以得到countX==countO，或者countX - countO == 1。
+         *
+         * 根据游戏结束后则不能再画O和X，那么当countX==count时，如果存在三个X排成横线、直线、斜线，那么即是不合理的，因为X先画，当三个X排成横线、直线、斜线时， 此时游戏结束，不能再画O，所以O的数目应该比X的数目少1。
+         *
+         * 当countX - countO == 1时，如果存在三个O排成横线、直线、斜线，那么是不合理的，因为当三个O排成横线、直线、斜线时，游戏结束，不能再画X，所以此时X的数目应该和O的数目相等。
+         *
+         *
+         * */
