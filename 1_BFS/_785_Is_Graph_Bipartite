@@ -46,3 +46,13 @@ class Solution {
         return true;
     }
 }
+
+/**
+ *    Algorithm：   https://youtu.be/670Gn4e89B8?t=100
+ *
+ * O(N+E), where NN is the number of nodes in the graph, and EE is the number of edges
+ * O(N)
+ *
+ * **/
+
+/** BFS */
