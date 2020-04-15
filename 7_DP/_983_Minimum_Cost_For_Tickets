@@ -1,0 +1,56 @@
+/** DP (Day Variant) **/
+class Solution {
+
+    /** 定義 costs 和 memo  **/
+    int[] costs;
+    Integer[] memo;
+    Set<Integer> dayset;
+
+    /** 主函數 **/
+    public int mincostTickets(int[] days, int[] costs) {
+
+        /** 1. 更新 cost 和 memo 和 dayset **/
+        this.costs = costs;
+        memo = new Integer[366];
+        dayset = new HashSet();
+
+        /** 2. 遍歷天數 | 更新 dayset **/
+        for (int d : days) dayset.add(d);
+
+        /** 3. 開始DP **/
+        return dp(1);
+    }
+
+    /** dp(i)=min(    dp(i+1)+costs[0],   dp(i+7)+costs[1],   dp(i+30)+costs[2]     ) **/
+
+    /** 3. 開始DP **/
+    public int dp(int i) {
+
+        /** 3.1 如果超過365天，就越界了  **/
+        if (i > 365)  return 0;
+
+        /** 3.2 檢查memo  **/
+        if (memo[i] != null)  return memo[i];
+
+        /** 3.3 製造答案集  **/
+        int ans;
+
+        /** 3.4 如果 dayset 已經包括 i   **/
+        if (dayset.contains(i)) {
+
+            /** ~1 求最小值 **/
+            ans = Math.min(  dp(i + 1) + costs[0],   dp(i + 7)  + costs[1]  );
+            ans = Math.min(  ans,                    dp(i + 30) + costs[2] );
+
+        /** 3.5 如果不存在  **/
+        } else {
+
+            /** ~1 繼續下一個DP  **/
+            ans = dp(i + 1);
+        }
+
+        memo[i] = ans;
+        
+        return ans;
+    }
+}
