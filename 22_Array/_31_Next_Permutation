@@ -2,7 +2,7 @@ class Solution {
     
     public void nextPermutation(int[] nums) {
        
-        if(nums == null || nums.length == 0) return nums;
+        if(nums == null || nums.length == 0) return;
  
         /***找左邊第一個小的**/
         int firstSmall = -1;
@@ -17,7 +17,7 @@ class Solution {
 
         if (firstSmall == -1) {
             reverse(nums,0,nums.length-1);
-            return nums;
+            return;
         }
 
         /***找右邊第一個大的**/
@@ -35,7 +35,7 @@ class Solution {
 
         reverse(nums, firstSmall+1,nums.length -1);
         
-        return nums;
+        return;
 
     }
 
