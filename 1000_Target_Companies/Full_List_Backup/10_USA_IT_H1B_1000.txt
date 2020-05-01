@@ -1,0 +1,1004 @@
+
+Visa Rank	Employer	H1B LCA(2017-2019)
+(Denied, Withdrawn/Total)	Green Card LC(2017-2019)
+(Denied, Withdrawn/Total)
+1	1	Infosys Limited	35/53753	22/1930
+2	2	Cognizant Technology Solutions U.S. Corporation	1151/44307	43/7216
+3	3	Tata Consultancy Services Limited	214/40008	27/3027
+4	4	Deloitte Consulting Llp	711/31112	9/1501
+5	5	Google Inc.	1065/22524	72/6482
+6	6	IBM Corporation	4594/26872	87/745
+7	7	Capgemini U.S. Llc	385/24866	36/1156
+8	8	Ernst & Young U.S. Llp	216/21957	18/1232
+9	9	Microsoft Corporation	65/16598	142/5576
+10	10	Tech Mahindra (Americas), Inc.	255/19188	25/449
+11	11	Accenture Llp	290/18725	13/763
+12	12	Wipro Limited	288/16409	43/707
+13	13	Amazon.Com Services, Inc.	179/11800	78/3881
+14	14	Hcl America, Inc.	59/11482	48/2065
+15	15	Facebook, Inc.	126/7690	43/3616
+16	16	Intel Corporation	42/4356	372/5097
+17	16	Larsen & Toubro Infotech Limited	221/8663	22/790
+18	18	Apple Inc.	106/5384	34/2957
+19	19	Syntel Inc	124/6637	8/189
+20	20	Jpmorgan Chase & Co.	167/5557	30/1094
+21	21	Amazon Corporate Llc	185/4481	32/2159
+22	22	Wal-Mart Associates, Inc.	135/5002	15/582
+23	23	L&T Technology Services Limited	412/5326	13/200
+24	24	Pricewaterhousecoopers Advisory Services Llc	28/4878	12/631
+25	25	Salesforce.Com, Inc.	75/4075	26/1020
+26	26	Compunnel Software Group, Inc.	46/4538	22/522
+27	27	Deloitte & Touche Llp	66/4306	16/597
+28	28	Hexaware Technologies, Inc.	44/4046	8/404
+29	29	Oracle America, Inc.	45/2687	55/1729
+30	30	Cisco Systems, Inc.	53/2389	67/1835
+31	31	Syntel Consulting Inc.	38/4192	-
+32	32	Goldman, Sachs & Co.	116/3708	14/411
+33	33	Uber Technologies, Inc.	52/3211	6/877
+34	34	Pricewaterhousecoopers, Llp	43/3559	9/501
+35	35	Ust Global Inc.	103/3756	9/299
+36	36	Kforce Inc.	34/3054	24/868
+37	37	Amazon Web Services, Inc.	70/3280	9/628
+38	38	Mphasis Corporation	29/3224	13/664
+39	39	Virtusa Corporation	162/3478	33/402
+40	40	VM Ware Inc	42/3068	15/802
+41	41	Linkedin Corporation	40/2961	30/816
+42	42	Capital One Services, Llc	49/2882	19/757
+43	43	Kpmg Llp	116/3183	23/351
+44	44	Bank Of America N.A.	41/3068	5/451
+45	45	Paypal, Inc.	69/2786	13/721
+46	46	Mastech Digital Technologies, Inc., A Mastech Digital, Inc. Company	17/3354	-
+47	47	Mindtree Limited	20/2911	6/347
+48	48	Ebay Inc.	44/2452	6/682
+49	49	Tesla, Inc.	71/2794	1/318
+50	50	People Tech Group Inc.	176/2986	92/115
+51	51	Cummins Inc.	337/2504	12/523
+52	52	Synechron, Inc.	111/2768	6/186
+53	53	Populus Group, Llc	160/2688	16/204
+54	54	Cerner Corporation	91/2426	1/463
+55	55	Ntt Data, Inc.	63/2466	19/382
+56	56	V-Soft Consulting Group, Inc	95/2653	30/116
+57	57	Qualcomm Technologies, Inc.	49/1413	20/1309
+58	58	Citibank, N.A.	68/2284	7/351
+59	59	A2z Development Center, Inc.	57/1841	16/638
+60	60	Marlabs, Inc	1/2225	12/114
+61	61	General Motors Company	37/1330	7/995
+62	62	American Express Travel Related Services Co., Inc.	32/1599	14/666
+63	63	Bloomberg, Lp	32/1556	11/605
+64	64	Comcast Cable Communications, Llc	34/1770	1/353
+65	65	Fujitsu America, Inc.	82/1952	6/129
+66	66	Htc Global Services, Inc.	15/1774	15/292
+67	67	Dell Usa Lp	57/1609	7/432
+68	68	Intuit Inc.	123/1436	6/604
+69	69	Morgan Stanley Services Group Inc.	70/1836	2/190
+70	70	Citiustech Inc.	191/1970	2/55
+71	71	Amazon Fulfillment Services, Inc.	16/905	27/1119
+72	72	Randstad Technologies, LLC	27/1776	4/241
+73	73	Polaris Consulting & Services Ltd	70/2009	-
+74	74	Jpmorgan Chase & Co.	42/2001	-
+75	75	University Of Michigan	50/1856	2/141
+76	77	Management Health Systems, Inc.	30/1971	0/1
+77	78	Anthem	33/1694	10/273
+78	79	Blackrock Financial Management, Inc.	57/1798	1/143
+79	80	Epam Systems, Inc	25/1147	32/790
+80	80	Ntt Data Services, Llc	172/1767	3/170
+81	82	Avco Consulting Inc	11/1775	6/149
+82	84	Erp Analysts, Inc.	24/1665	0/173
+83	85	Persistent Systems, Inc.	192/1755	1/82
+84	86	Prokarma, Inc.	37/1627	2/192
+85	87	Hcl Global Systems Inc	22/1593	13/222
+86	88	Globallogic, Inc.	15/1550	3/217
+87	89	Nvidia Corporation	14/1173	12/593
+88	90	Sap America, Inc.	14/1508	2/255
+89	91	T-Mobile Usa, Inc.	18/1410	6/331
+90	92	Expedia, Inc.	28/1368	1/343
+91	93	Collaborate Solutions Inc	23/1635	4/39
+92	94	Reliable Software Resources, Inc.	52/1473	3/195
+93	95	The Mathworks, Inc.	6/1404	0/261
+94	96	Amazon Corporate	7/25	39/1615
+95	97	Cgi Technologies And Solutions Inc.	13/1367	7/268
+96	98	First Tek, Inc.	75/1486	8/110
+97	99	Deloitte & Touche Llp	14/1068	2/527
+98	100	Deloitte Tax Llp	6/1373	3/162
+99	101	Natsoft Corporation	55/1287	4/226
+100	102	Goldman Sachs Services Llc	44/1325	3/180
+101	103	Capital One, National Association	29/1216	21/285
+102	104	American Airlines, Inc.	14/1164	11/332
+103	105	System Soft Technologies Llc	75/1352	19/134
+104	106	The Boston Consulting Group, Inc.	8/1242	6/242
+105	107	Micron Technology, Inc.	23/1174	7/305
+106	108	Ericsson Inc.	41/1244	13/218
+107	109	Slk America Inc	53/1434	2/27
+108	110	Barclays Services Corp.	26/1314	2/144
+109	111	3i Infotech, Inc.	38/1319	14/120
+110	112	Juniper Networks, Inc.	8/1023	15/404
+111	113	Emc Corporation	54/1100	11/312
+112	114	Mckinsey & Company, Inc. United States	5/1074	10/332
+113	115	Johns Hopkins University	53/1366	0/37
+114	116	Optum Services, Inc.	67/1188	2/206
+115	117	Astir It Solutions Inc.	4/1309	6/59
+116	118	Yash Technologies, Inc.	15/1255	1/96
+117	119	Advanced Micro Devices, Inc.	41/1125	2/224
+118	120	Credit Suisse Securities (Usa) Llc	7/1180	3/162
+119	121	NTT DATA, Inc.	177/1338	-
+120	122	Quest Global Services-Na, Inc.	47/1283	0/52
+121	123	Symantec Corporation	83/1127	7/207
+122	124	The Board Of Trustees Of The Leland Stanford, Jr. University	41/1327	-
+123	125	Synapsis Inc	98/1145	6/175
+124	126	Experis Us, Inc.	65/1158	14/151
+125	126	Iris Software, Inc.	39/1199	5/110
+126	128	Airbnb, Inc.	33/960	9/348
+127	129	Applied Materials, Inc.	28/1047	9/253
+128	129	University Of Pittsburgh	26/1213	2/87
+129	131	Iblesoft Inc	21/1234	0/31
+130	132	Photon Infotech, Inc.	6/1152	8/105
+131	133	Headstrong Services Llc	2/1134	0/105
+132	134	Adobe Systems Incorporated	25/901	11/334
+133	135	Mayo Clinic	52/1135	2/82
+134	136	Sapient Corporation	31/1041	0/174
+135	137	Niit Technologies Limited	36/995	2/213
+136	138	Fedex Corporate Services, Inc.	13/1135	0/60
+137	139	Cyient, Inc.	63/1158	2/34
+138	140	Hitachi Consulting Corporation	82/1047	7/117
+139	141	Genpact Llc	3/1078	1/76
+140	142	Oath Holdings, Inc.	34/1084	13/67
+141	143	Trustees Of The University Of Pennsylvania	30/1136	-
+142	143	Techland Inc	17/1136	-
+143	145	Intone Networks Inc.	14/1000	8/131
+144	146	Medtronic, Inc.	53/986	0/136
+145	147	Qualcomm Incorporated	58/830	8/276
+146	148	Merrill Lynch	7/972	2/127
+147	149	Zs Associates, Inc.	11/1051	0/43
+148	150	Akamai Technologies, Inc.	58/917	13/175
+149	151	Globalfoundries U.S. Inc.	79/996	3/95
+150	152	Twitter, Inc.	38/888	18/198
+151	153	Servicenow, Inc.	13/807	1/269
+152	154	Infoshare Systems, Inc.	101/1036	10/36
+153	155	Visa U.S.A. Inc.	33/925	5/143
+154	156	Diversant Llc	45/902	8/163
+155	157	Systems Technology Group, Inc.	19/945	0/114
+156	157	Columbia University	26/996	7/63
+157	159	Target Enterprise, Inc.	13/828	6/230
+158	160	Synopsys, Inc.	25/635	13/421
+159	160	Ford Motor Company	9/925	5/131
+160	162	Ciber Global Llc	29/962	4/82
+161	163	Makeurcareer Llc	32/1031	-
+162	164	General Electric Company	13/940	3/90
+163	165	State Street Bank And Trust Company	46/975	1/49
+164	166	Lyft Inc.	33/835	6/187
+165	167	Nisum Technologies Inc.	19/882	1/137
+166	167	Sap Labs, Llc	7/875	4/144
+167	167	Technosoft Corporation	23/895	1/124
+168	170	Brillio, Llc	37/945	3/70
+169	171	George's Processing, Inc.	-	973/1007
+170	172	Verizon Data Services Llc	7/1001	0/1
+171	173	Schlumberger Technology Corporation	17/976	1/24
+172	174	Capgemini America, Inc. (Legacy Capgemini Financial Services, Inc.)	112/998	-
+173	174	Wayfair Llc	11/907	3/91
+174	177	Pyramid Technology Solutions, Inc.	16/949	3/40
+175	178	Srs Consulting Inc.	12/847	0/140
+176	179	Adp Technology Services, Inc.	9/795	3/191
+177	180	Hewlett Packard Enterprise Company	15/670	8/314
+178	181	Emory University	35/939	4/44
+179	182	Inovant, Llc	7/674	5/290
+180	183	Charter Communications	21/868	3/81
+181	184	Pioneer Consulting Services Llc	9/916	0/32
+182	185	Harvard University	9/914	0/33
+183	186	University Of Colorado	37/888	2/57
+184	187	Amgen Inc.	10/789	2/153
+185	188	Altimetrik Corp	30/873	4/67
+186	189	Western Digital Technologies, Inc.	12/714	5/223
+187	190	The University Of Iowa	22/808	9/125
+188	191	Palo Alto Networks, Inc.	11/749	1/183
+189	191	Visa Technology & Operations Llc	32/932	-
+190	193	Discover Products Inc.	11/806	3/124
+191	194	Netapp, Inc.	53/781	4/141
+192	195	Collabera Inc.,	16/876	1/44
+193	196	Mythri Consulting LLC	12/860	4/58
+194	197	Cadence Design Systems, Inc.	20/682	4/234
+195	198	Snap, Inc	8/651	0/260
+196	199	Csc Covansys Corporation	25/808	6/101
+197	200	Rjt Compuquest, Inc.	25/846	8/62
+198	201	Cyberthink Inc	13/810	2/93
+199	202	Idexcel, Inc.	94/865	0/35
+200	203	Autodesk, Inc.	17/730	4/169
+201	204	University Of Florida	10/788	0/108
+202	205	At&T Services, Inc.	18/772	2/121
+203	206	Eclinicalworks, Llc	14/781	0/109
+204	207	Intraedge, Inc.	14/752	13/137
+205	208	U.S. Bank National Association	12/747	2/141
+206	209	Orion Systems Integrators Llc	28/816	0/67
+207	210	Diaspark, Inc.	33/838	0/28
+208	210	Netflix, Inc.	12/625	6/241
+209	212	Zillow, Inc.	19/642	10/223
+210	212	Caremark, Llc	31/727	5/138
+211	214	Washington University In St. Louis	26/817	0/46
+212	215	University Of Minnesota	26/769	2/91
+213	216	Exlservice.Com, Llc	33/832	1/26
+214	216	Texas Instruments Incorporated	11/654	13/204
+215	216	Yale University	7/824	0/34
+216	219	Fmr Llc	1/421	3/432
+217	220	Groupon, Inc.	31/685	6/167
+218	221	Strategic Resources International, Inc.	22/793	5/57
+219	222	Nagarro, Inc.	3/791	2/57
+220	223	Motorola Mobility Llc	13/753	2/91
+221	224	Ubs Business Solutions Us Llc	20/773	0/63
+222	225	Softvision, Llc	48/817	0/18
+223	226	Veritas Technologies Llc	63/717	7/109
+224	227	Icahn School Of Medicine At Mount Sinai	12/784	4/40
+225	228	The University Of Chicago	16/766	1/53
+226	229	Epitec, Inc.	24/706	0/112
+227	230	National Institutes Of Health, Hhs	19/817	-
+228	231	Defender Services, Inc.	-	259/814
+229	231	Nike, Inc.	34/704	0/110
+230	233	Applab Systems, Inc.	29/778	1/33
+231	234	Slalom Llc	21/705	0/103
+232	234	Aecom Technical Services, Inc.	47/742	0/66
+233	234	Nokia Of America Corporation	2/688	3/120
+234	237	Fis Management Services, Llc	20/666	4/139
+235	238	Citrix Systems, Inc.	50/568	15/234
+236	239	Morgan Stanley & Co. Llc	57/737	0/63
+237	240	Marvell Semiconductor, Inc.	15/644	22/155
+238	241	Wayne Farms Llc	0/2	378/796
+239	242	Sprint Corporation	20/677	3/119
+240	243	Birlasoft Inc	22/686	3/109
+241	244	Ventois, Inc	6/710	5/83
+242	244	Trw Automotive, Inc.	34/639	3/154
+243	246	I3infotek, Inc.	42/758	10/33
+244	247	Northwestern University	54/756	0/31
+245	248	Marvelltech Llc	0/772	0/11
+246	249	Deutsche Bank A. G	120/660	2/121
+247	250	Perficient, Inc.	7/705	8/73
+248	251	Dallas Independent School District	33/698	13/79
+249	252	Information Control Corporation	23/664	2/108
+250	253	Kla-Tencor Corporation	2/677	0/91
+251	254	Memorial Sloan-Kettering Cancer Center	15/717	0/48
+252	255	Xoriant Corporation	6/731	1/32
+253	256	Db Usa Core Corporation	56/625	0/134
+254	257	Computer Sciences Corporation	25/735	1/23
+255	258	Michigan State University	15/657	4/100
+256	259	Tavant Technologies, Inc.	25/689	1/61
+257	260	University Of California, San Diego	35/717	0/30
+258	261	Softpath System, Llc	36/706	1/38
+259	261	Data, Inc.	8/659	4/85
+260	263	Logic Planet Inc	9/678	1/64
+261	264	Cvs Rx Services, Inc.	8/645	10/93
+262	265	Mvt Services Inc	0/2	424/731
+263	265	Altair Productdesign, Inc.	19/588	3/145
+264	267	Zensar Technologies Inc.	27/620	0/109
+265	268	HCL Global Systems inc	6/692	3/35
+266	269	Nutanix, Inc.	30/544	2/181
+267	270	Mastercard International Incorporated	11/601	1/121
+268	271	Miracle Software Sysytems Inc	8/609	0/112
+269	271	Ipolarity Llc	27/688	7/33
+270	273	Jnit Technologies	27/653	8/66
+271	273	Massachusetts Institute Of Technology	23/690	1/29
+272	273	Veridic Solutions, Llc	28/719	-
+273	276	Adobe Inc.	9/534	3/184
+274	277	University Of California, San Francisco	41/708	0/9
+275	277	Exilant Technologies Private Limited	146/650	17/67
+276	277	Baylor College Of Medicine	30/706	1/11
+277	277	Db Global Technology Inc.	87/560	2/157
+278	281	Ads Alliance Data Systems, Inc.	10/593	1/122
+279	282	Tibco Software Inc.	53/607	11/107
+280	282	Infinite Computer Solutions	11/692	0/22
+281	282	Amdocs Inc.	14/580	5/134
+282	282	Lam Research Corporation	79/589	5/125
+283	286	Home Depot Product Authority, Llc	5/589	1/124
+284	286	Intel Mobile Communications, Inc.	5/487	12/226
+285	288	Kj Info Llc.	60/711	0/1
+286	289	Hsbc Bank Usa, N.A.	79/534	9/177
+287	290	Itech Us, Inc.	16/598	22/110
+288	290	Cnet Global Solutions, Inc	13/657	1/51
+289	290	Factset Research Systems, Inc.	14/570	14/138
+290	293	8k Miles Software Services Inc	20/675	5/32
+291	294	Itc Infotech (Usa), Inc.	37/659	0/47
+292	295	University Of California, Los Angeles	29/648	2/56
+293	296	The Ohio State University	26/645	1/57
+294	296	Cyma Systems Inc	42/647	4/55
+295	298	Purdue University	33/621	1/76
+296	299	Fca Us Llc	13/572	4/124
+297	300	Inovalon, Inc.	114/631	2/64
+298	301	Arka Technologies Inc	3/691	0/3
+299	301	Pvr America, Inc.	4/684	1/10
+300	303	Fusion Plus Solutions, Inc	2/564	30/129
+301	303	Engineering Technology Associates, Inc.	7/602	20/91
+302	305	University Of Utah	15/607	5/85
+303	306	Mufg Union Bank, N.A.	12/571	1/118
+304	306	Amensys, Inc.	15/673	0/16
+305	308	General Hospital Corporation	13/685	-
+306	308	Asml Us, Inc.	18/598	4/87
+307	310	Samsung Austin Semiconductor, L.L.C.	4/681	-
+308	311	Ut-Battelle, Llc (Oak Ridge National Laboratory)	33/680	-
+309	312	Informatica Llc	8/547	2/132
+310	313	The Pennsylvania State University	81/591	7/86
+311	314	E-Giants Technologies Llc	28/666	0/9
+312	315	Indeed, Inc.	39/601	2/73
+313	316	The University Of Southern California	12/608	3/65
+314	316	Sony Interactive Entertainment Llc	20/547	2/126
+315	316	University Of California, Davis	21/626	2/47
+316	319	Workday, Inc.	7/456	1/215
+317	319	Kpit Infosystems Incorporated	17/671	-
+318	321	Pinterest, Inc.	17/515	7/155
+319	321	Charles Schwab And Company, Inc.	11/596	0/74
+320	323	Mastech Digital Technologies, Inc.	-	16/666
+321	324	Federal Soft Systems Inc	4/656	1/9
+322	324	Dotcom Team, Llc	7/614	3/50
+323	325	Avani Technology Solutions Inc.	14/593	6/69
+324	326	Sdlc Management, Inc.	10/631	2/28
+325	327	Valuemomentum, Inc.	12/585	0/73
+326	327	Yahoo! Inc.	10/492	9/166
+327	327	Egen Solutions, Inc.	60/629	0/29
+328	330	Siri Infosolutions Inc.	9/563	5/94
+329	331	Nemo It Solutions, Inc	1/593	0/62
+330	332	Sriven Systems Of Tx, Inc	34/613	3/41
+331	333	Lendingclub Corporation	16/520	4/132
+332	333	Ness Usa, Inc.	31/545	7/107
+333	335	Duke University Health System	39/624	0/27
+334	335	Brigham And Women's Hospital	30/639	2/12
+335	337	Perdue Farms Inc.	0/14	20/636
+336	338	Usm Business Systems, Inc	39/605	4/44
+337	339	Wells Fargo Bank, N.A.	15/534	2/114
+338	340	Staples, Inc.	7/568	1/79
+339	341	Illumina, Inc.	5/498	9/148
+340	341	I 5 Tech, Inc	7/575	6/71
+341	343	New York University School Of Medicine	56/643	0/2
+342	344	Nordstrom, Inc.	10/506	6/138
+343	345	Gss Infotech Ct, Inc.	9/608	2/34
+344	346	Teradata Operations, Inc.	18/591	1/48
+345	346	Saibersys Inc.	11/632	0/7
+346	348	Savantis Solutions Llc	20/606	2/32
+347	348	Kyyba Inc.	22/590	1/48
+348	350	New York University	32/595	3/42
+349	351	Dfs Corporate Services Llc	2/553	1/83
+350	351	Dataquest Corp	53/579	2/57
+351	353	University Of Washington	32/564	2/71
+352	354	Samsung Information Systems America, Inc.	11/501	2/132
+353	355	Technumen, Inc	2/592	7/39
+354	356	Robert Bosch Llc	4/505	0/125
+355	356	Caprus It Inc	16/585	0/45
+356	356	Apogee Medical Group, Virginia, Pc	15/512	10/118
+357	359	The University Of Texas M.D. Anderson Cancer Cente	42/629	-
+358	359	Temple University--A Commonwealth University	18/597	1/32
+359	361	Xavient Digital Llc	14/549	0/79
+360	362	Expedent Corp.	210/593	2/34
+361	363	Aetna Resources Llc	18/579	4/47
+362	363	Grandison Management, Inc.	7/626	-
+363	365	Mitchell/Martin, Inc.	8/551	0/73
+364	366	Fiserv Solutions Llc	9/580	2/43
+365	367	Texas A&M University	28/567	3/54
+366	368	Honeywell International Inc.	17/507	4/112
+367	369	Henry Ford Health System	37/530	1/86
+368	370	Indiana University	14/498	1/115
+369	370	California Creative Solutions, Inc.	27/553	2/60
+370	372	Aspire Systems, Inc.	28/571	1/41
+371	372	Genentech, Inc.	21/485	2/127
+372	374	It America Inc	17/527	2/77
+373	375	Innovative Intelligent Solutions Llc	42/570	0/31
+374	375	University Of Illinois	13/601	-
+375	377	University Of Virginia	18/559	3/41
+376	378	Quality Matrix Inc	27/559	7/39
+377	378	Nxp Usa, Inc.	10/477	0/121
+378	380	Ybrant Technologies Llc.	99/591	0/6
+379	381	Cloud Big Data Technologies LLC	3/596	-
+380	381	Arizona State University	12/541	1/55
+381	383	Asurion, Llc	10/449	6/145
+382	383	University of Wisconsin at Madison	19/542	2/52
+383	383	Mckesson Corporation	41/513	19/81
+384	386	Infogain Corporation	19/491	1/102
+385	387	Coolsoft, Llc	46/511	5/77
+386	388	Ciber, Inc.	10/520	7/64
+387	388	Swanktek Inc	18/489	4/95
+388	388	Infor (Us), Inc.	10/439	2/145
+389	391	Rutgers, The State University Of New Jersey	29/553	2/30
+390	391	Vastek Inc	25/578	0/5
+391	393	Alpha Net Consulting Llc	27/551	3/31
+392	393	Everest Consulting Group, Inc	10/520	3/62
+393	393	Abbvie Inc	5/469	6/113
+394	396	Transunion Llc	1/513	2/68
+395	397	The Univ. Of Ala. At Birmingham (Uab)	45/558	5/19
+396	398	Bank Of The West	13/462	5/114
+397	398	Tanisha Systems Inc	26/546	1/30
+398	400	Kpit Infosystems, Inc.	23/433	16/142
+399	401	Fast Switch Ltd	34/539	2/35
+400	401	Rockwell Collins, Inc.	13/467	7/107
+401	403	Harman Connected Services, Inc.	12/515	10/57
+402	404	Credit Suisse Services (Usa) Llc	9/502	1/69
+403	405	Pamten, Inc.	40/505	3/65
+404	406	Microstrategy Incorporated	35/449	23/120
+405	407	Kellton Tech Inc	62/534	2/33
+406	407	Aig Employee Services, Inc.	10/492	0/75
+407	409	Howard Hughes Medical Institute	22/563	0/3
+408	409	Protocol Infotech Inc Duns#830803735	1/566	-
+409	411	Cox Automotive Corporate Services, Llc	15/530	1/35
+410	412	Hm Health Solutions Inc.	5/491	0/73
+411	412	Techno-Comp Inc	19/509	0/55
+412	414	Lead It Corporation	31/539	3/23
+413	415	Pure Storage, Inc.	3/451	0/110
+414	415	Vsion Technologies, Inc.	5/526	0/35
+415	417	The Curators Of The University Of Missouri	68/502	5/58
+416	418	Cigniti Technologies, Inc.	20/526	1/32
+417	419	Sage It, Inc.	6/527	1/30
+418	420	Ppd Development, Llc	44/485	0/71
+419	421	Bitwise Inc	2/496	2/57
+420	421	Broadcom Corporation	19/405	16/148
+421	423	Deloitte Transactions And Business Analytics Llp	9/551	-
+422	424	Fidelity Brokerage Services Llc	7/549	-
+423	424	Vedicsoft Solutions Llc	17/497	0/52
+424	424	Samsung Research America, Inc.	16/404	8/145
+425	427	Gilead Sciences, Inc.	3/384	1/162
+426	427	Nic Info Tek, Inc.	19/466	7/80
+427	429	Indiana Univ. Purdue Univ. Indianapolis	63/545	-
+428	430	Revereit Llc	21/522	5/19
+429	431	Ariba, Inc.	5/456	0/84
+430	431	Bdo Usa, Llp	19/503	2/37
+431	431	Uhcp D/B/A Upmc Medical Education	19/540	-
+432	431	Impetus Technologies, Inc.	23/504	2/36
+433	435	Dropbox, Inc.	37/441	3/98
+434	435	Etek It Services, Inc.	25/518	0/21
+435	435	Standav Corp.	3/482	3/57
+436	438	Orpine, Inc.	15/492	3/46
+437	438	Micronet It Solutions, Inc.	16/523	1/15
+438	440	Harmony Science Academy-Dallas	0/507	3/29
+439	441	Brookhaven National Laboratory	16/533	-
+440	442	Splunk, Inc	6/454	0/77
+441	443	The Nielsen Company (Us), Llc	2/433	4/96
+442	443	Xavient Information Systems, Inc.	21/486	1/43
+443	443	Vintech Solutions Inc	7/507	1/22
+444	446	Barclays Services Llc	15/509	1/19
+445	446	Children's Hospital Corporation	4/509	1/19
+446	446	Ca, Inc.	4/462	0/66
+447	449	Sabre Glbl Inc.	26/452	3/74
+448	450	Agreeya Solutions, Inc.	12/468	0/54
+449	451	University Of Illinois At Chicago	25/483	1/38
+450	451	Denken Solutions, Inc.	75/496	2/25
+451	451	Medical University Of South Carolina	35/472	3/49
+452	451	Fidelity Technology Group Llc	8/521	-
+453	455	California Institute Of Technology	29/508	2/12
+454	455	Ubs Securities Llc	12/441	1/79
+455	457	Dish Network Llc	4/440	4/79
+456	458	Client Network Services, Inc.	12/441	7/75
+457	459	Square, Inc.	4/430	0/85
+458	460	Vista Applied Solutions Group Inc	4/455	1/57
+459	460	Schneider Electric Usa, Inc.	11/415	1/97
+460	460	Etouch Systems Corporation	12/461	5/51
+461	460	Adecco Technical	4/508	0/4
+462	464	The Gap, Inc.	12/447	1/64
+463	465	Federal Home Loan Mortgage Co.	3/377	7/133
+464	466	University Of Oklahoma Health Sciences Center	15/482	1/25
+465	466	Yana Software Inc.	7/483	3/24
+466	468	Charter Global, Inc.	16/477	0/29
+467	469	Sears Holdings Management Corporation	10/433	1/72
+468	470	Codesmart Inc.	6/489	0/15
+469	470	Cigna Cglic	16/421	1/83
+470	472	F5 Networks, Inc.	21/357	4/146
+471	472	Smart Works, Llc	17/480	0/23
+472	474	Caterpillar Inc	8/417	2/85
+473	475	Montefiore Medical Center	36/472	0/29
+474	476	Whirlpool Corporation	3/375	2/125
+475	477	Quicken Loans Inc.	25/456	0/43
+476	477	Oracle Financial Services Software, Inc.	17/439	1/60
+477	477	Microchip Technology, Inc.	9/394	10/105
+478	480	Starbucks Coffee Company	19/413	2/83
+479	481	The Trustees Of Princeton University	36/495	-
+480	482	Connvertex Technologies Inc.	19/475	6/19
+481	482	Iqvia Inc.	7/476	0/18
+482	482	Moody's Analytics	20/420	1/74
+483	482	North Carolina State University	4/444	1/50
+484	486	Dgn Technologies Inc	26/403	62/90
+485	487	Raiser Technologies, Inc.	35/490	0/2
+486	487	Hughes Network Systems Llc	5/400	3/92
+487	489	Securenet Systems Corporation	11/467	0/23
+488	489	Sg Americas Securities, Llc	19/447	0/43
+489	491	Savi Technologies, Inc	33/475	0/14
+490	492	Bain & Company, Inc.	47/403	3/85
+491	492	Electronic Arts, Inc.	22/370	10/118
+492	494	University Of North Carolina At Chapel Hill	4/472	0/15
+493	494	Neo Prism Solutions, Llc	2/458	1/29
+494	494	Atos Syntel Inc	5/487	-
+495	497	Sagarsoft, Inc	16/465	3/21
+496	498	Piorion Solutions, Inc.	11/424	4/61
+497	498	University Of California, Berkeley	9/446	1/39
+498	500	Galaxe.Solutions, Inc	11/431	3/53
+499	500	Equifax Inc.	6/459	0/25
+500	502	Blackrock Investment Management, Llc	18/430	0/53
+501	503	Pnr Software Solutions Corporation	0/482	-
+502	503	Xilinx, Inc.	18/346	2/136
+503	503	Johnson Controls, Inc.	23/418	1/64
+504	506	Tek Leaders Inc	5/407	14/74
+505	507	Maxotech Solutions Llc	154/476	0/4
+506	507	Proficient Business Systems, Inc.	6/441	1/39
+507	509	Arista Networks, Inc.	20/374	0/105
+508	510	Baha Industries Corp.	32/425	1/53
+509	510	Analog Devices, Inc.	10/399	4/79
+510	510	Unigo, Inc	26/473	2/5
+511	513	Intalent Llc	27/460	2/17
+512	513	Becton, Dickinson And Company	25/387	0/90
+513	515	University Of Maryland College Park	28/476	-
+514	516	It Resources, Inc.	9/439	1/36
+515	517	Intel America's	5/296	16/178
+516	517	Techdemocracy Llc	12/440	10/34
+517	519	Guidewire Software, Inc.	12/352	3/121
+518	520	Weill Cornell Medical College	3/458	0/13
+519	520	Cloud Hybrid Technologies Llc	7/471	-
+520	520	Iconsoft Inc.	8/423	1/48
+521	520	Vyzer Solutions Inc	3/459	0/12
+522	524	St. Jude Children's Research Hospital	21/454	5/15
+523	525	Delphi Corporation	8/411	2/57
+524	525	Friendly Consultants, Inc.	52/451	2/17
+525	525	Northstar Group Inc	1/436	3/32
+526	528	Lancesoft, Inc.	15/435	0/32
+527	529	Cognizant Worldwide Limited	181/465	-
+528	530	Technosoft Group Inc	41/442	1/22
+529	531	Blue Cross Blue Shield Of Michigan	21/321	8/140
+530	531	Suntrust Banks, Inc.	20/403	5/58
+531	533	University Of Arkansas For Medical Sciences	13/413	0/46
+532	533	Arm, Inc.	35/359	2/100
+533	535	Siemens Medical Solutions Usa, Inc.	12/406	1/52
+534	536	Artech Information Systems Llc	13/432	0/25
+535	537	United Software Group Inc.	9/422	0/34
+536	538	Mindiq Solutions, Inc.	2/455	-
+537	539	Satyam-Venture Engineering Services Pvt. Ltd.	8/388	0/66
+538	539	The University Of Arizona	14/435	3/19
+539	541	Hp Inc.	9/369	4/84
+540	542	Samsung Semiconductor, Inc.	4/370	4/82
+541	542	Quadrant Resource Llc	0/331	83/121
+542	544	Siemens Plm Software Inc.	18/394	4/56
+543	544	Siritek Inc	13/422	3/28
+544	544	International Software Systems Inc	0/427	0/23
+545	544	Sriven Systems, Inc.	28/406	2/44
+546	544	Paramount Software Solutions	15/393	0/57
+547	544	The University Of Texas At Austin	34/428	0/22
+548	550	Lhp Software, Llc	8/407	6/42
+549	550	University Of Miami-Miller School Of Medicine	7/400	1/49
+550	552	Ana-Data Consulting Inc	2/409	3/39
+551	552	Aim Big, Inc.	35/408	1/40
+552	554	Sunera Technologies, Inc	11/423	0/24
+553	555	Bofa Securities, Inc.	2/432	0/12
+554	555	Yash & Lujan Consulting, Inc.	0/410	0/34
+555	557	Jet.Com Inc.	11/402	0/41
+556	557	We Work Management Llc	10/423	0/20
+557	559	The University Of Tennessee Health Science Center	33/418	0/24
+558	559	Dizer Corp	20/393	2/49
+559	559	Latentview Analytics Corporation	22/422	1/20
+560	559	Vintech Solutions Inc	0/438	0/4
+561	563	Faraday & Future Inc	3/366	0/75
+562	563	Barclays Bank Delaware	12/368	0/73
+563	565	Infobiz Systems Llc	2/436	1/4
+564	566	Adroit Associates, Inc.	17/420	0/19
+565	567	Gspann Technologies, Inc.	10/391	1/47
+566	567	Two Sigma Investments, Lp	21/358	3/80
+567	569	Bi Labs Inc	34/427	1/9
+568	569	Ut Southwestern Medical Center	22/436	-
+569	569	Visionet Systems, Inc.	11/400	4/36
+570	569	Cybersource Corporation	11/364	2/72
+571	569	University Of Maryland Baltimore	34/422	0/14
+572	569	L&T Technology Services, Ltd.	65/436	-
+573	569	Vastika, Inc.	8/345	6/91
+574	576	Ncr Corporation	18/368	4/67
+575	577	Pyramid Consulting, Inc.	14/392	3/42
+576	578	Dana-Farber Cancer Institute	12/427	0/6
+577	579	Antra Inc	0/416	1/16
+578	580	Indotronix International Corporation	16/396	1/35
+579	581	Ansys, Inc.	7/377	3/52
+580	582	Aricent Technologies (Holdings) Limited	18/396	3/32
+581	582	Yelp Inc.	1/315	1/113
+582	582	The University Of Georgia	18/391	1/37
+583	582	Bristol-Myers Squibb Company	20/382	0/46
+584	586	Deutsche Bank Securities Inc.	57/403	0/24
+585	586	Utis, Inc.	5/418	0/9
+586	586	Techdata Service Company, Llc.	25/362	5/65
+587	589	Cornell University	16/394	6/32
+588	590	Ramps International, Inc	1/366	1/59
+589	590	Kastech Solutions Llc	9/365	1/60
+590	592	Saama Technologies, Inc.	30/388	1/36
+591	592	Godaddy.Com, Llc	3/355	2/69
+592	594	Millennium Software, Inc.	36/378	1/45
+593	595	New York Technology Partners, Inc.	19/374	3/48
+594	595	Comtec Consultants, Inc.	4/378	4/44
+595	595	Iowa State University Of Science And Technology	15/359	4/63
+596	598	Arrow Electronics, Inc.	8/334	4/87
+597	598	Noblesoft Solutions, Inc.	3/369	0/52
+598	598	Verizon Communications Inc., & All Its Subsidiaries & Affiliates	1/57	5/364
+599	598	Sapphire Software Solutions Inc	10/360	10/61
+600	598	Fortinet, Inc.	1/293	6/128
+601	603	Data Warehouse Labs Inc	17/409	0/11
+602	604	Here North America, Llc	5/332	0/87
+603	604	Tachyon Technologies Llc	14/375	0/44
+604	606	Halliburton Energy Services, Inc.	47/367	1/51
+605	606	Carnegie Mellon University	23/390	2/28
+606	608	Infolob Solutions, Inc.	8/379	1/38
+607	608	Macys.Com, Llc.	23/337	0/80
+608	611	Pvr Technologies Inc.	61/382	0/34
+609	611	Tabner, Inc.	3/387	2/29
+610	611	Elajika Inc	7/416	-
+611	614	Aricent N.A. Inc.	9/391	1/24
+612	614	Premier It Solutions, Inc	1/386	0/29
+613	614	Anjaneyap, Inc.	21/380	2/35
+614	617	INTELLITRO INC	13/404	6/10
+615	617	I28 Technologies Corporation	15/389	0/25
+616	617	Battelle Memorial Institute	37/411	0/3
+617	617	Hortonworks, Inc	19/314	3/100
+618	621	Techaspect Solutions, Inc.	11/395	2/18
+619	621	Ncs Pearson, Inc.	17/330	7/83
+620	623	Microinfo, Inc.	35/370	3/42
+621	623	Magic Leap, Inc.	12/355	4/57
+622	623	Akvarr Inc	5/369	41/43
+623	626	Quantum Integrators Group, Llc	3/381	2/30
+624	626	Innova Solutions Inc	35/368	1/43
+625	628	Lawrence Berkeley National Laboratory	2/390	0/20
+626	629	Manhattan Associates, Inc.	4/246	3/162
+627	629	Kelly Services, Inc.	7/396	2/12
+628	631	Rbc Capital Markets, Llc	3/326	5/81
+629	631	University Of Texas Health Science Center At San A	63/407	-
+630	631	Synerzy Software Solutions Inc	5/391	2/16
+631	634	University Of Houston System	8/404	-
+632	634	Quest It Solutions, Inc	30/360	3/44
+633	636	Thermo Fisher Scientific, Inc.	4/364	1/39
+634	636	Maxim Integrated Products, Inc.	11/328	2/75
+635	636	Kronsys, Inc.	12/379	0/24
+636	639	Apps Associates, Llc	12/369	1/33
+637	640	Medallia, Inc.	8/340	1/61
+638	640	Global Data Mart, Inc	27/371	2/30
+639	642	Aptiv, Inc	4/373	0/26
+640	642	Lorhan Corporation Inc	10/366	0/33
+641	642	Crockett Technical Llc	56/399	-
+642	642	Camelot Integrated Solutions Inc	6/357	2/42
+643	642	Continental Automotive Systems, Inc.	12/292	1/107
+644	647	University Of Massachusetts Medical School	43/383	1/15
+645	647	University Of Kentucky	16/346	8/52
+646	647	Delta System & Software, Inc	8/376	2/22
+647	650	Csts Technologies Inc	2/387	2/10
+648	650	Valuelabs, Inc.	2/380	1/17
+649	650	The Prudential Insurance Company Of America	19/352	1/45
+650	653	Aplomb Technologies Inc	8/378	0/18
+651	653	Case Western Reserve University	11/376	1/20
+652	653	Ellie Mae, Inc.	3/318	2/78
+653	656	Inspirage Llc	17/374	1/21
+654	656	Scepter Technologies Inc	5/359	2/36
+655	658	Health Carousel, Llc	20/348	0/46
+656	659	Oregon Health & Science University	9/362	0/30
+657	659	Infomatics Corp	8/357	6/35
+658	661	Mentor Graphics Corporation	14/315	3/76
+659	661	Cummins Emission Solutions Inc.	49/338	5/53
+660	661	Trustees Of Boston University	4/372	0/19
+661	664	Siemens Industry, Inc.	2/307	1/83
+662	665	Virginia Polytechnic Institute & State University	4/364	3/25
+663	665	Katalyst Technologies, Inc.	6/366	0/23
+664	665	Anira Solutions Inc	17/376	6/13
+665	668	Dell Marketing Lp	22/328	1/60
+666	669	House Of Raeford Farms, Inc.	-	118/387
+667	669	Union Dental Group Anaheim, Inc.	9/383	1/4
+668	671	Horizon International Trd. Inc	6/357	1/29
+669	671	Sagitec Solutions Llc	9/302	1/84
+670	671	Hulu, Llc	7/336	0/50
+671	674	Rackspace Us, Inc.	20/292	5/93
+672	674	Riverbed Technology, Inc.	18/286	6/99
+673	676	Infostretch Corporation	18/341	0/42
+674	676	Nationwide Insurance	10/350	2/33
+675	678	Signature It Solutions Llc	14/376	1/6
+676	678	Baanyan Software Services, Inc	18/365	0/17
+677	678	Commvault Americas, Inc.	6/284	3/98
+678	681	Northwell Health	27/342	0/39
+679	681	Pivotal Software, Inc.	4/295	4/86
+680	683	Sbp Consulting Inc.	5/346	3/33
+681	683	Damian Consulting Inc	13/365	1/14
+682	683	Global Infotech Inc	14/339	35/40
+683	686	Pro-Tek Consulting	10/369	1/9
+684	686	Wsp Usa Corporation	23/350	4/28
+685	686	Oslo Solutions Llc	11/362	2/16
+686	689	Credit Karma, Inc.	7/307	3/70
+687	690	Apptad Inc.	9/341	4/35
+688	690	Unicorn Technologies, Llc	8/362	1/14
+689	690	Tech Matrix Inc	25/363	0/13
+690	693	Black & Veatch Corporation	8/340	0/35
+691	693	Infinity Methods Corp	4/375	-
+692	693	Audible Inc	3/275	0/100
+693	693	Infomerica, Inc.	13/323	2/52
+694	693	Mhk Tech Inc	23/375	-
+695	698	Axtria, Inc.	23/332	2/42
+696	698	Overstock.Com, Inc.	22/340	0/34
+697	698	Dxc Technology Services Llc	30/369	0/5
+698	701	Multivision Llc	18/352	1/21
+699	701	Prolifics, Inc.	24/363	1/10
+700	703	Mindlance, Inc.	4/342	4/30
+701	703	Techpillars, Inc.	8/341	2/31
+702	705	Smartsoft International, Inc.	16/339	3/31
+703	705	Apex Technology Systems, Inc	13/327	14/43
+704	705	It Hoppers Inc	2/370	-
+705	705	I-Link Solutions Inc.	10/318	0/52
+706	705	Jcg Foods Of Georgia Llc D/B/A Koch Foods	-	99/370
+707	710	Pike Solutions Inc	9/354	1/15
+708	710	Atlassian, Inc.	6/324	1/45
+709	710	Webilent Technology Inc	7/307	9/62
+710	713	Edge It Corp	14/317	1/51
+711	714	Teksky Llc	8/357	0/10
+712	714	Express Scripts Services Co.	6/300	0/67
+713	714	Smart It Frame Llc	3/367	-
+714	714	Bally Gaming, Inc.	9/324	4/43
+715	718	Siemens Energy, Inc.	5/268	5/98
+716	718	Marvel Technologies, Inc.	13/349	3/17
+717	718	Zen3 Info Solutions America Inc.	17/339	1/27
+718	718	Wild Bangkok Denver, LLC. DBA Wild Bangkok	33/349	2/17
+719	718	Delasoft, Inc.	7/342	0/24
+720	723	Microexcel, Inc	7/327	6/38
+721	723	Gm Cruise Llc	4/325	0/40
+722	723	Baystate Medical Practices, Inc.	19/326	0/39
+723	723	Twilio, Inc.	3/309	3/56
+724	723	MUY HAMBURGER PARTNERS, LLC	-	43/365
+725	723	Integrated Resources, Inc	11/341	1/24
+726	729	Comtek Global Inc.	4/331	20/33
+727	729	Criticalriver, Inc.	55/336	0/28
+728	729	Kpit Technologies Inc.	2/360	2/4
+729	729	Enlightened Solutions Llc	0/334	0/30
+730	733	Axiscades, Inc.	26/348	0/15
+731	733	Western Union, Llc	7/295	2/68
+732	735	American Express Company	8/304	3/58
+733	735	Lenora Systems Inc	1/262	82/100
+734	737	Epic Systems Corporation	3/164	14/197
+735	737	Litmus7 Systems Consulting Inc.	86/340	4/21
+736	737	Databoss International Corp.,	11/361	-
+737	737	Frontier Technologies, Llc	41/332	1/29
+738	741	Bell Info Solutions, Llc	12/314	2/46
+739	741	Pantar Solutions Inc	14/331	2/29
+740	741	Ptc Inc.	14/302	1/58
+741	744	Maxima Consulting, Inc.	3/303	0/56
+742	744	Citizens Financial Group, Inc.	6/307	0/52
+743	744	Abbott Laboratories	4/288	4/71
+744	747	Humac, Inc.	6/290	7/68
+745	747	Yahoo Holdings, Inc.	23/281	1/77
+746	747	University Of Connecticut	7/316	0/42
+747	747	3s Business Corporation	1/320	7/38
+748	747	Speridian Technologies, Llc	11/358	-
+749	752	Anagh Technologies, Inc.	13/357	-
+750	752	Sysintelli, Inc	18/333	2/24
+751	752	Namitus Technologies Inc.	6/345	0/12
+752	752	Concur Technologies, Inc.	2/290	0/67
+753	752	Vsquare Infotech Inc.	6/301	4/56
+754	757	Sourceinfotech Inc.	2/332	1/24
+755	757	Blizzard Entertainment, Inc.	6/269	2/87
+756	759	Polaris Consulting And Services Ltd	7/104	4/251
+757	759	Vensoft Llc	14/318	1/37
+758	759	J.B. Hunt Transport, Inc	28/309	1/46
+759	759	Edisquare Inc.	16/355	-
+760	763	Humana Inc.	1/256	4/98
+761	763	West Virginia University	14/288	4/66
+762	763	Pure Beauty Farms, Inc.	-	105/354
+763	766	Keypixel Software Solutions Llc	17/331	4/22
+764	767	Adroix Corp.	3/352	-
+765	767	Metlife Group, Inc.	12/274	2/78
+766	767	Tableau Software, Inc.	3/283	0/69
+767	767	Peco Foods, Inc.	-	157/352
+768	767	Abb Inc.	17/290	2/62
+769	772	Gulfstream Aerospace Corporation	10/266	2/85
+770	772	Cedent Consulting Inc.	18/340	1/11
+771	772	Citadel Llc	0/272	1/79
+772	772	Macy's Systems And Technology, Inc.	14/286	2/65
+773	776	Lex Nimble Solutions Inc	4/350	-
+774	776	Medical College Of Wisconsin	12/326	0/24
+775	776	Aig Pc Global Services, Inc.	2/270	0/80
+776	776	Interactive Communications International, Inc.	7/292	2/58
+777	780	Kanap Systems Llc	9/348	0/1
+778	780	Tripadvisor Llc	5/304	0/45
+779	782	Pristine Rehab Care, Llc	3/336	3/12
+780	782	M. Arthur Gensler, Jr. & Associates, Inc.	12/303	3/45
+781	784	Cleveland Clinic Foundation	25/248	2/99
+782	784	American Unit, Inc	9/314	3/33
+783	784	Mar-Jac Poultry, Inc.	-	138/347
+784	784	Lucid Technologies, Inc	7/323	3/24
+785	788	Harrison Poultry	-	241/346
+786	788	Homeaway, Inc	15/264	1/82
+787	788	Palvai Global Services Inc	7/336	1/10
+788	791	Advanced Knowledge Tech, Llc	8/324	0/21
+789	791	Grant Thornton Llp	35/304	1/41
+790	791	The Florida State University	14/271	6/74
+791	794	Softova, Inc.	10/330	0/14
+792	794	Skyworks Solutions, Inc.	6/265	3/79
+793	794	Cybage Software Inc	24/325	0/19
+794	794	Gartner Inc.	5/311	0/33
+795	794	Xtglobal, Inc.	3/309	6/35
+796	799	Timesquare It Inc	5/343	-
+797	799	Niteosoft Inc	7/333	0/10
+798	799	Muy Brands, Llc	-	70/343
+799	799	Isprint Technologies Llc	1/343	-
+800	799	C-Vision, Inc.	21/294	1/49
+801	804	Cypress Semiconductor Corporation	1/262	1/80
+802	804	Sierra Consulting Inc.	15/338	1/4
+803	804	Lowe's Companies, Inc.	7/299	2/43
+804	804	Intuitive Surgical Operations, Inc.	2/340	0/2
+805	804	Stantec Consulting Services Inc.	8/299	2/43
+806	809	Successfactors, Inc.	3/286	0/55
+807	809	Centraprise, Corp	25/304	9/37
+808	811	Abbyland Foods Inc	-	225/340
+809	811	Environmental Systems Research Institute, Inc.	29/340	-
+810	811	Computer Global Solutions Inc	13/306	4/34
+811	814	Nga Group, Inc.	18/320	0/19
+812	814	Cardinal Health, Inc.	10/209	10/130
+813	816	Mican Technologies, Inc.	12/271	3/67
+814	816	Conch Technologies, Inc.	1/320	1/18
+815	818	Cloudwick Technologies Inc.	9/307	0/30
+816	819	Srk Systems Inc	14/317	6/19
+817	819	Akvelon, Inc.	115/303	1/33
+818	819	Sonata Software North America Inc	7/329	1/7
+819	822	Waymo Llc	6/310	0/25
+820	822	Esystems, Inc.	16/314	1/21
+821	822	Quest Diagnostics Incorporated	11/181	1/154
+822	825	Isite Technologies Inc	12/313	3/21
+823	825	Softcom Systems Inc.	5/306	1/28
+824	825	Sapvix Inc	40/274	38/60
+825	828	Yashco Systems, Inc.	13/277	8/56
+826	828	Allied Informatics, Inc	4/310	0/23
+827	828	May Trucking Company	-	180/333
+828	831	Mastech Digital Alliances, Inc., A Mastech Digital, Inc. Company	1/332	-
+829	831	Cloudera, Inc.	2/226	4/106
+830	831	American General Life Insurance Company	5/278	2/54
+831	831	Detroit Engineered Products, Inc.	11/298	1/34
+832	831	Oregon State University	28/308	0/24
+833	831	Tata Technologies, Inc.	4/302	0/30
+834	831	Keysight Technologies, Inc.	0/242	2/90
+835	831	Texas Tech University	2/284	1/48
+836	839	Novo Proso Inc	9/331	-
+837	839	Kairos Technologies, Inc.	7/312	0/19
+838	841	Case Farms, Inc.	-	30/330
+839	841	Bofaml Securities, Inc.	1/324	1/6
+840	841	Incedo Inc.	28/309	0/21
+841	841	Sree Infotech Llc	9/303	1/27
+842	841	Solution IT	7/310	1/20
+843	846	Equinox It Solutions, Llc	33/321	2/8
+844	846	Jefferies Llc	6/305	0/24
+845	848	Rehabcare Group East, Inc.	5/320	0/8
+846	848	University Of Rochester	13/298	2/30
+847	848	Validation Associates Llc	19/320	1/8
+848	851	A9.Com, Inc.	8/222	2/105
+849	851	Educational Testing Service	33/280	2/47
+850	853	Spotify Usa Inc.	16/286	0/40
+851	853	Okta, Inc.	13/270	3/56
+852	853	Code Ace Solutions Inc	5/293	0/33
+853	856	Novartis Pharmaceuticals Corporation	13/268	1/57
+854	856	Merck Sharp & Dohme Corp.	13/283	2/42
+855	856	The Bank Of New York Mellon	10/304	3/21
+856	856	Pandora Media, Inc.	5/237	5/88
+857	860	SQA Concepts Inc	4/324	-
+858	860	Jade Global Inc.	19/299	0/25
+859	860	Enterprise It Resources, Inc	6/303	2/21
+860	863	P3 North America, Inc.	17/296	0/27
+861	863	Move, Inc.	6/263	4/60
+862	863	Farmers Group, Inc.	14/247	2/76
+863	863	Adaequare Inc	3/314	0/9
+864	863	Gva Infotech Inc	14/322	0/1
+865	868	Nb Ventures, Inc.	16/322	-
+866	868	Corporate Solutions General Inc	4/298	0/24
+867	868	Ge Healthcare Iits Usa Corp.	3/291	0/31
+868	871	It Cats, Llc	11/281	8/40
+869	871	The Sherwin-Williams Company	7/248	0/73
+870	871	Silicon Staff It Services, Inc.	23/290	6/31
+871	871	Vsln International, Inc	47/317	0/4
+872	871	Reliant Vision Group Inc.	6/297	0/24
+873	871	Scottline Llc	0/321	-
+874	871	Citigroup Technology, Inc.	7/267	0/54
+875	878	Riot Games, Inc.	16/250	0/70
+876	878	Reliance Global Services Inc.	5/308	1/12
+877	878	Comscore, Inc.	5/271	8/49
+878	881	Virtue Group, Llc	26/289	1/30
+879	881	Genesis Eldercare Rehabilitation Services, Llc	3/319	-
+880	881	Formac Inc	6/308	0/11
+881	881	Hadiamondstar Software Solutions, Llc.	1/279	4/40
+882	885	Bayer Corporation	11/292	1/26
+883	885	Monsanto Company	10/276	3/42
+884	885	Nokia Siemens Networks Us Llc	2/212	0/106
+885	885	Virtual Matrix Corporation	3/314	0/4
+886	885	Imcs Group Inc	7/310	0/8
+887	885	Thomas Jefferson University	26/304	0/14
+888	885	Shutterfly, Inc.	7/264	1/54
+889	892	Stubhub, Inc.	3/265	2/52
+890	892	Stanley Black & Decker, Inc.	13/265	2/52
+891	894	University Of Mississippi Medical Center	14/289	0/27
+892	894	Hallmark Global Technologies Inc	5/288	0/28
+893	894	Srnl International Inc	5/305	2/11
+894	897	Infisystems, Llc	5/315	-
+895	897	Satin Solutions Llc	43/288	3/27
+896	897	Intellect Business Solutions, Llc	30/296	0/19
+897	900	Only It Consulting, Llc	6/293	6/21
+898	900	Boston Scientific Corporation	4/248	2/66
+899	902	Data S Solutions, Llc	33/302	1/11
+900	902	Itelligence, Inc.	10/311	1/2
+901	904	Applied Computer Techniques	5/293	1/19
+902	904	Intercontinental Exchange Holdings, Inc.	7/265	2/47
+903	904	Flexera Global, Inc.	12/279	0/33
+904	907	The Pnc Financial Services Group, Inc.	3/272	0/39
+905	907	Alcatel-Lucent Usa Inc	3/257	0/54
+906	907	Vanderbilt University Medical Center	6/281	4/30
+907	907	Georgia Institute Of Technology	20/297	0/14
+908	911	Zimmer, Inc.	5/287	1/23
+909	911	Intel Massachusetts	0/97	17/213
+910	911	Geisinger Clinic	12/221	1/89
+911	914	Vigna Solutions, Inc.	11/276	5/33
+912	915	Amadeus North America, Inc.	3/220	1/88
+913	915	Mpg Operations Llc	5/271	7/37
+914	915	MPRSoft Inc	13/299	0/9
+915	915	Biogen, Inc	2/275	0/33
+916	915	D2sol, Inc.	8/275	0/33
+917	920	Unicon Pharma Inc.	6/282	2/25
+918	920	Eateam, Inc.	5/297	0/10
+919	923	Business Intelli Solutions, Inc.	6/270	2/36
+920	923	Softpath Technologies Llc	7/283	2/23
+921	925	Smart Source Technologies, Inc.	5/276	2/29
+922	925	Object Frontier, Inc.	12/277	0/28
+923	925	Hartford Fire Insurance Company	5/251	0/54
+924	925	Kansas State University	10/273	0/32
+925	929	Aqr Capital Management, Llc	17/245	1/59
+926	929	Mastech Digital Consulting, Inc.	2/304	-
+927	929	State University Of New York At Buffalo	5/304	-
+928	929	Everest Computers Inc.	1/282	3/22
+929	929	Ikon Tech Services, Llc	8/269	0/35
+930	929	Partners Healthcare	21/302	0/2
+931	935	Cincinnati Children's Hospital Medical Center	10/288	0/15
+932	935	Cellco Partnership	9/299	0/4
+933	935	Myapps Hub Llc	7/246	28/57
+934	935	Tech Ops Inc.	19/276	4/27
+935	935	Spln International Llc	6/302	1/1
+936	935	Technovision Solution Llc	17/303	-
+937	935	Appstek Inc	4/291	0/12
+938	935	Summitworks Technologies Inc	9/268	4/35
+939	943	Data Systems Integration Group Inc.	1/258	0/44
+940	943	Infodrive Systems, Llc	15/296	0/6
+941	943	Fireeye, Inc.	13/249	1/53
+942	943	Promatrix Corp	29/271	1/31
+943	943	Liberty Mutual Group, Inc.	1/260	2/42
+944	943	Ancestry.Com Operations, Inc.	15/254	2/48
+945	949	Macquarie Holdings (Usa) Inc.	1/285	5/16
+946	949	Fred Hutchinson Cancer Research Center	22/279	0/22
+947	949	Openwave Computing Llc	10/273	0/28
+948	952	Appsboat Inc	3/299	0/1
+949	952	Advent Global Solutions Inc.	5/282	2/18
+950	952	Regeneron Pharmaceuticals, Inc.	3/266	4/34
+951	952	Schrill Technologies Inc.	10/276	0/24
+952	952	Bnp Paribas	3/229	1/71
+953	952	Analysis Group, Inc.	5/285	0/15
+954	952	Savvy Info Systems Inc	3/263	34/37
+955	952	Beth Israel Deaconess Medical Center, Inc.	6/294	1/6
+956	960	Schaeffler Group Usa, Inc.	2/197	5/102
+957	961	Apttus Corporation	33/242	2/56
+958	961	Qorvo Us, Inc.	9/244	6/54
+959	961	Dataserv Inc	2/268	1/30
+960	964	Softnice, Inc.	3/266	0/31
+961	964	Priceline.Com	1/250	0/47
+962	964	Syrainfotek Llc	11/235	7/62
+963	964	Murphy-Brown Llc	29/267	7/30
+964	968	University Of California At Santa Barbara	15/248	1/48
+965	969	Procal Technologies Inc.	9/266	1/29
+966	969	Rite Pros Inc	10/281	0/14
+967	969	Markit North America, Inc. D/B/A Ihs Markit	25/295	-
+968	972	Stripe, Inc.	5/245	1/49
+969	972	Galax-Esystems Corporation	17/249	7/45
+970	972	Morningstar, Inc.	12/250	1/44
+971	972	Resource Logistics, Inc.	11/247	5/47
+972	972	Novartis Institutes For Biomedical Research, Inc.	11/245	0/49
+973	972	Arcadis U.S., Inc	7/252	0/42
+974	978	Esg Automotive, Inc.	14/260	1/33
+975	978	Infocepts, Llc	11/268	0/25
+976	978	Telecom Technology Services, Inc.	6/209	17/84
+977	978	Pegaframe Infotech Inc	3/286	6/7
+978	982	Easi Llc	7/276	0/16
+979	982	University Of California, Irvine	7/270	0/22
+980	982	Cbre, Inc.	2/269	0/23
+981	985	Hermes Microvision, Inc.	5/263	1/28
+982	985	Eteam Solutions Inc	5/280	1/11
+983	985	Skill Voice Inc	18/288	2/3
+984	985	Huron Consulting Services Llc	5/253	0/38
+985	985	Saligram Systems Inc	10/284	2/7
+986	985	Board Of Regents Of The University Of Nebraska	6/291	-
+987	985	Cavium, Inc.	13/244	2/47
+988	992	Red Hat, Inc.	4/252	3/38
+989	992	Sgs Technologie, Llc	12/244	2/46
+990	992	Copart, Inc.	1/250	0/40
+991	992	Aqua Information Systems, Inc.	1/287	0/3
+992	996	Ispace, Inc	8/265	0/24
+993	996	Openlogix Corporation	11/252	3/37
+994	996	Gcom Software, Inc.	3/240	2/49
+995	996	Amneal Pharmaceuticals Llc	7/237	3/52
+996	1000	Visa Technology And Operations, Llc	10/133	4/155
+997	1000	Svk Systems Inc	16/267	1/21
+998	1002	T. Rowe Price Associates, Inc.	7/199	5/88
+999	1002	Realsoft Technologies, Llc	18/268	1/19
+1000	1002	Mouri Tech Llc	25/273	0/14

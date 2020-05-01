@@ -1,0 +1,116 @@
+2020 H1B Visa Reports: Austin, TX
+Rank: 1 - 25 | 26 - 50 | 51 - 75 | 76-100 | search all
+
+
+Category: All | Visa Status | Job Title | Occupation | Industry | Work City | Work State
+
+Rank	H1B Visa Sponsor	Number of LCA *	Average Salary
+1	Infosys	442	$81,915
+2	Tata Consultancy Services	286	$89,631
+3	Quest Global Services-Na	282	$93,291
+4	IBM	232	$122,912
+5	Visa Technology & Operations	215	$119,640
+6	Wipro	198	$77,117
+7	Apple	190	$124,005
+8	Samsung Austin Semiconductor, L.L.C.	189	$115,463
+9	Yana Software	184	$66,126
+10	Advanced Micro Devices	183	$132,739
+11	Cognizant Technology Solutions	182	$85,780
+12	The University Of Texas At Austin	162	$88,541
+
+ 
+13	Deloitte & Touche	160	$87,130
+14	Dell Usa	152	$103,470
+15	Indeed	139	$95,355
+16	Amazon.Com Services	108	$134,743
+17	Charles Schwab And Company	104	$118,511
+18	Homeaway.Com	100	$121,872
+19	Accenture	98	$112,363
+20	Intel	93	$116,442
+21	Cirrus Logic International Semiconductor	92	$119,196
+22	VisaA.	80	$121,486
+23	Google	80	$111,894
+24	Nxp Usa	71	$101,745
+25	Visa Technology And Operations	70	$123,426
+
+26	Arm	69	$121,663
+27	Cybersource	63	$116,229
+28	Silicon Laboratories	56	$125,949
+29	Facebook	53	$114,062
+30	Tech Mahindra (Americas)	51	$86,466
+31	Oracle America	49	$138,041
+32	Trinet Usa	49	$115,807
+33	Mphasis	45	$72,809
+34	National Instruments	43	$93,571
+35	Ernst & Young	38	$118,106
+36	VM Ware	36	$136,190
+37	Paypal	35	$129,238
+
+ 
+38	Electronic Arts	33	$117,902
+39	Cadence Design Systems	32	$140,755
+40	Amazon Web Services	31	$145,724
+41	Ebay	31	$128,963
+42	Whole Foods Market	30	$107,188
+43	Applied Materials	30	$100,666
+44	Home Depot Product Authority	29	$130,403
+45	Retailmenot	28	$113,788
+46	Hcl America	28	$95,748
+47	Compunnel Software Group	28	$94,176
+48	Larsen & Toubro Infotech	27	$104,849
+49	Adobe	27	$102,880
+50	Capgemini	27	$102,391
+
+
+
+Rank	H1B Visa Sponsor	Number of LCA *	Average Salary
+51	Technozant	27	$80,446
+52	Cisco Systems	26	$116,735
+53	Optum Services	24	$113,656
+54	Anagha Solutions	24	$84,292
+55	Ericsson	23	$129,005
+56	Q2 Software	23	$113,697
+57	Lifesize Communications	22	$118,215
+58	V-Soft consulting group	22	$106,773
+59	Nvidia	21	$157,190
+60	Cox Automotive Services	21	$113,890
+61	Informatica	21	$104,760
+62	Wal-Mart Associates	21	$97,676
+
+ 
+63	Cirrus Logic	20	$126,774
+64	Acxiom	20	$117,324
+65	Nokia Of America	20	$114,907
+66	Transunion	20	$95,278
+67	Qualcomm Technologies	19	$134,932
+68	Dell Marketing	19	$113,517
+69	Kony Services	19	$110,753
+70	Ppd Development	19	$107,500
+71	Zilker Technology	18	$116,278
+72	Sailpoint Technologies	18	$115,335
+73	Vsion Technologies	18	$95,697
+74	Flextronics International Usa	18	$92,548
+75	Dematic	18	$86,962
+	17	$93,177
+81	Proficient Business Systems	17	$87,477
+82	Technosoft	17	$84,750
+83	Kforce	16	$118,968
+84	Randstad Technologies	16	$106,256
+85	Databloom	16	$86,294
+86	Mentor Graphics	15	$170,661
+87	Rackspace Us	15	$103,134
+
+ 
+88	Shop Lc Global Fka The Jewelry Channel	15	$84,340
+89	State Street Bank And Trust Company	14	$105,450
+90	Paypal Data Service	14	$102,908
+91	Aricent Technologies (Holdings)	14	$92,457
+92	Avco Consulting	14	$89,146
+93	Austin Independent School District	14	$59,750
+94	Mastech Digital Technologies, A Mastech Digital Company	13	$109,396
+95	Sparkcognition	13	$108,293
+96	Collaborate Solutions	13	$88,130
+97	Mediatek Usa	12	$127,514
+98	Ntt Data	12	$120,958
+99	Trend Micro	12	$112,372
+100	Ccc Information Services	12	$101,492

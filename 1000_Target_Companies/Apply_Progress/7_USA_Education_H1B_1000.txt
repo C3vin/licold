@@ -1,0 +1,1003 @@
+	Visa Rank	Employer	H1B LCA(2017-2019)
+(Denied, Withdrawn/Total)	Green Card LC(2017-2019)
+(Denied, Withdrawn/Total)
+1	75	University Of Michigan	50/1856	2/141
+2	115	Johns Hopkins University	53/1366	0/37
+3	135	Mayo Clinic	52/1135	2/82
+4	157	Columbia University	26/996	7/63
+5	181	Emory University	35/939	4/44
+6	185	Harvard University	9/914	0/33
+7	186	University Of Colorado	37/888	2/57
+8	190	The University Of Iowa	22/808	9/125
+9	204	University Of Florida	10/788	0/108
+10	214	Washington University In St. Louis	26/817	0/46
+11	215	University Of Minnesota	26/769	2/91
+12	216	Yale University	7/824	0/34
+13	228	The University Of Chicago	16/766	1/53
+14	247	Northwestern University	54/756	0/31
+15	251	Dallas Independent School District	33/698	13/79
+16	258	Michigan State University	15/657	4/100
+17	260	University Of California, San Diego	35/717	0/30
+18	273	Massachusetts Institute Of Technology	23/690	1/29
+19	277	University Of California, San Francisco	41/708	0/9
+20	277	Baylor College Of Medicine	30/706	1/11
+21	295	University Of California, Los Angeles	29/648	2/56
+22	296	The Ohio State University	26/645	1/57
+23	298	Purdue University	33/621	1/76
+24	305	University Of Utah	15/607	5/85
+25	313	The Pennsylvania State University	81/591	7/86
+26	316	University Of California, Davis	21/626	2/47
+27	316	The University Of Southern California	12/608	3/65
+28	335	Duke University Health System	39/624	0/27
+29	350	New York University	32/595	3/42
+30	353	University Of Washington	32/564	2/71
+31	359	Temple University--A Commonwealth University	18/597	1/32
+32	367	Texas A&M University	28/567	3/54
+33	370	Indiana University	14/498	1/115
+34	377	University Of Virginia	18/559	3/41
+35	381	Arizona State University	12/541	1/55
+36	383	University of Wisconsin at Madison	19/542	2/52
+37	391	Rutgers, The State University Of New Jersey	29/553	2/30
+38	397	The Univ. Of Ala. At Birmingham (Uab)	45/558	5/19
+39	417	The Curators Of The University Of Missouri	68/502	5/58
+40	451	Medical University Of South Carolina	35/472	3/49
+41	451	University Of Illinois At Chicago	25/483	1/38
+42	455	California Institute Of Technology	29/508	2/12
+43	466	University Of Oklahoma Health Sciences Center	15/482	1/25
+44	481	The Trustees Of Princeton University	36/495	-
+45	482	North Carolina State University	4/444	1/50
+46	494	University Of North Carolina At Chapel Hill	4/472	0/15
+47	498	University Of California, Berkeley	9/446	1/39
+48	520	Weill Cornell Medical College	3/458	0/13
+49	533	University Of Arkansas For Medical Sciences	13/413	0/46
+50	539	The University Of Arizona	14/435	3/19
+51	544	The University Of Texas At Austin	34/428	0/22
+52	550	University Of Miami-Miller School Of Medicine	7/400	1/49
+53	559	The University Of Tennessee Health Science Center	33/418	0/24
+54	569	University Of Maryland Baltimore	34/422	0/14
+55	582	The University Of Georgia	18/391	1/37
+56	589	Cornell University	16/394	6/32
+57	595	Iowa State University Of Science And Technology	15/359	4/63
+58	606	Carnegie Mellon University	23/390	2/28
+59	634	University Of Houston System	8/404	-
+60	647	University Of Kentucky	16/346	8/52
+61	647	University Of Massachusetts Medical School	43/383	1/15
+62	653	Case Western Reserve University	11/376	1/20
+63	659	Oregon Health & Science University	9/362	0/30
+64	661	Trustees Of Boston University	4/372	0/19
+65	665	Virginia Polytechnic Institute & State University	4/364	3/25
+66	747	University Of Connecticut	7/316	0/42
+67	763	West Virginia University	14/288	4/66
+68	776	Medical College Of Wisconsin	12/326	0/24
+69	791	The Florida State University	14/271	6/74
+70	831	Oregon State University	28/308	0/24
+71	831	Texas Tech University	2/284	1/48
+72	848	University Of Rochester	13/298	2/30
+73	851	Educational Testing Service	33/280	2/47
+74	885	Thomas Jefferson University	26/304	0/14
+75	894	University Of Mississippi Medical Center	14/289	0/27
+76	907	Georgia Institute Of Technology	20/297	0/14
+77	925	Kansas State University	10/273	0/32
+78	968	University Of California At Santa Barbara	15/248	1/48
+79	982	University Of California, Irvine	7/270	0/22
+80	1029	Wayne State University	9/264	0/18
+81	1042	Georgetown University	5/248	3/31
+82	1052	Research Foundation Of Cuny	15/268	2/8
+83	1108	Louisiana State University And A & M College	7/231	0/34
+84	1108	University Of Hawaii	6/226	4/39
+85	1122	University Of Nebraska Medical Center	6/211	1/51
+86	1144	The University Of Kansas Medical Center	21/235	0/24
+87	1193	Virginia Commonwealth University	13/233	2/19
+88	1206	Northeastern University	18/218	3/32
+89	1206	Florida International University	3/216	0/34
+90	1233	Lsu Health Sciences Center	12/229	1/17
+91	1293	Texas Tech University Health Sciences Center	28/192	13/42
+92	1293	University Of Cincinnati	13/185	1/49
+93	1313	University Of Oregon	19/198	1/33
+94	1313	University Of Notre Dame Du Lac	11/213	1/18
+95	1320	Auburn University	26/189	1/41
+96	1329	University Of Texas Medical Branch At Galveston	11/214	2/15
+97	1335	The University Of Texas Health Science Center At H	6/209	0/19
+98	1366	Washington State University	20/207	0/15
+99	1373	University Of Central Florida	5/196	2/25
+100	1432	University Of South Florida	3/204	0/9
+101	1432	Clemson University	11/191	2/22
+102	1455	Colorado State University	2/184	2/27
+103	1455	The Ohio University	10/191	1/20
+104	1479	New York City Department Of Education	7/160	5/49
+105	1490	State University Of New York At Stony Brook	5/193	1/15
+106	1502	Georgia State University	14/173	4/34
+107	1521	The University Of Texas At Dallas	19/180	2/24
+108	1521	University Of Massachusetts Amherst	5/189	0/15
+109	1521	Ebs Healthcare, Inc.	6/167	7/37
+110	1532	University Of Nevada, Reno	3/167	2/36
+111	1565	University Of Arkansas	5/177	0/22
+112	1573	Mississippi State University	10/165	0/33
+113	1606	Oklahoma State University	3/169	1/25
+114	1616	Miami University	3/163	1/30
+115	1622	California Polytechnic State University	9/153	5/39
+116	1640	Rensselaer Polytechnic Institute	3/182	0/8
+117	1694	Kent State University	16/161	4/24
+118	1694	The University Of Alabama	29/185	-
+119	1724	Vanderbilt University	0/164	1/19
+120	1759	Brown University	3/170	0/9
+121	1790	University Of Louisville	9/161	0/14
+122	1790	George Mason University	25/160	0/15
+123	1815	Saint Louis University	1/155	1/18
+124	1877	University Of Wyoming	8/144	4/23
+125	1891	Mcgraw-Hill Global Education, Llc	10/131	0/35
+126	1905	Coursera, Inc.	1/140	0/25
+127	1939	The University Of Texas At Arlington	10/145	7/17
+128	1971	Tufts University	5/153	1/7
+129	1983	University Of North Carolina At Charlotte	12/127	2/32
+130	2007	Old Dominion University	8/138	0/19
+131	2053	The University Of Mississippi	7/139	1/14
+132	2053	East Carolina University	1/129	0/24
+133	2122	Albert Einstein College Of Medicine Of Yeshiva Uni	33/146	0/3
+134	2176	Embry-Riddle Aeronautical University	2/113	1/33
+135	2239	South Dakota State University	7/121	2/21
+136	2256	Northern Illinois University	5/117	1/24
+137	2288	The University Of Vermont	6/128	0/11
+138	2324	University Of Delaware	1/119	0/18
+139	2324	Dartmouth College	1/127	0/10
+140	2324	Drexel University	20/125	0/12
+141	2347	North Dakota State University	11/123	1/13
+142	2363	The University Of Toledo	0/116	0/19
+143	2363	University At Albany	7/97	1/38
+144	2397	State University Of New York At Binghamton	4/101	1/32
+145	2411	Utah State University	9/99	6/33
+146	2433	Wright Center For Graduate Medical Education	1/126	0/5
+147	2491	Syracuse University	2/96	1/32
+148	2491	Baltimore City Public School System	-	61/128
+149	2501	Brandeis University	14/118	1/9
+150	2589	Wake Forest University Health Sciences	3/112	1/11
+151	2618	Marshall University	2/111	0/11
+152	2656	University Of New Hampshire	3/93	0/27
+153	2682	University Of Nevada, Las Vegas	7/95	0/24
+154	2716	Western Washington University	5/108	0/9
+155	2781	Southern Methodist University	0/94	0/20
+156	2800	University Of Idaho	2/92	1/21
+157	2824	Laureate Education, Inc.	3/93	0/19
+158	2824	Marquette University	8/95	2/17
+159	2849	California State University Fullerton	8/69	5/42
+160	2890	Texas A&M International University	4/80	0/29
+161	2890	Gallup Mckinley County Public Schools	2/32	17/77
+162	2890	Boston College	2/89	1/20
+163	2946	Texas State University-San Marcos	5/79	2/28
+164	2946	University Of New Mexico	3/89	0/18
+165	2976	Oakland University	0/83	0/23
+166	2976	The College Of William And Mary	2/93	1/13
+167	2976	Savannah College Of Art And Design, Inc.	1/83	3/23
+168	2976	Lehigh University	7/96	1/10
+169	2999	Alief Independent School District	0/68	0/37
+170	3043	The George Washington University	0/78	1/25
+171	3043	California State University, Sacramento	5/81	2/22
+172	3114	Research Foundation Of The State University Of New	2/100	-
+173	3114	University Of Massachusetts Boston	4/85	0/15
+174	3178	New Mexico State University	10/87	0/11
+175	3178	Wichita State University	2/84	0/14
+176	3178	Rochester Institute Of Technology	1/82	1/16
+177	3205	University Of North Texas	23/88	0/9
+178	3242	Michigan Technological University	1/76	2/20
+179	3242	The University Of Memphis	4/82	4/14
+180	3274	Challenger Sports Corp.	18/82	3/13
+181	3303	California State University, Fresno	3/60	0/34
+182	3303	The University Of Texas At El Paso	0/70	0/24
+183	3336	University Of Texas At San Antonio	3/87	1/6
+184	3418	Western Michigan University	5/61	6/30
+185	3438	Florida Atlantic University	1/74	1/16
+186	3438	Kennesaw State University	7/68	0/22
+187	3471	University Of Connecticut Health Center	2/86	0/3
+188	3471	University Of Rhode Island	4/65	0/24
+189	3471	University Of North Dakota	2/79	0/10
+190	3471	University Of Alaska	1/80	2/9
+191	3471	University Of Denver	2/76	0/13
+192	3549	California State University, Los Angeles	1/56	4/31
+193	3579	Boise State University	5/73	0/13
+194	3579	University Of Massachusetts Lowell	2/69	1/17
+195	3579	Act, Inc.	3/78	1/8
+196	3579	San Diego State University	2/64	1/22
+197	3652	Texas A&M Health Science Center	2/80	0/4
+198	3652	New Jersey Institute Of Technology	6/79	0/5
+199	3691	Rowan University	2/78	1/5
+200	3691	Northern Arizona University	3/61	0/22
+201	3691	Kaplan, Inc.	3/66	1/17
+202	3691	Stevens Institute Of Technology	1/78	0/5
+203	3736	San Francisco State University	2/64	0/18
+204	3736	Davis School District	5/50	32/32
+205	3736	Southern Illinois University School Of Medicine	9/76	0/6
+206	3775	James Madison University	3/53	4/28
+207	3775	California State University, Northridge	0/57	2/24
+208	3775	University Of Maine	2/58	0/23
+209	3775	Montana State University	5/69	1/12
+210	3775	University Of North Texas Health Science Center	12/76	0/5
+211	3826	University Of Louisiana At Lafayette	0/70	0/10
+212	3865	Illinois State University	3/57	0/22
+213	3865	San Jose State University	2/64	5/15
+214	3904	The President And Fellows Of Middlebury College	0/77	0/1
+215	3904	University Of Illinois At Urbana-Champaign	1/14	2/64
+216	3943	University Of Dayton	2/57	1/20
+217	3943	The University Of Tennessee, Knoxville	4/53	0/24
+218	4014	Los Angeles Unified School District	2/60	3/15
+219	4073	University Of Wisconsin-Milwaukee	0/61	0/13
+220	4073	University Of North Georgia	2/55	0/19
+221	4073	Fordham University	8/65	0/9
+222	4073	Central Michigan University	1/55	0/19
+223	4115	Montclair State University	8/67	0/6
+224	4115	Sam Houston State University	2/53	1/20
+225	4177	Bowling Green State University	2/59	0/13
+226	4177	Depaul University	1/62	0/10
+227	4265	Georgia Southern University	2/49	3/21
+228	4265	The University Of Akron	5/53	3/17
+229	4377	K12 Inc.	1/54	0/14
+230	4485	Worcester Polytechnic Institute	0/64	0/2
+231	4526	The Univeristy Of Southern Missisippi	15/51	0/14
+232	4526	University Of Texas Southwestern Med Ctr Dallas	29/54	0/11
+233	4526	Missouri State University	2/47	1/18
+234	4526	Wesleyan University	0/45	0/20
+235	4526	University Of Wisconsin - Whitewater	4/40	4/25
+236	4621	Clarkson University	1/54	2/9
+237	4621	Olivet University	7/52	3/11
+238	4687	The Catholic University Of America	3/54	0/8
+239	4687	Wake Forest University	2/57	0/5
+240	4687	Towson University	2/47	0/15
+241	4687	Illinois Institute Of Technology	2/60	0/2
+242	4756	Grand Valley State University	1/39	0/22
+243	4756	Midwestern University	2/52	0/9
+244	4756	Baylor University	2/49	0/12
+245	4812	Ball State University	7/41	0/19
+246	4863	Western Illinois University	5/45	0/14
+247	4863	University Physicians & Surgeons, Inc.	4/54	0/5
+248	4863	Brigham Young University	1/53	0/6
+249	4930	Albany Medical College	0/51	0/7
+250	4930	Baruch College, The City University Of New York	0/40	2/18
+251	5068	East Tennessee State University	2/46	2/10
+252	5068	University Of Nebraska At Omaha	0/39	0/17
+253	5068	University Of Wisconsin Platteville	4/45	1/11
+254	5126	San Carlos Unified School District #20	2/39	8/16
+255	5126	University Of North Carolina Wilmington	1/37	3/18
+256	5126	Creighton University	2/50	1/5
+257	5126	University Of Pennsylvania	0/2	2/53
+258	5212	University Of California, Merced	3/48	0/6
+259	5212	Appalachian State University	3/36	0/18
+260	5212	University Of Wisconsin La Crosse	6/41	1/13
+261	5281	Western Kentucky University	4/43	2/10
+262	5281	University Of Northern Iowa	5/43	0/10
+263	5371	Japanese Children's Society, Inc.	0/45	0/7
+264	5371	The University Of Tulsa	3/42	3/10
+265	5453	Loma Linda University Medical Center	4/45	0/6
+266	5453	West Texas A&M University	4/39	1/12
+267	5453	California State University, Long Beach	0/40	0/11
+268	5453	California State University, Chico	0/20	11/31
+269	5453	Nova Southeastern University	1/43	0/8
+270	5526	Zuni Public School District #89	1/37	0/13
+271	5595	California State University, San Bernardino	2/35	0/14
+272	5595	Trustees Of Amherst College	3/44	0/5
+273	5595	Dayton Independent School District	0/27	3/22
+274	5595	Port Arthur Independent School District	2/47	2/2
+275	5595	The New School	7/49	-
+276	5595	Bryan Independent School District	1/38	1/11
+277	5700	Colorado School Of Mines	1/43	0/5
+278	5700	Mount Pleasant Independent School District	2/42	0/6
+279	5700	Tyler Independent School District	3/43	0/5
+280	5700	Troy University	0/37	0/11
+281	5791	University Of North Carolina At Greensboro	0/34	0/13
+282	5791	San Jose Unified School District	2/45	0/2
+283	5791	Avenues New York Llc	0/45	0/2
+284	5791	Bucknell University	3/41	0/6
+285	5982	Cleveland State University	1/34	0/11
+286	5982	Loyola Marymount University	0/37	0/8
+287	5982	Andrews University	1/29	1/16
+288	5982	Portland State University	1/33	0/12
+289	5982	Louisiana Tech University	0/34	0/11
+290	5982	Whiteriver Unified School District	0/29	0/16
+291	5982	St. John's University	2/40	0/5
+292	5982	Maharishi University Of Management	2/26	1/19
+293	5982	Chapman University	2/40	0/5
+294	5982	Columbia College	1/35	1/10
+295	6096	West Chester University Of Pennsylvania	0/30	0/14
+296	6096	University Of San Francisco	3/32	0/12
+297	6096	Fort Worth Independent School District	0/16	5/28
+298	6096	Villanova University	1/33	0/11
+299	6096	University Of Alabama	-	2/44
+300	6096	University Of Central Missouri	1/32	0/12
+301	6214	Jacksonville University	1/31	0/12
+302	6214	The U.S. Virgin Islands Department Of Education	10/32	2/11
+303	6324	Loyola University Of Chicago	1/29	0/13
+304	6324	River City Education Services, Inc.	3/37	1/5
+305	6324	University Of Detroit Mercy	0/30	0/12
+306	6441	Murray State University	2/35	0/6
+307	6441	Longview Independent School District	0/40	0/1
+308	6441	Energized For Excellence Academy	1/35	2/6
+309	6441	Colgate University	5/36	0/5
+310	6441	University Of New Haven	4/29	2/12
+311	6441	Teachers College, Columbia University	2/38	1/3
+312	6575	Boston Higashi School, Inc.	0/35	0/5
+313	6575	Rhode Island School Of Design	1/30	0/10
+314	6575	University Of San Diego	0/38	0/2
+315	6575	Southern Illinois University Edwardsville	0/30	1/10
+316	6684	Roosevelt School District #66	0/28	2/11
+317	6684	Discovery Education Services, Inc.	4/29	1/10
+318	6684	Arkansas State University	3/31	0/8
+319	6684	University Of Wisconsin - Green Bay	0/23	0/16
+320	6684	Central Consolidated School District #22	2/24	4/15
+321	6684	Salisbury University	0/27	0/12
+322	6684	University Of Alabama In Huntsville	1/35	0/4
+323	6811	Provo City School District	7/38	-
+324	6811	University Of Northern Colorado	1/28	0/10
+325	6811	Guilford County Schools	3/27	0/11
+326	6811	Lafayette Parish School System	1/20	11/18
+327	6811	Idaho State University	9/31	0/7
+328	6951	College Of Charleston	0/30	0/7
+329	6951	Slippery Rock University Of Pennsylvania	1/28	0/9
+330	6951	Virginia State University	7/36	0/1
+331	6951	The College Of New Jersey	5/35	0/2
+332	7085	Minnetonka Public Schools	0/30	1/6
+333	7085	Benchmark Education Company	0/34	0/2
+334	7085	New York Institute Of Technology	0/34	0/2
+335	7085	University Of The Pacific	0/29	1/7
+336	7085	University Of South Alabama	5/28	2/8
+337	7085	Emporia State University	1/27	0/9
+338	7085	Pace University	2/32	0/4
+339	7225	Bard College	1/31	0/4
+340	7225	Ithaca College	1/21	0/14
+341	7225	University Of St. Thomas	1/29	0/6
+342	7225	University Of Central Arkansas	5/30	0/5
+343	7373	Bloomsburg University Of Pennsylvania	0/25	0/9
+344	7373	Saint Joseph's University	0/25	0/9
+345	7373	Austin Independent School District	1/34	-
+346	7373	North Carolina Agricultural &Technical State Univ	1/34	-
+347	7373	Horizon Science Academy-Cincinnati	1/15	6/19
+348	7373	The City University Of New York	2/30	0/4
+349	7540	Denison University	0/27	0/6
+350	7540	Bradley University	1/23	0/10
+351	7540	Pasadena Unified School District	0/33	-
+352	7540	Utah Valley University	2/29	0/4
+353	7540	Presidio Independent School District	1/22	2/11
+354	7540	State University Of New York At New Paltz	2/29	0/4
+355	7540	Bor Usga Obo Georgia Health Sciences University	0/33	-
+356	7540	University Of North Florida	0/26	0/7
+357	7540	University Of Massachusetts Dartmouth	0/25	0/8
+358	7713	Western University Of Health Sciences	2/30	0/2
+359	7713	Mesquite Independent School District	2/19	6/13
+360	7713	Oberlin College	1/25	0/7
+361	7713	Swarthmore College	1/26	0/6
+362	7713	Texas Christian University	0/22	1/10
+363	7713	California State University, East Bay	4/23	0/9
+364	7713	Colby College	1/28	0/4
+365	7713	New York Medical College	3/32	-
+366	7713	Tulane University	-	3/32
+367	7905	Special School District No. 1	1/30	0/1
+368	7905	Tarleton State University	1/27	0/4
+369	7905	University Of Illinois At Springfield	0/25	0/6
+370	7905	Florida Institute Of Technology	2/26	0/5
+371	7905	Elon University	0/26	1/5
+372	7905	Adelphi University	1/22	0/9
+373	7905	Lincoln University	3/27	1/4
+374	7905	University Of West Florida	0/27	0/4
+375	8076	University Of Hartford	3/26	0/4
+376	8076	University Of Southern Indiana	4/25	0/5
+377	8271	Liberty University, Inc.	0/22	2/7
+378	8271	Skidmore College	2/24	2/5
+379	8271	Manhattan College	0/19	0/10
+380	8271	Bentley University	3/24	0/5
+381	8271	Cameron University	2/23	2/6
+382	8271	Rosalind Franklin University Of Medicine And Scien	2/29	-
+383	8271	The University Of Oklahoma	0/5	0/24
+384	8271	Valdosta State University	1/21	0/8
+385	8271	Florida Gulf Coast University	0/23	1/6
+386	8271	Long Island University	1/26	0/3
+387	8271	Calcasieu Parish School Board	1/24	1/5
+388	8491	Union College	2/26	0/2
+389	8491	University Of New Orleans	2/22	0/6
+390	8491	Suny Fredonia	1/22	1/6
+391	8491	Suffolk University	0/17	2/11
+392	8491	University Of Richmond	0/23	0/5
+393	8491	Missouri Western State University	2/20	0/8
+394	8491	Tennessee Technological University	1/26	0/2
+395	8491	University Of Houston	-	1/28
+396	8491	Middle Tennessee State University	0/19	0/9
+397	8491	Clark University	2/25	0/3
+398	8491	University Of Kansas	0/1	1/27
+399	8491	Horizon Science Academy, Inc.	0/23	0/5
+400	8491	Duquesne University	1/25	0/3
+401	8491	Sallie B. Howard School For The Arts And Education	0/22	0/6
+402	8491	Us Army Defense Language Institute Foreign La	-	7/28
+403	8715	Wellesley College	4/20	1/7
+404	8715	Southeast Missouri State University	0/21	0/6
+405	8715	Mcneese State University	1/18	0/9
+406	8715	University Of Nebraska At Kearney	4/18	1/9
+407	8929	Leland Stanford Jr, University	0/1	2/25
+408	8929	Western Carolina University	0/20	1/6
+409	8929	Northern Kentucky University	0/20	1/6
+410	8929	University Of Colorado Denver	0/9	3/17
+411	8929	University Of Central Oklahoma	4/22	0/4
+412	8929	Florida Agricultural And Mechanical University	1/20	0/6
+413	8929	Dickinson College	1/18	0/8
+414	8929	University Of Wisconsin-Stevens Point	1/11	4/15
+415	8929	Yeshiva University	0/21	0/5
+416	9187	The University Of Montana	3/16	0/9
+417	9187	California State University San Marcos	0/16	0/9
+418	9187	Pratt Institute	3/24	0/1
+419	9187	Mount Holyoke College	1/23	0/2
+420	9187	Roaring Fork School District	4/25	-
+421	9187	Trustees Of The Smith College	4/22	0/3
+422	9438	Fort Hays State University	1/16	0/8
+423	9438	Denver County School District Aka Denver Public Sc	-	2/24
+424	9438	Esi North America, Inc.	2/17	0/7
+425	9438	Gallaudet University	0/20	1/4
+426	9438	Xavier University	0/19	1/5
+427	9438	Central Washington University	2/20	1/4
+428	9438	Ivy Tech Community College Of Indiana	2/19	1/5
+429	9438	The University Of Texas At Tyler	3/22	0/2
+430	9438	University Of Guam	0/19	0/5
+431	9438	Indiana University Of Pennsylvania	1/20	0/4
+432	9438	Deming Public School District	0/9	9/15
+433	9438	West Contra Costa Unified School District	0/24	-
+434	9741	Mitchell County Board Of Education	1/20	1/3
+435	9741	Leport Educational Institute, Inc.	0/18	0/5
+436	9741	Austin Peay State University	2/21	0/2
+437	9741	Radford University	3/19	0/4
+438	9741	Mercer University	1/18	0/5
+439	9741	Lawrence Technological University	1/15	2/8
+440	9741	Columbus State University	1/18	0/5
+441	9741	California State University, Stanislaus	4/12	4/11
+442	9741	University Of Arkansas At Pine Bluff	4/23	-
+443	9741	Santa Clara University	4/20	0/3
+444	10082	St. Cloud State University	0/19	0/3
+445	10082	Riverwalk Education Foundation, Inc.	0/6	1/16
+446	10082	Northeastern Illinois University	1/16	0/6
+447	10082	Functional Life Achievement, Inc.	0/15	2/7
+448	10082	Lisa Academy	-	0/22
+449	10082	Marion County School District	0/19	2/3
+450	10082	Atlanta International School	0/15	5/7
+451	10082	Archimedean Academy, Inc.	0/14	2/8
+452	10082	University Of Louisiana At Monroe	1/21	0/1
+453	10082	Carleton College	1/17	1/5
+454	10082	Bowdoin College	0/21	0/1
+455	10082	Pharr-San Juan-Alamo Independent School District	1/16	4/6
+456	10082	Wilkes University	1/17	0/5
+457	10082	Unique Services Associates, Inc.	1/21	0/1
+458	10082	University Of Wisconsin-Stout	1/14	1/8
+459	10082	The University Of The South	0/15	0/7
+460	10082	Touro College	1/21	0/1
+461	10082	Jacksonville Independent School District	1/20	0/2
+462	10417	Eastern Connecticut State University	2/19	0/2
+463	10417	Monmouth University	2/18	0/3
+464	10417	Southeastern Louisiana University	1/17	0/4
+465	10417	Alabama State University	2/21	-
+466	10417	Providence College	0/15	1/6
+467	10417	Grace Christian Academy Of Saipan	0/13	0/8
+468	10417	University Of Bridgeport	0/14	0/7
+469	10417	East Stroudsburg University Of Pennsylvania	0/16	0/5
+470	10417	Santa Fe Public Schools	3/21	-
+471	10417	Vassar College	0/17	0/4
+472	10417	Shippensburg University Of Pennsylvania	1/16	0/5
+473	10417	The University Of North Carolina At Pembroke	1/17	0/4
+474	10417	Florence Unified School District No. 1	0/14	2/7
+475	10417	University Of Texas Of The Permian Basin	0/17	0/4
+476	10417	Yu Ming Charter School	0/21	-
+477	10417	Eastern Virginia Medical School	2/20	0/1
+478	10793	Truman State University	0/15	0/5
+479	10793	Gettysburg College	0/17	0/3
+480	10793	Champlain College, Inc.	1/12	0/8
+481	10793	Eastern New Mexico University	1/17	0/3
+482	10793	Siena College	1/16	0/4
+483	10793	University Of West Georgia	1/18	0/2
+484	10793	Hamilton College	1/17	0/3
+485	11177	Prairie View A&M University	2/19	-
+486	11177	Seattle Pacific University	0/15	0/4
+487	11177	International School Of Louisiana	1/16	0/3
+488	11177	Img Academy, Llc	0/17	1/2
+489	11177	Seattle University	0/16	0/3
+490	11177	Gannon University	1/13	0/6
+491	11177	Usd 501	1/11	3/8
+492	11177	University Of Arkansas At Little Rock	1/15	1/4
+493	11177	Golden Rule Schools, Inc.	0/19	-
+494	11177	Robert Morris University	1/14	0/5
+495	11177	Kean University	0/16	0/3
+496	11177	Alcorn State University	0/17	0/2
+497	11177	Independent School District #270, Hopkins	0/19	-
+498	11177	Minot State University	2/13	0/6
+499	11177	Colorado College	1/14	1/5
+500	11177	Rhode Island College	1/15	0/4
+501	11177	Northern Michigan University	2/12	1/7
+502	11177	Texas A&M University - Central Texas	3/15	0/4
+503	11177	Prometric Inc.	0/15	2/4
+504	11602	Gonzaga University	1/15	0/3
+505	11602	Arcadia University	0/16	0/2
+506	11602	Western Oregon University	0/14	0/4
+507	11602	Washington Yu Ying Public Charter School	0/13	1/5
+508	11602	Rollins College	0/12	0/6
+509	11602	Greensville County Public Schools	1/15	1/3
+510	11602	The University Of Tampa	0/16	0/2
+511	11602	University Of California, Riverside	0/2	0/16
+512	11602	Education Development Center, Inc.	1/18	-
+513	11602	Pioneer Charter School Of Science	2/12	2/6
+514	11602	Western New England University	0/14	0/4
+515	11602	Angelo State University	4/17	0/1
+516	11602	East Carroll Parish School Board	2/18	-
+517	11602	Berklee College Of Music	3/16	2/2
+518	11602	Frostburg State University	0/12	0/6
+519	11602	Coastal Carolina University	0/14	0/4
+520	11602	East Baton Rouge Parish School Board	0/13	5/5
+521	11602	Colleton County Schools	3/15	0/3
+522	11602	Academie Lafayette	0/16	0/2
+523	11602	University Of Wisconsin-Eau Claire	0/10	0/8
+524	11602	Wheaton College	1/14	0/4
+525	11602	Northeast Raleigh Charter Academy	1/18	-
+526	12073	Saint Mary's College Of California	0/15	0/2
+527	12073	Depauw University	0/15	0/2
+528	12073	Stetson University, Inc.	0/13	0/4
+529	12073	Scantron Corporation	0/13	0/4
+530	12073	Pittsburg State University	1/12	0/5
+531	12073	Brooklyn College Of The City University Of New Yor	1/14	0/3
+532	12073	Lycee Francais De Chicago	0/12	0/5
+533	12073	Longwood University	1/15	0/2
+534	12073	Drake University	1/11	0/6
+535	12073	Richland School District One	-	7/17
+536	12073	Gakkyusha U.S.A. Co., Ltd.	0/14	0/3
+537	12073	Franklin & Marshall College	0/15	0/2
+538	12073	Fort Bend Independent School District	0/12	5/5
+539	12073	St. Mary's University	0/11	0/6
+540	12569	State University Of New York	-	2/16
+541	12569	St. Lawrence University	0/9	0/7
+542	12569	International School Of The Peninsula	0/10	1/6
+543	12569	Texas A&M University At Galveston	0/16	-
+544	12569	Webster University	2/12	0/4
+545	12569	Triad Math And Science Academy Company	0/8	0/8
+546	12569	Bryant University	1/12	0/4
+547	12569	Saginaw Valley State University	0/11	0/5
+548	12569	Sacred Heart University	2/16	-
+549	12569	New Mexico Institute Of Mining & Technology	0/13	0/3
+550	12569	Holmes County School District	2/12	1/4
+551	12569	State University Of New York At Cortland	0/11	0/5
+552	12569	Wright State University	0/13	0/3
+553	12569	San Mateo-Foster City School District	2/12	4/4
+554	12569	State University Of New Yorkcollege At Plattsburgh	0/2	2/14
+555	12569	Mercyhurst University	0/13	0/3
+556	12569	Douglas Unified School District 27	0/15	0/1
+557	12569	Minnesota State University Mankato	-	1/16
+558	13176	Waco Independent School District	0/9	1/6
+559	13176	Horizon Science Academy-Toledo, Inc.	0/11	1/4
+560	13176	Anne Arundel County Public Schools	0/8	4/7
+561	13176	William Marsh Rice University	-	0/15
+562	13176	Georgia College And State University	2/12	0/3
+563	13176	Cato Institute	1/15	-
+564	13176	Iona College	0/12	0/3
+565	13176	University Of La Verne	0/11	1/4
+566	13176	Merrimack College	0/10	0/5
+567	13815	The City College Of New York	0/14	-
+568	13815	6tuba City Unified School District #15	-	1/14
+569	13815	Claremont Graduate University	1/13	0/1
+570	13815	Laguardia Community College	1/12	0/2
+571	13815	Oral Roberts University	0/13	0/1
+572	13815	Ajo Unified School District #15	0/8	2/6
+573	13815	The King's College	1/12	0/2
+574	13815	Horizon Educational Services Of Columbus Inc.	0/8	1/6
+575	13815	Hult International Business School	0/14	-
+576	13815	Virginia Military Institute	0/11	0/3
+577	13815	Apollo Education Group, Inc.	7/12	0/2
+578	13815	Allendale County School District	0/13	0/1
+579	13815	Savannah State University	0/11	2/3
+580	13815	Kalamazoo College	0/11	0/3
+581	13815	Barnard College	0/12	0/2
+582	13815	Uk International Soccer Camps	0/13	0/1
+583	13815	Knewton, Inc.	0/8	1/6
+584	13815	Spelman College	1/14	-
+585	13815	Ohio Northern University	0/7	0/7
+586	13815	New York Film Academy Ltd.	2/11	1/3
+587	13815	Le Moyne College	1/13	0/1
+588	13815	Kutztown University Of Pennsylvania	0/11	0/3
+589	13815	Bilingual Buds Nyc Inc.	0/14	-
+590	13815	Trinity University	5/13	0/1
+591	14560	Phoenix Union High School District #210	1/10	0/3
+592	14560	Dalton State College	2/11	0/2
+593	14560	Susquehanna University	1/9	0/4
+594	14560	Edinboro University Of Pennsylvania	2/13	-
+595	14560	University Of Puget Sound	3/10	0/3
+596	14560	The Carter G. Woodson School Of Challenge	2/13	-
+597	14560	Southern University And A&M College	2/8	1/5
+598	14560	Loyola University New Orleans	1/12	0/1
+599	14560	Milwaukee Board Of School Directors	0/13	-
+600	14560	California State University Channel Islands	1/8	0/5
+601	14560	The School District Of Palm Beach County	0/11	2/2
+602	14560	Alfred University	0/10	0/3
+603	14560	Excelsior College	0/8	0/5
+604	14560	Black Hills State University	0/11	1/2
+605	14560	Jackson State University	0/11	0/2
+606	14560	Peoria Unified School District No. 11	2/9	3/4
+607	14560	Ferris State University	2/11	0/2
+608	14560	Hint, Inc.	1/11	1/2
+609	14560	Saint Paul Christian School	0/8	3/5
+610	14560	Sistema Universitario Ana G Mendez	2/9	1/4
+611	14560	Virginia International University	0/9	0/4
+612	14560	Wilson County Schools	3/12	0/1
+613	14560	College Of The Holy Cross	0/11	0/2
+614	14560	Butler University	0/9	0/4
+615	14560	Queensborough Community College	0/10	0/3
+616	14560	Splendora Independent School District	0/11	0/2
+617	14560	Caddo Parish School Board	-	13/13
+618	15429	Nicholls State University	1/10	0/2
+619	15429	Illinois College	2/11	0/1
+620	15429	Southern Utah University	2/10	1/2
+621	15429	Liberty Independent School District	0/9	2/3
+622	15429	California University Of Management & Sciences	0/10	0/2
+623	15429	John Jay College Of Criminal Justice, Cuny	0/12	-
+624	15429	Halifax County Schools	1/11	0/1
+625	15429	Espanola Public Schools	0/5	1/7
+626	15429	Florida State College At Jacksonville	0/8	0/4
+627	15429	Clark Atlanta University	0/9	0/3
+628	15429	Fairfield University	0/9	1/3
+629	15429	Rhodes College	1/9	0/3
+630	15429	Georgia Southwestern State University	2/10	0/2
+631	15429	Albuquerque School Of Excellence	1/9	0/3
+632	15429	Belmont University	0/7	0/5
+633	15429	Christopher Newport University	0/8	1/4
+634	15429	Fayetteville State University	0/11	1/1
+635	15429	Our Lady Of The Lake College	0/8	0/4
+636	15429	Sarah Lawrence College	0/8	1/4
+637	15429	Babson College	0/11	0/1
+638	15429	Woodstock Community Unit School District 200	0/7	2/5
+639	15429	Indiana Math And Science Academy-Indianapolis Inc.	0/6	3/6
+640	15429	University Of Wisconsin Oshkosh	0/9	0/3
+641	16421	Wiley College	0/8	0/3
+642	16421	Washburn University	0/9	0/2
+643	16421	Pensacola Christian College	0/7	0/4
+644	16421	Georgia Gwinnett College	2/9	0/2
+645	16421	Conroe Independent School District	0/5	5/6
+646	16421	Vallejo City Unified School District	0/11	-
+647	16421	Global Teachers Research & Resources, Inc	-	11/11
+648	16421	Lynn University	0/10	0/1
+649	16421	The University Of Findlay	1/9	0/2
+650	16421	Fuller Theological Seminary	0/9	1/2
+651	16421	Ramapo College Of New Jersey	2/10	0/1
+652	16421	Indiana State University	0/10	0/1
+653	16421	Allegheny College	0/8	0/3
+654	16421	Marywood University	0/8	0/3
+655	16421	Lake Forest College	0/7	0/4
+656	16421	New College Of Florida	0/8	0/3
+657	16421	Washington & Lee University	1/8	0/3
+658	16421	California Institute Of The Arts	0/11	-
+659	16421	Norfolk Public Schools	2/11	-
+660	16421	University Of Scranton	0/6	1/5
+661	16421	University Of Evansville	0/7	0/4
+662	16421	Lindenwood Female College	1/10	0/1
+663	16421	University Of Wisconsin Colleges	0/3	0/8
+664	16421	Charlotte-Mecklenburg Schools	0/10	0/1
+665	16421	Bellevue College	0/9	0/2
+666	16421	International Institute For Educational & Cult Dev	0/9	2/2
+667	16421	New York Preparatory School	1/9	0/2
+668	16421	Chapel Hill Independent School District	0/5	1/6
+669	16421	Georgia Christian University, Inc	0/6	0/5
+670	17578	Willow Education	0/7	0/3
+671	17578	The Awty International School	1/8	0/2
+672	17578	Morehead State University	3/9	0/1
+673	17578	Passaic Arts And Science Charter School	0/9	0/1
+674	17578	American Education And Translation Services Llc	0/7	1/3
+675	17578	Alum Rock Union Elementary School District	1/8	0/2
+676	17578	Pinon Unified School District #4	0/4	1/6
+677	17578	University Of Portland	0/9	0/1
+678	17578	California Lutheran University	0/6	1/4
+679	17578	Roger Williams University	0/9	0/1
+680	17578	North Carolina Central University	0/10	-
+681	17578	Monterey Peninsula Unified School District	2/9	0/1
+682	17578	Davidson College	0/8	0/2
+683	17578	Bowie State University	1/9	0/1
+684	17578	Zoni Language Center Inc	1/10	-
+685	17578	Saint Francis University	0/9	0/1
+686	17578	Harvey Mudd College	2/8	0/2
+687	17578	St. Ambrose University	0/6	0/4
+688	17578	National Test Pilot School	1/8	0/2
+689	17578	International Baccalaureate Organization	0/7	1/3
+690	17578	Pacific Union College	1/9	0/1
+691	17578	Chesapeake Lighthouse Foundation Inc.	0/2	0/8
+692	17578	Tiger Kim's Taekwondo, Inc.	2/6	1/4
+693	17578	Tuba City Unified School District	1/9	1/1
+694	18940	Idea Public Schools	1/8	0/1
+695	18940	Calvin College	0/8	0/1
+696	18940	William Paterson University	0/8	0/1
+697	18940	Turkish American Society, Inc.	0/3	0/6
+698	18940	Park University	1/9	-
+699	18940	Computerized Assessments And Learning, Llc	0/4	1/5
+700	18940	Bronx Community College	3/6	0/3
+701	18940	Marian University, Inc.	0/6	0/3
+702	18940	Lynchburg College	0/8	0/1
+703	18940	University Of Houston-Clear Lake	-	2/9
+704	18940	Southwestern Adventist University	0/8	0/1
+705	18940	Saint John's University	2/8	0/1
+706	18940	Kenyon College	0/8	0/1
+707	18940	State University Of New York College At Oneonta	-	0/9
+708	18940	Barnwell School District #19	1/8	0/1
+709	18940	Lawrence University Of Wisconsin	0/8	0/1
+710	18940	Loyola University Maryland	0/6	0/3
+711	18940	Randolph-Macon College	0/6	1/3
+712	18940	Concept Schools, Nfp.	0/4	1/5
+713	18940	U.K. Elite Soccer, Inc.	1/7	0/2
+714	18940	Dordt College Inc.	1/9	-
+715	18940	University Of Massachusetts President's Office	0/7	1/2
+716	18940	Noxubee County School District	0/9	-
+717	18940	Suny At Geneseo	-	0/9
+718	18940	Monmouth College	0/8	0/1
+719	18940	Global Village Academy- Northglenn	1/8	0/1
+720	18940	Usmleworld, Llc	0/9	-
+721	18940	Brooklyn Amity School	0/3	2/6
+722	18940	Sul Ross State University	0/9	-
+723	20635	Azusa Pacific University	1/8	-
+724	20635	Vienna String Institute	0/6	0/2
+725	20635	Saint Demetrios Greek-American School	0/2	1/6
+726	20635	American Public University System	1/5	0/3
+727	20635	Texas Woman's University	0/8	-
+728	20635	Hunter College/Cuny	-	2/8
+729	20635	University Of The Sciences In Philadelphia	2/8	-
+730	20635	Westminster College	0/7	1/1
+731	20635	Lancaster County School District 0001	0/7	0/1
+732	20635	Us-Uhak Inc	0/4	0/4
+733	20635	Fayette County Public Schools	0/7	0/1
+734	20635	Clear Creek Independent School District	0/6	1/2
+735	20635	Northwestern Polytechnic University	1/8	-
+736	20635	Keck Graduate Institute	2/6	1/2
+737	20635	Tucci Learning Solutions, Inc.	0/6	0/2
+738	20635	Bergen Arts And Science Charter School	1/7	0/1
+739	20635	Lafourche Parish School Board	0/7	0/1
+740	20635	Bethel University	1/6	0/2
+741	20635	Montessori West, Inc.	0/6	0/2
+742	20635	Phillips Academy	0/7	0/1
+743	20635	Freeport School District #145	0/8	-
+744	20635	Roosevelt University	1/7	0/1
+745	20635	Coolidge Unified School District #2	0/4	3/4
+746	20635	University Of Puerto Rico-Mayaguez Campus	1/6	0/2
+747	20635	Elizabeth City State University	0/8	-
+748	22705	Barry University	0/5	0/2
+749	22705	Philadelphia College Of Osteopathic Medicine	0/7	-
+750	22705	California College Of The Arts	0/7	-
+751	22705	Syracuse Academy Of Science Charter School	0/4	2/3
+752	22705	Salinas Union High School District	1/5	2/2
+753	22705	Tulsa Public Schools	0/6	0/1
+754	22705	Pacific University	0/7	-
+755	22705	Bethune-Cookman University	2/7	-
+756	22705	Washington International School	0/5	1/2
+757	22705	Drew University	2/7	-
+758	22705	Milwaukee School Of Engineering	0/7	-
+759	22705	Canisius College	0/7	-
+760	22705	Briar Cliff University	2/5	1/2
+761	22705	Woodcrest Preschools Inc.	1/7	-
+762	22705	Niagara University	1/6	0/1
+763	22705	The University Of North Dakota	-	0/7
+764	22705	Oakwood University	0/6	0/1
+765	22705	St. Mary's College Of Maryland	0/7	-
+766	22705	Hampden-Sydney College	0/5	0/2
+767	22705	College Of Staten Island/Cuny	-	0/7
+768	22705	Winona State University	-	0/7
+769	22705	Garland Independent School District	0/6	0/1
+770	22705	Orchepia School Of Music, Inc.	0/5	0/2
+771	22705	Harvard-Westlake School	1/6	0/1
+772	22705	Western New Mexico University	1/6	0/1
+773	22705	Governors State University	2/7	-
+774	22705	Regent University	1/6	0/1
+775	22705	Framingham State University	0/5	0/2
+776	22705	Usd 259	-	0/7
+777	22705	Augustana College	0/6	0/1
+778	22705	Saint Michael's College	0/6	0/1
+779	25371	Clarksdale Municipal School District	0/4	1/2
+780	25371	Langston University	1/6	-
+781	25371	Reed College	0/3	0/3
+782	25371	Plymouth State University	0/5	0/1
+783	25371	Regis University	0/4	1/2
+784	25371	Measured Progress, Inc.	0/5	0/1
+785	25371	Goucher College	0/6	-
+786	25371	Mccomb Children's Clinic Ltd	0/4	1/2
+787	25371	Manhattanville College	0/6	-
+788	25371	Bethany College	0/6	-
+789	25371	Mexicayotl Academy	0/5	0/1
+790	25371	Cibecue Community School	0/4	0/2
+791	25371	Sesame Workshop	0/6	-
+792	25371	Mississippi College	0/5	0/1
+793	25371	St. Olaf College	0/3	0/3
+794	25371	Odyssey Charter School, Inc.	0/4	0/2
+795	25371	Central College	0/5	0/1
+796	25371	Bernalillo Public Schools	0/1	0/5
+797	25371	The School Board Of The City Of Petersburg	0/6	-
+798	25371	Santa Clara County Office Of Education	0/3	1/3
+799	25371	Luther College	0/5	0/1
+800	25371	Hall County School District	0/4	0/2
+801	25371	Suny Upstate Medical University	-	0/6
+802	25371	Indiana Wesleyan University	0/6	-
+803	25371	Bowman International School	0/6	-
+804	25371	Bristol Community College	0/2	1/4
+805	25371	Warren County Schools	1/5	1/1
+806	25371	Biola University	0/5	0/1
+807	25371	Manchester University	0/6	-
+808	25371	Western Nebraska Community College	0/4	0/2
+809	25371	Dakota State University	0/5	0/1
+810	25371	University Of Tennessee, Chattanooga	-	1/6
+811	25371	Howard University	1/2	1/4
+812	25371	Oklahoma City University	2/6	-
+813	25371	California University Of Pennsylvania	0/4	0/2
+814	25371	Franklin College	0/3	0/3
+815	25371	Virginia University Of Oriental Medicine	0/1	1/5
+816	25371	Mohave Valley Elementary School District 16	3/6	-
+817	25371	Suny-Buffalostate College	-	0/6
+818	25371	Suny Potsdam	-	1/6
+819	29073	Pacific States University	0/2	1/3
+820	29073	The Brooklyn Waldorf School	0/5	-
+821	29073	Ruidoso Municipal School District	-	0/5
+822	29073	Wayne County Public Schools	1/5	-
+823	29073	Stonehill College	0/3	0/2
+824	29073	Stockton Unified School District	0/3	1/2
+825	29073	Whittier College	1/4	0/1
+826	29073	Rider University	0/3	0/2
+827	29073	Gordon College	0/4	0/1
+828	29073	Sky Foundation	-	2/5
+829	29073	Erskine College	4/5	-
+830	29073	Chiao Hsin Chinese Language School	0/3	0/2
+831	29073	California Baptist University	0/5	-
+832	29073	St. John Fisher College	0/4	0/1
+833	29073	The President And Trustees Of Williams College	-	0/5
+834	29073	Cultural Homestay International, Inc.	0/2	1/3
+835	29073	The Magellan School	0/1	0/4
+836	29073	Connecticut College	0/5	-
+837	29073	Mount Saint Mary College	0/3	1/2
+838	29073	University Of Dubuque	0/4	0/1
+839	29073	Utica College	0/5	-
+840	29073	Livewirecyber, Inc.	0/5	-
+841	29073	Millersville University Of Pennsylvania	0/4	0/1
+842	29073	University Of Arkansas - Fort Smith	1/5	-
+843	29073	Olympiad School Inc.	0/2	2/3
+844	29073	Lewis University	0/3	1/2
+845	29073	Jeffco Public Schools	0/5	-
+846	29073	South Carolina State University	0/5	-
+847	29073	Monroe College Ltd.	0/4	0/1
+848	29073	Vermont Academy	1/5	-
+849	29073	Chicago State University	0/5	-
+850	29073	Cuba Independent Schools	1/2	3/3
+851	29073	Yazoo City Municipal School District	0/5	-
+852	29073	Music Institute Of Chicago	1/5	-
+853	29073	Bryn Mawr College	0/3	0/2
+854	29073	St. Edward's University	0/4	0/1
+855	29073	Leadership Public Charter School	1/5	-
+856	29073	Northwest Evaluation Association	0/3	0/2
+857	29073	University Of Maine At Fort Kent	0/5	-
+858	29073	St. Timothy's School	0/4	0/1
+859	29073	Fort Valley State University	0/5	-
+860	29073	United States-China Exchange Council	0/2	0/3
+861	29073	University Of Mount Union	0/5	-
+862	29073	Claflin University	0/4	0/1
+863	29073	Alexandria City Public Schools	0/5	-
+864	29073	Little Chopin Music School, Inc.	0/4	0/1
+865	29073	The Bridges Academy	0/5	-
+866	29073	Dickinson State University	0/3	0/2
+867	29073	Bertie County Schools	1/3	0/2
+868	34122	Stanton University	0/2	0/2
+869	34122	Malone University	0/2	0/2
+870	34122	Horizon Science Academy Dayton Downtown	0/2	0/2
+871	34122	Newton Public Schools	1/4	-
+872	34122	Pinnacle Education Services Dba Pinnacle Academy	-	0/4
+873	34122	Southern University At New Orleans	0/1	1/3
+874	34122	Ringling College Of Art And Design	0/4	-
+875	34122	Thomasville City Schools	0/1	1/3
+876	34122	Lrn Corporation	0/4	-
+877	34122	Madison Metropolitan School District	0/2	1/2
+878	34122	University Of Baltimore	0/4	-
+879	34122	Buena Vista University	0/3	0/1
+880	34122	Bluedata International Inc.	2/4	-
+881	34122	The University Of Houston	4/4	-
+882	34122	College Of Coastal Georgia	1/3	0/1
+883	34122	Houston Baptist University	0/3	0/1
+884	34122	Johnson & Wales University	0/3	0/1
+885	34122	Warren County Board Of Education	0/4	-
+886	34122	Willamette University	0/2	0/2
+887	34122	Mckendree University	1/3	0/1
+888	34122	Loyola University Health System	1/4	-
+889	34122	Horizon Science Academy-Toledo	-	0/4
+890	34122	Houston Gateway Academy	1/3	1/1
+891	34122	Shawnee State University	0/3	0/1
+892	34122	In Art, Inc.	0/2	0/2
+893	34122	Ashland University	0/3	0/1
+894	34122	Lewis & Clark College	-	0/4
+895	34122	Commonwealth Of Massachusetts	0/4	-
+896	34122	Somerton School District #11	0/3	0/1
+897	34122	United States Naval Academy	0/4	-
+898	34122	Omega Alpha Academy	0/1	2/3
+899	34122	Hagerman Municipal Schools	0/1	1/3
+900	34122	Gadsden Elementary School District #32	0/1	2/3
+901	34122	California College Of Communications	0/4	-
+902	34122	Digipen (Usa) Corporation	0/3	0/1
+903	34122	Claremont Mckenna College	0/3	0/1
+904	34122	Charter Schools Usa, Inc.	2/4	-
+905	34122	Lee University	0/4	-
+906	34122	Yong In Master Lee's Taekwondo Inc.	-	0/4
+907	34122	Abraham Baldwin Agricultural College	0/2	0/2
+908	34122	Extensive Therapy Connection & Solution Llc	0/4	-
+909	34122	Endicott College	0/4	-
+910	34122	Applied Behavior Consultants, Inc.	0/3	0/1
+911	34122	National Conference Of Bar Examiners	0/2	1/2
+912	34122	Warner University	0/3	0/1
+913	34122	Culpeper County Public Schools	-	4/4
+914	34122	Southwest Minnesota State University	-	1/4
+915	34122	Central Jersey College Prep Charter School	0/3	0/1
+916	34122	University Of Wisconsin-Superior	0/2	0/2
+917	34122	Worcester State University	1/3	0/1
+918	34122	Early Steps Bilingual Pre School	0/3	0/1
+919	34122	Saint Anselm College	0/4	-
+920	34122	Utica Academy Of Science Charter School	0/4	-
+921	34122	Career Success Schools	0/4	-
+922	42364	University Of Phoenix, Inc.	-	0/3
+923	42364	Honors Review Princeton Llc.	0/2	0/1
+924	42364	Roessler-Chadwick Foundation	0/2	0/1
+925	42364	Tsf Academy, Llc	1/2	0/1
+926	42364	Walthall County School District	0/3	-
+927	42364	Maricopa Unified School District #20	0/3	-
+928	42364	Greenbrier County Schools	0/3	-
+929	42364	Tejano Center For Community Concerns	0/3	-
+930	42364	Hyde Leadership Charter School	0/2	1/1
+931	42364	Friendship Public Charter School	0/3	-
+932	42364	Devry Inc.	0/3	-
+933	42364	School Of The Art Institute Of Chicago	-	0/3
+934	42364	Shasta Union High School District	0/3	-
+935	42364	Inter American University Of Puerto Rico	0/2	0/1
+936	42364	Independent School District #16	0/2	0/1
+937	42364	Feather River College	0/3	-
+938	42364	Independent School District #57, Garfield County	0/3	-
+939	42364	International American University, Inc.	0/2	0/1
+940	42364	Gateway Charter Academy	-	3/3
+941	42364	Music Institute Of North Texas, Llc	0/3	-
+942	42364	Rosel School Of Cosmetology	-	2/3
+943	42364	Dillard University	1/2	0/1
+944	42364	Kettering University	0/3	-
+945	42364	Wesley College	0/3	-
+946	42364	Apollo Group, Inc.	-	3/3
+947	42364	Lodi Unified School District	0/2	0/1
+948	42364	America Evangelical University	0/2	0/1
+949	42364	Virginia Christian University	-	0/3
+950	42364	Fairmont Schools	0/3	-
+951	42364	Faulkner University	0/3	-
+952	42364	Brooklyn Prospect Charter School	1/3	-
+953	42364	Oklahoma Baptist University	0/3	-
+954	42364	Maine Maritime Academy	0/2	0/1
+955	42364	West Liberty University	1/3	-
+956	42364	Coppin State University	0/3	-
+957	42364	Carousel School	0/3	-
+958	42364	Horizon Science Academy Dayton High School, Inc.	0/1	1/2
+959	42364	Gurnick Academy Of Medical Arts	1/3	-
+960	42364	St. Thomas University, Inc.	1/3	-
+961	42364	Unified School District No. 457	0/3	-
+962	42364	Preschool Of America (Usa) Inc	0/3	-
+963	42364	American Learning Foundation, Inc.	0/2	0/1
+964	42364	Ub Family Medicine, Inc.	0/3	-
+965	42364	J.C. Education Center, Inc.	0/1	1/2
+966	42364	Shepherd University	0/2	0/1
+967	42364	Gahanna-Jefferson Public Schools	0/3	-
+968	42364	The Montessori School At Emory, Inc.	1/3	-
+969	42364	Harvest Power Community Development Group, Inc.	0/3	-
+970	42364	Saint Mary's College	-	0/3
+971	42364	Intercultural Montessori Language School	0/3	-
+972	42364	Boston Public Schools	0/3	-
+973	42364	Kentucky Community & Technical College System	0/2	0/1
+974	42364	Paine College	2/3	-
+975	42364	Millikin University	0/3	-
+976	42364	Peralta Community College District	0/3	-
+977	42364	Galveston Independent School District	0/2	0/1
+978	42364	Holy Names University	0/3	-
+979	42364	Milkyway Education Center, Inc.	-	0/3
+980	42364	Hampden Charter School Of Science	1/3	-
+981	42364	Fls Language Centres	0/3	-
+982	42364	Trinity Episcopal School	0/3	-
+983	42364	Chinese American International School	1/3	-
+984	42364	Aspire Public Schools	0/1	1/2
+985	42364	Hope Community Charter School, Inc.	0/1	1/2
+986	42364	Dli (Defense Language Institute-Us Army)	0/3	-
+987	42364	Young Harris College	0/2	0/1
+988	42364	University Of Wisconsin-Parkside	0/2	0/1
+989	42364	Trustees Of The Hamline University Of Minnesota	1/1	0/2
+990	42364	Ajdc, Inc.	2/3	-
+991	42364	World Champion Taekwondo, Inc	-	0/3
+992	42364	Gustavus Adolphus College	0/1	0/2
+993	42364	The Razi School	0/3	-
+994	42364	Todd County School District	0/3	-
+995	42364	Albany College Of Pharmacy And Health Sciences	0/3	-
+996	42364	Jc Air Academy Inc.	-	1/3
+997	42364	University Of East-West Medicine	0/1	1/2
+998	56066	Northampton County Public Schools	0/2	-
+999	56066	Lindsey Wilson College	0/2	-
+1000	56066	Benedict College	0/1	0/1

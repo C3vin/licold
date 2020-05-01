@@ -1,0 +1,509 @@
+
+Visa Rank	Employer	H1B LCA(2017-2019)
+(Denied, Withdrawn/Total)	Green Card LC(2017-2019)
+(Denied, Withdrawn/Total)
+1	4	Deloitte Consulting Llp	711/31112	9/1501
+2	11	Accenture Llp	290/18725	13/763
+3	20	Jpmorgan Chase & Co.	167/5557	30/1094
+4	34	Pricewaterhousecoopers, Llp	43/3559	9/501
+5	36	Kforce Inc.	34/3054	24/868
+6	53	Populus Group, Llc	160/2688	16/204
+7	63	Bloomberg, Lp	32/1556	11/605
+8	64	Comcast Cable Communications, Llc	34/1770	1/353
+9	67	Dell Usa Lp	57/1609	7/432
+10	86	Prokarma, Inc.	37/1627	2/192
+11	99	Deloitte & Touche Llp	14/1068	2/527
+12	106	The Boston Consulting Group, Inc.	8/1242	6/242
+13	114	Mckinsey & Company, Inc. United States	5/1074	10/332
+14	126	Experis Us, Inc.	65/1158	14/151
+15	128	Airbnb, Inc.	33/960	9/348
+16	133	Headstrong Services Llc	2/1134	0/105
+17	141	Genpact Llc	3/1078	1/76
+18	149	Zs Associates, Inc.	11/1051	0/43
+19	212	Zillow, Inc.	19/642	10/223
+20	216	Exlservice.Com, Llc	33/832	1/26
+21	234	Slalom Llc	21/705	0/103
+22	237	Fis Management Services, Llc	20/666	4/139
+23	281	Ads Alliance Data Systems, Inc.	10/593	1/122
+24	300	Inovalon, Inc.	114/631	2/64
+25	326	Sdlc Management, Inc.	10/631	2/28
+26	365	Mitchell/Martin, Inc.	8/551	0/73
+27	368	Honeywell International Inc.	17/507	4/112
+28	383	Mckesson Corporation	41/513	19/81
+29	431	Ariba, Inc.	5/456	0/84
+30	441	Brookhaven National Laboratory	16/533	-
+31	443	The Nielsen Company (Us), Llc	2/433	4/96
+32	460	Adecco Technical	4/508	0/4
+33	482	Moody's Analytics	20/420	1/74
+34	492	Bain & Company, Inc.	47/403	3/85
+35	500	Equifax Inc.	6/459	0/25
+36	552	Ana-Data Consulting Inc	2/409	3/39
+37	567	Gspann Technologies, Inc.	10/391	1/47
+38	586	Techdata Service Company, Llc.	25/362	5/65
+39	598	Noblesoft Solutions, Inc.	3/369	0/52
+40	640	Medallia, Inc.	8/340	1/61
+41	650	Valuelabs, Inc.	2/380	1/17
+42	668	Dell Marketing Lp	22/328	1/60
+43	693	Audible Inc	3/275	0/100
+44	701	Prolifics, Inc.	24/363	1/10
+45	714	Express Scripts Services Co.	6/300	0/67
+46	723	Integrated Resources, Inc	11/341	1/24
+47	744	Citizens Financial Group, Inc.	6/307	0/52
+48	782	M. Arthur Gensler, Jr. & Associates, Inc.	12/303	3/45
+49	814	Cardinal Health, Inc.	10/209	10/130
+50	853	Spotify Usa Inc.	16/286	0/40
+51	863	Move, Inc.	6/263	4/60
+52	878	Comscore, Inc.	5/271	8/49
+53	952	Analysis Group, Inc.	5/285	0/15
+54	982	Cbre, Inc.	2/269	0/23
+55	985	Huron Consulting Services Llc	5/253	0/38
+56	1002	Thomson Reuters (Markets) Llc	1/252	0/35
+57	1014	Ccc Information Services Inc.	2/237	2/48
+58	1042	Cornerstone Research, Inc.	6/239	4/40
+59	1047	Fair Isaac Corporation	3/209	4/69
+60	1074	Csg Systems, Inc.	9/227	2/45
+61	1085	Cornerstone Ondemand, Inc.	5/200	0/70
+62	1133	The Devereux Foundation	24/247	3/14
+63	1144	Prime Healthcare Management, Inc.	7/223	2/36
+64	1185	Hca Management Services Lp	8/195	0/58
+65	1206	Experian Information Solutions, Inc.	3/209	3/41
+66	1212	Oliver Wyman, Inc.	2/197	1/52
+67	1250	Latitude 36, Inc.	4/216	5/27
+68	1260	Secureworks, Inc.	13/198	2/42
+69	1270	Skidmore, Owings & Merrill, Llp	6/201	0/37
+70	1348	Prosoft Technology Group, Inc.	16/212	0/14
+71	1395	Teksystems, Inc.	4/214	0/3
+72	1395	Advantage Technical Resourcing, Inc.	3/197	0/20
+73	1408	Alixpartners, Llp	12/181	1/34
+74	1416	American Institutes For Research	7/182	1/32
+75	1441	The Fountain Group Llc	7/207	2/5
+76	1455	Musigma Inc	13/191	0/20
+77	1479	A.T. Kearney, Inc.	1/160	0/49
+78	1559	Medical Science & Computing, Inc.	3/164	1/36
+79	1584	Live Nation Worldwide, Inc.	3/158	0/39
+80	1606	Burns & Mcdonnell Engineering Company, Inc.	9/170	3/24
+81	1622	Argus Information & Advisory Services Llc	9/150	3/42
+82	1669	Applications Software Technology Corporation	4/169	0/18
+83	1684	Teksystems Global Services Llc	2/178	0/8
+84	1694	Dow Jones And Company	9/168	2/17
+85	1694	Perkins + Will, Inc.	6/163	0/22
+86	1708	Infosoft, Inc.	7/168	1/16
+87	1724	Cra International, Inc.	3/161	0/22
+88	1732	Volt Management Corp	6/173	1/9
+89	1742	Evolent Health Llc	1/146	0/35
+90	1759	The Advisory Board Company	13/144	1/35
+91	1759	Medical Management International, Inc.	0/169	1/10
+92	1767	Hs Solutions, Inc.	2/162	2/16
+93	1801	Quadgen Wireless Solutions Inc	1/154	2/20
+94	1801	Sirius Xm Radio Inc.	3/126	3/48
+95	1815	Kirkland & Ellis Llp	0/163	1/10
+96	1815	Interpro, Inc.	15/161	2/12
+97	1827	Skadden, Arps, Slate, Meagher & Flom Llp	3/161	0/11
+98	1839	Aol Inc.	1/133	4/38
+99	1845	Marketo, Inc.	16/141	0/29
+100	1865	Dechen Consulting Group, Inc.	3/148	3/20
+101	1877	Wolters Kluwer United States Inc.	1/158	0/9
+102	1930	Applied Predictive Technologies	0/149	0/14
+103	1957	Aerotek, Inc.	6/147	2/14
+104	1971	Avant Healthcare Professionals	20/151	0/9
+105	1994	Thomson Reuters U.S. Inc.	1/128	2/30
+106	2007	Clover Network, Inc.	0/122	0/35
+107	2080	Merkle Inc.	4/135	2/16
+108	2122	Icf Incorporated, Llc	2/139	0/10
+109	2156	Pros Inc.	2/129	1/18
+110	2156	Towers Watson Delaware Inc.	1/121	0/26
+111	2176	Jones Lang Lasalle Americas, Inc.	6/126	1/20
+112	2192	Axway Inc.	3/117	0/28
+113	2207	Sonicwall, Inc.	7/109	0/35
+114	2239	World Fuel Services Corporation	4/123	1/19
+115	2239	Avanade Inc.	1/119	0/23
+116	2256	Broken Hill Proprietary (Usa), Inc.	5/126	1/15
+117	2256	Zenith Services, Inc.	1/106	2/35
+118	2277	A Caring Doctor (Minnesota), P.A.	1/127	0/13
+119	2306	Insperity Services, L.P.	5/113	0/25
+120	2306	Hellmuth Obata + Kassabaum, Inc.	6/128	0/10
+121	2324	Tractor Supply Company	3/104	0/33
+122	2324	Ih Services, Inc.	-	136/137
+123	2324	Shearman & Sterling Llp	4/130	1/7
+124	2347	Maximus, Inc.	13/120	1/16
+125	2347	Grainger Management Llc	0/120	0/16
+126	2453	Suprasoft, Inc.	8/121	0/9
+127	2471	Grand Supercenter Inc.	5/97	5/32
+128	2491	Carefusion Corporation	9/115	0/13
+129	2501	West Publishing Corporation	2/105	0/22
+130	2544	Corporate Green Llc	-	63/125
+131	2544	Costar Realty Information, Inc.	0/106	1/19
+132	2544	Opentable, Inc.	3/109	0/16
+133	2544	Avenue Code Llc	9/116	0/9
+134	2544	Wolfram Research, Inc.	6/104	2/21
+135	2566	White & Case Llp	2/116	0/8
+136	2589	Turner & Townsend Inc.	8/110	0/13
+137	2589	Mavenir Systems Inc.	3/123	-
+138	2589	The Capital Markets Company	3/100	1/23
+139	2589	Criteo Corporation	2/94	0/29
+140	2618	Viacom International, Inc.	5/104	0/18
+141	2618	Technosoft, Inc	7/99	3/23
+142	2639	Gallup, Inc.	2/97	1/24
+143	2639	Mediamath, Inc.	5/96	3/25
+144	2656	Latham & Watkins Llp	2/101	0/19
+145	2682	Logical Paradigm Llc	7/112	1/7
+146	2682	Rcm Technologies, Inc.	9/70	12/49
+147	2701	Boomi, Inc.	4/107	0/11
+148	2701	Cgn & Associates, Inc.	9/109	1/9
+149	2716	Incyte Corporation	8/105	0/12
+150	2732	Tsmc North America	3/82	0/34
+151	2824	Protiviti Inc.	1/92	0/20
+152	2849	Ropes & Gray Llp	5/100	2/11
+153	2868	Icf Resources, Llc	4/105	0/5
+154	2868	Weil, Gotshal & Manges Llp	0/103	0/7
+155	2890	Teklink International Inc.	9/104	0/5
+156	2890	Value Consulting Inc	5/108	0/1
+157	2976	Cumming Construction Management Inc.	4/97	0/9
+158	2999	Transperfect Translations International Inc.	5/97	0/8
+159	3018	Medtech Staffing & Solutions, Inc	10/96	2/8
+160	3018	R/Ga Media Group Inc.	16/100	0/4
+161	3018	Knowledgent Group Inc.	2/84	1/20
+162	3018	Redfin Corporation	0/80	1/24
+163	3043	Simpson Thacher & Bartlett Llp	0/98	0/5
+164	3078	Moody's Shared Services, Inc.	3/87	0/15
+165	3078	Fti Consulting Technology Llc	3/91	0/11
+166	3078	Booz Allen Hamilton Inc.	2/97	0/5
+167	3078	Shutterstock, Inc.	3/81	1/21
+168	3114	Publishers Clearing House, Llc	2/78	2/22
+169	3114	The Rubicon Project, Inc.	1/79	1/21
+170	3148	Cargill, Incorporated	2/82	0/17
+171	3148	Bkfs I Services, Llc	8/87	4/12
+172	3178	Sullivan & Cromwell Llp	1/90	1/8
+173	3205	Brightech International Llc	6/87	1/10
+174	3205	Simon Kucher And Partners Llc	3/90	0/7
+175	3242	Software Catalysts Llc	2/90	1/6
+176	3242	E2open, Inc.	1/68	2/28
+177	3242	Akqa, Inc.	0/72	0/24
+178	3274	Rci, Llc	3/88	2/7
+179	3274	Sasaki Associates, Inc.	0/89	0/6
+180	3274	Ma Laboratories, Inc.	1/78	2/17
+181	3303	Scientific Games International, Inc.	8/91	0/3
+182	3303	Ignite Management Consultants Llc	0/83	3/11
+183	3336	Swa Group	7/87	0/6
+184	3336	Hill-Rom Manufacturing, Inc.	13/83	3/10
+185	3336	Ns It Solutions Llc	2/85	0/8
+186	3336	Tencent America Llc	0/86	0/7
+187	3376	Ihs Global Inc.	5/72	1/20
+188	3376	Sinovision Incorporated	7/75	4/17
+189	3376	Hd Supply, Inc.	12/71	0/21
+190	3418	Droga5, Llc	1/84	0/7
+191	3438	Davis Polk & Wardwell Llp	1/85	0/5
+192	3471	Yellowpages.Com Llc	23/79	1/10
+193	3471	Matrix Resources, Inc.	13/77	0/12
+194	3509	N.S. International, Ltd.	3/51	0/37
+195	3509	The Hertz Corporation	0/84	1/4
+196	3549	Newegg Inc.	0/64	3/23
+197	3549	New York Power Authority	5/68	3/19
+198	3579	Expicient, Inc	0/71	1/15
+199	3619	Lg Electronics Alabama, Inc.	0/60	1/25
+200	3652	Dresser-Rand Company	3/69	0/15
+201	3652	Home Box Office, Inc.	0/61	1/23
+202	3652	Idexx Laboratories, Inc.	2/67	1/17
+203	3652	Republic Services, Inc.	2/74	0/10
+204	3652	Cintas Corporation	0/52	0/32
+205	3691	Alsac/St. Jude Children's Research Hospital	1/71	1/12
+206	3691	Pubmatic, Inc.	1/76	1/7
+207	3691	Fcb Worldwide, Inc.	8/75	1/8
+208	3736	Resource Technologies Corporation	11/82	-
+209	3736	Robert Half International Inc.	1/69	0/13
+210	3736	Wilson Sonsini Goodrich & Rosati	4/77	0/5
+211	3775	Gannett Co. Inc.	9/74	0/7
+212	3826	Rehability Care	5/76	1/4
+213	3865	Sidley Austin (Us) Llp	1/71	1/8
+214	3865	Goodwin Procter Llp	2/75	1/4
+215	3904	World Resources Institute	1/73	0/5
+216	3904	Marketshare Partners, Llc	0/61	1/17
+217	3943	Dla Piper Llp (Us)	2/74	1/3
+218	3985	Genuine Parts Company	0/57	0/19
+219	4014	Smithgroupjjr,Inc.,Subsidiaryofsmithgroup Co.,Inc.	3/75	-
+220	4014	Jawood Business Process Solutions, Llc	0/69	0/6
+221	4073	Micron Semiconductor Products, Inc.	1/59	0/15
+222	4073	E & E Co., Ltd	0/64	1/10
+223	4115	Research Foundation For Mental Hygiene, Inc.	1/72	1/1
+224	4115	Compass Lexecon, Llc	1/68	0/5
+225	4115	American Tire Distributors, Inc.	0/58	0/15
+226	4115	Infogroup, Inc.	12/59	1/14
+227	4115	Marin Software Inc.	0/49	1/24
+228	4177	Corgan Associates, Inc.	8/62	0/10
+229	4177	Randstad General Partner (Us) Llc	1/59	0/13
+230	4221	Michael Kors Usa, Inc.	0/63	0/8
+231	4265	Princeton Information, Ltd.	3/62	1/8
+232	4265	Webmd Llc	3/58	0/12
+233	4265	Constant Contact, Inc.	2/61	0/9
+234	4265	Uline, Inc.	0/53	1/17
+235	4324	L.E.K. Consulting, Llc	3/62	0/7
+236	4324	Dia Associates, Llc	10/68	1/1
+237	4324	Urban Outfitters, Inc.	1/63	0/6
+238	4377	Discovery Communications, Llc	2/66	0/2
+239	4377	Nbbj, Lp	5/64	1/4
+240	4377	Paul, Weiss, Rifkind, Wharton & Garrison Llp	2/61	0/7
+241	4377	Altman Vilandrie & Company	1/65	0/3
+242	4377	Wood Mackenzie, Inc.	1/55	0/13
+243	4427	Catalina Marketing Technology Solutions, Inc.	1/59	0/8
+244	4427	Noridian Mutual Insurance Company	7/61	0/6
+245	4427	Adesa, Inc.	1/61	0/6
+246	4427	Rheem Manufacturing Company	0/56	0/11
+247	4485	Pearson Education, Inc.	0/55	0/11
+248	4526	Eventbrite, Inc.	5/51	1/14
+249	4580	Daimay North America Automotive, Inc.	0/61	0/3
+250	4580	Valassis Communications, Inc.	1/44	1/20
+251	4580	Plug & Play, Llc.	6/57	1/7
+252	4580	Denali Sourcing Services	7/59	0/5
+253	4621	W. W. Grainger, Inc.	0/55	0/8
+254	4621	Cleary Gottlieb Steen & Hamilton Llp	2/55	1/8
+255	4621	Open Society Institute	6/60	0/3
+256	4621	Modis, Inc.	-	0/63
+257	4687	Nexant, Inc.	2/53	2/9
+258	4687	Saatchi & Saatchi North America, Inc.	4/54	1/8
+259	4687	Veristat, Llc	7/49	0/13
+260	4756	National Economic Research Associates, Inc.	4/58	0/3
+261	4812	Resmed Corp.	1/50	0/10
+262	4812	Capsquare Systems,Inc	1/57	0/3
+263	4812	Medimpact Healthcare Systems, Inc.	0/53	0/7
+264	4863	Weight Watchers International, Inc.	1/46	0/13
+265	4863	The Npd Group, Inc.	0/50	0/9
+266	4930	Vwr International, Llc	0/45	1/13
+267	4930	Insurance Auto Auctions, Inc.	2/45	0/13
+268	4930	Barrick Goldstrike Mines Inc.	1/54	0/4
+269	4997	Trc Engineers, Inc.	0/50	0/7
+270	4997	Deluxe Corporation	1/49	0/8
+271	4997	Freshfields Bruckhaus Deringer Us Llp	0/48	0/9
+272	4997	Wp Company Llc	0/49	0/8
+273	5068	Beachbody, Llc	2/42	1/14
+274	5068	World Journal Llc	0/54	0/2
+275	5068	Gantec Corporation	0/53	0/3
+276	5068	Disys Solutions Inc.	3/48	1/8
+277	5068	Morrison & Foerster Llp	7/49	0/7
+278	5068	Swiss Re America Holding Corporation	1/43	0/13
+279	5068	First American Title Insurance Company	2/45	0/11
+280	5068	On24, Inc.	0/43	1/13
+281	5126	Clifford Chance Us Llp	0/46	0/9
+282	5126	Handel Architects Llp	0/48	0/7
+283	5126	Corelogic Solutions, Llc	4/48	0/7
+284	5126	Debevoise & Plimpton Llp	0/52	0/3
+285	5212	360i, Llc	1/50	0/4
+286	5212	Paul Hastings Llp	2/46	1/8
+287	5212	Ncc Group, Inc.	1/44	0/10
+288	5281	Nintendo Of America Inc.	0/40	0/13
+289	5281	Baker & Mckenzie Llp	2/46	0/7
+290	5281	Monster Worldwide, Inc.	0/49	0/4
+291	5281	Software Paradigms International Group, Llc	0/40	1/13
+292	5371	Covington & Burling Llp	6/50	0/2
+293	5371	Faithful+gould, Inc.	1/47	0/5
+294	5371	Astrix Software Technology, Inc.	4/51	0/1
+295	5371	Axon Solutions, Inc.	0/41	2/11
+296	5371	Agero Administrative Service Corp.	0/45	0/7
+297	5371	Rafael Vinoly Architects Pc	1/37	2/15
+298	5453	Design Laboratory, Inc.	4/44	0/7
+299	5453	Management Science Associates, Inc.	2/38	0/13
+300	5453	Usa Waste-Management Resources, L.L.C.	4/46	1/5
+301	5453	Orbis Inc	0/44	0/7
+302	5453	Vnc Communications, Inc. D/B/A Performics	1/42	0/9
+303	5526	Advanced Energy Industries, Inc.	4/44	0/6
+304	5526	Stamps.Com Inc.	0/41	0/9
+305	5595	Zocdoc, Inc.	0/39	0/10
+306	5595	Turner Broadcasting System, Inc.	1/41	0/8
+307	5595	Alvarez & Marsal North America, Llc	0/39	0/10
+308	5595	Ahs Information Services	0/3	11/46
+309	5595	Pa Consulting Group, Inc.	2/43	0/6
+310	5700	Daniel J. Edelman, Inc.	0/43	1/5
+311	5700	Mylan Pharmaceuticals Inc.	1/43	0/5
+312	5700	Duolingo, Inc.	2/32	1/16
+313	5700	Cannon Design, Inc.	2/44	1/4
+314	5791	Americold Logistics, Llc	2/38	0/9
+315	5791	Virginia Department Of Transportation	2/46	0/1
+316	5791	Integrated Support Solutions, Inc.	-	21/47
+317	5791	Quinstreet, Inc.	1/43	0/4
+318	5791	Panda Express Inc.	0/30	3/17
+319	5791	Westfield, Llc	0/44	0/3
+320	5791	Gdb International, Inc.	2/44	1/3
+321	5896	Affinion Loyalty Group, Inc.	2/39	1/7
+322	5896	Ase (U.S.) Inc.	0/22	2/24
+323	5896	Dlr Group Inc	0/40	2/6
+324	5896	Metromile, Inc.	5/37	0/9
+325	5896	Oceaneering International, Inc.	0/36	1/10
+326	5896	Pulsepoint, Inc.	0/39	1/7
+327	5896	Norc	3/44	0/2
+328	5982	American Water Works Service Company, Inc.	2/42	0/3
+329	6214	Care.Com, Inc.	2/40	0/3
+330	6214	Wikimedia Foundation, Inc.	1/31	0/12
+331	6214	Semtech Corporation	2/33	0/10
+332	6214	Clean Harbors Environmental Services, Inc.	1/38	0/5
+333	6214	Association Of American Medical Colleges	1/34	1/9
+334	6214	Lash Group, Inc.	1/40	0/3
+335	6214	East West Hauling, Inc.	3/40	0/3
+336	6324	Polaris Solutions, Llc	3/37	0/5
+337	6324	Helen Of Troy Nevada Corporation	0/32	2/10
+338	6324	Dataxu Inc.	0/39	0/3
+339	6324	Itconsultingservices, Inc.	1/39	1/3
+340	6441	Serco, Inc.	0/29	0/12
+341	6441	Quest Software, Inc.	5/38	1/3
+342	6441	H2o Clinical, Llc	0/29	2/12
+343	6441	Hobsons, Inc.	1/30	0/11
+344	6441	Disney Worldwide Services, Inc.	0/33	0/8
+345	6441	The Brattle Group	4/36	1/5
+346	6441	Harley Ellis Devereaux Corporation	2/33	0/8
+347	6575	Allen & Overy Llp	4/38	0/2
+348	6575	Isoftstone, Inc.	3/38	0/2
+349	6575	Admarketplace, Inc.	2/35	0/5
+350	6575	Oda - Architecture Pc	4/34	0/6
+351	6575	Merrifield Garden Center	-	6/40
+352	6575	Symplicity Corporation	2/34	1/6
+353	6684	Bolide Technology Group, Inc.	8/38	0/1
+354	6684	Scholastic Inc.	1/35	0/4
+355	6684	Broadsoft, Inc.	4/32	2/7
+356	6684	Quid, Inc.	3/31	1/8
+357	6811	Impaq International, Llc	0/28	0/10
+358	6811	Robert A.M. Stern Architects	5/33	0/5
+359	6811	Eharmony, Inc.	4/30	0/8
+360	6811	O'Melveny & Myers Llp	1/35	0/3
+361	6811	Beacon Health Strategies	0/28	0/10
+362	6811	Houghton Mifflin Harcourt Publishing Company	1/38	-
+363	6811	Finnegan, Henderson, Farabow, Garrett & Dunner Llp	4/31	2/7
+364	6811	Southern Medical Partners, L.L.C.	4/24	2/14
+365	6811	Acumen, Llc	1/15	0/23
+366	6951	Keystone Strategy Llc	1/32	0/5
+367	6951	Gerson Lehrman Group, Inc.	0/30	1/7
+368	6951	Mayer Brown Llp	1/34	0/3
+369	6951	America's Collectibles Network, Inc.	0/27	1/10
+370	7085	Cooley Llp	0/31	0/5
+371	7085	Carat Usa, Inc.	2/36	-
+372	7085	Warner Bros. Entertainment Inc.	1/29	0/7
+373	7085	Bbdo Usa Llc	1/34	1/2
+374	7085	Pegatron Technology Service Inc.	6/36	-
+375	7085	Zoosk, Inc.	0/25	0/11
+376	7085	The Univision Network Limited Partnership	3/30	0/6
+377	7085	Hikvision Usa Inc	1/30	2/6
+378	7225	James Corner Field Operations, Llc	1/29	0/6
+379	7225	Hsu's Ginseng Enterprises Inc.	0/27	1/8
+380	7225	Nsf International	3/27	0/8
+381	7225	World Wildlife Fund Us	3/30	0/5
+382	7225	Automobile Club Of Southern California	0/28	0/7
+383	7225	Cadcam-E.Com Inc	7/32	0/3
+384	7225	Jun Wang & Associates, P.C.	0/31	1/4
+385	7373	Mergermarket (U.S.) Ltd.	3/30	0/4
+386	7373	Mcss, Inc.	3/27	0/7
+387	7373	News America Marketing In-Store, L.L.C.	3/29	0/5
+388	7373	American Multi-Cinema, Inc.	2/27	0/7
+389	7373	Life360, Inc.	0/27	1/7
+390	7373	K&L Gates Llp	1/31	0/3
+391	7373	Wyndham Worldwide Operations, Inc.	0/26	0/8
+392	7373	The Scotts Company Llc	0/31	0/3
+393	7373	Zhang & Associates, P.C.	5/29	1/5
+394	7540	Aisin Technical Center Of America, Inc.	2/29	0/4
+395	7540	Cve Technology Group, Inc.	6/27	0/6
+396	7540	Calvin Klein Inc.	0/30	0/3
+397	7540	Det Norske Veritas (U.S.A.), Inc.	0/17	1/16
+398	7540	Getty Images (Seattle) Inc.	1/27	0/6
+399	7540	Sl Tennessee Llc	0/12	0/21
+400	7540	Laguarda Low Architects, Llc	2/32	0/1
+401	7713	Family Health International	0/27	0/5
+402	7713	Osceola Consulting	0/22	0/10
+403	7713	Intellectual Ventures Management Llc	0/26	1/6
+404	7713	Fei Company	0/25	1/7
+405	7713	Stec, Inc.	4/26	1/6
+406	7713	Asia Tv Usa, Ltd.	0/28	0/4
+407	7905	Dedicated Technologies Inc.	1/23	0/8
+408	7905	Linklaters Llp	0/31	-
+409	7905	The North Highland Company	0/26	0/5
+410	7905	The Korea Times Los Angeles, Inc.	1/25	0/6
+411	7905	Sony Music Holdings Inc.	0/29	1/2
+412	7905	Macrotech (Usa), Inc.	1/31	-
+413	7905	Universal Service Administrative Company	2/28	1/3
+414	7905	Shopkick, Inc.	0/27	0/4
+415	7905	A&E Television Networks, Llc	1/25	0/6
+416	8076	Kevin Kerveng Tung, P.C.	5/25	2/5
+417	8076	Software Galaxy Systems, Llc	0/28	0/2
+418	8076	Target Health Inc.	0/23	0/7
+419	8076	Nb Ventures Dba Global Eprocure	-	0/30
+420	8076	Interamerican Motor Corporation	8/27	1/3
+421	8271	Automann Inc.	3/27	0/2
+422	8271	Wilmer Cutler Pickering Hale And Dorr, Llp	1/28	0/1
+423	8271	Omnicom Media Group Holdings, Inc.	2/26	0/3
+424	8271	Harbor Freight Tools Usa Inc	1/24	1/5
+425	8271	Littelfuse, Inc.	1/20	1/9
+426	8271	King & Spalding Llp	2/28	0/1
+427	8271	Starcom Mediavest Group, Inc.	8/28	0/1
+428	8271	Sing Tao Newspapers New York Ltd.	0/25	0/4
+429	8271	Baker & Mckenzie Global Services Llc	1/24	0/5
+430	8271	Markmonitor	0/24	1/5
+431	8271	Atelier Ten Usa Llc	3/28	0/1
+432	8271	Scientific Technologies Corporation	2/23	0/6
+433	8271	Horizon Tire, Inc.	1/18	2/11
+434	8491	World Travel Holdings, Inc.	0/24	0/4
+435	8491	Rockwell Architecture, Planning And Design, P.C.	0/21	3/7
+436	8491	David Oppenheimer And Company I, Llc	2/26	0/2
+437	8491	Caresource Management Group	1/28	-
+438	8491	Milestone Inc.	3/28	-
+439	8491	Caremetx, Llc	3/27	0/1
+440	8491	Greenberg Traurig, Llp	4/25	0/3
+441	8491	Kalypso Lp	1/23	0/5
+442	8491	Veejay Associates, Inc.	1/24	0/4
+443	8491	Edsa, Inc.	1/25	0/3
+444	8715	Currie & Brown, Inc.	0/22	0/5
+445	8715	Blackwell Global Consulting, Llc	2/27	-
+446	8715	Secure-24, Inc.	0/24	0/3
+447	8715	Rn Staff, Inc.	2/26	1/1
+448	8715	Samsung Telecommunications America, Llc	0/25	0/2
+449	8715	Arvato Digital Services Llc	0/26	0/1
+450	8715	Amerex Group Llc	5/24	1/3
+451	8715	Vinson & Elkins L.L.P.	2/23	0/4
+452	8715	Guthy-Renker, Llc	1/20	1/7
+453	8715	Annik Inc	2/22	0/5
+454	8929	Northgatearinso, Inc.	1/22	1/4
+455	8929	Disney Online	1/20	0/6
+456	8929	Doble Engineering Company	2/22	0/4
+457	8929	Pvh Corp	0/20	0/6
+458	8929	Pseg Services Corporation	2/24	0/2
+459	8929	Cnbc Llc	0/23	0/3
+460	8929	Initiative Media, Llc	5/26	-
+461	8929	Legalzoom.Com, Inc.	3/24	0/2
+462	8929	Outlook Resources, Inc.	0/5	4/21
+463	8929	Pelli Clarke Pelli Architects	0/26	-
+464	8929	Iron Mountain Incorporated	0/25	0/1
+465	8929	Leo Burnett Company, Inc.	1/26	-
+466	9187	Fish & Richardson P.C.	0/24	0/1
+467	9187	Univision Management Company	3/22	0/3
+468	9187	Conservation International	2/23	0/2
+469	9187	Xaxis, Inc.	1/19	1/6
+470	9187	Wachtell, Lipton, Rosen & Katz	0/21	0/4
+471	9187	Genscape, Inc.	0/19	1/6
+472	9187	Westat	0/23	0/2
+473	9187	Seoul Shik Poom, Inc.	4/18	0/7
+474	9187	American Chemical Society	1/23	0/2
+475	9187	National Bureau Of Economic Research	3/25	-
+476	9187	United Pacific Industries Inc.	1/20	1/5
+477	9187	Jlm Systems Inc.	0/21	0/4
+478	9438	M S International, Inc.	0/21	1/3
+479	9438	Human Rights Watch	0/24	-
+480	9438	The Jerde Partnership, Inc.	2/20	1/4
+481	9438	Meredith Corporation	3/22	0/2
+482	9438	Newmark Knight Frank	0/21	0/3
+483	9438	Yai-National Institute For People With Disabilitie	0/21	0/3
+484	9438	Saavn Llc	2/22	0/2
+485	9438	C&S Wholesale Grocers, Inc.	0/5	0/19
+486	9438	Mobile Integration Workgroup Inc.	2/20	0/4
+487	9438	Espn Technology Services, Inc.	1/22	0/2
+488	9438	Starshr, Inc.	0/22	0/2
+489	9438	Lcg Consulting	0/23	0/1
+490	9438	Eby Brown Company, Llc	0/19	0/5
+491	9438	Amekor Industries, Inc.	1/11	1/13
+492	9438	Razorfish, Llc	3/20	0/4
+493	9438	Intercept Interactive	1/21	0/3
+494	9438	Oclc Online Computer Library Center, Inc.	1/19	0/5
+495	9438	Code And Theory Llc	5/22	1/2
+496	9741	Ennead Architects Llp	0/23	-
+497	9741	Law Offices Of Rakesh Mehrotra	4/23	-
+498	9741	Kleinfelder, Inc.	0/20	0/3
+499	9741	Oradell International Corp.	1/20	0/3
+500	9741	Title Source, Inc.	0/20	0/3
+
+ 
+New Jobs | Green Card | H1B Visa | Student Visa | Work Visa | Immigration Attorney | About Us | Contact Us | FAQ | Visa Reports
+
+Copyright © 2006 - 2020
