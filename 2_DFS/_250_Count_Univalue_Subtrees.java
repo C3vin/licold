@@ -1,6 +1,5 @@
 class Solution {
-    
-    
+     
         int count = 0;
 
         public int countUnivalSubtrees(TreeNode root) {
@@ -11,15 +10,12 @@ class Solution {
 
             return count;
         }
-
-        /** 主函數 **/
+ 
         boolean is_uni(TreeNode node) {
-
-            /** 1. 如果兩邊都是空，那麼這個節點，自己算一個 **/
-            //base case - if the node has no children this is a univalue subtree
+ 
+            //base case - if the node has no children this is a univalue subtree  如果兩邊都是空，那麼這個節點，自己算一個
             if (node.left == null && node.right == null) {
-
-                // found a univalue subtree - increment
+ 
                 count++;
                 return true;
             }

@@ -1,6 +1,6 @@
 class Solution {
  
-        private int i = 0;
+        private int i = 0;  /// 全局变量
 
         public String decodeString(String s) {   // 自己拿笔划一下!!
 
@@ -26,7 +26,7 @@ class Solution {
 
                                         for (int k = 0; k < num; k++) sb.append(str);
 
-                                        num = 0;   // num是存重复的次数
+                                        num = 0;   // num是存重复的次数 --> 使用完一次后归零
 
                             /** 如果是右括号 */
                             } else if (c == ']') {
@@ -36,7 +36,7 @@ class Solution {
                             /** 如果是数字 */
                             } else if (c >= '0' && c <= '9') {
                                 
-                                num = num * 10 + c - '0';
+                                num = num * 10 + c - '0';   //  比如如果数字是 45，  那么先有4，  再来一个5
 
                             /** 如果是字母 */
                             } else {

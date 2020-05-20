@@ -3,6 +3,7 @@ class Solution {
     private HashMap <Node, Node> visited = new HashMap <> ();
     
     public Node cloneGraph(Node node) {
+		
         if (node == null) {
             return node;
         }
@@ -16,8 +17,10 @@ class Solution {
         visited.put(node, cloneNode);
 
         for (Node neighbor: node.neighbors) {
+			
             cloneNode.neighbors.add(cloneGraph(neighbor));
         }
+		
         return cloneNode;
     }
     
