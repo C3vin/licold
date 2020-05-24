@@ -42,8 +42,6 @@ class Solution {
 
     // 返回6中运算 --> 本来是8种，但 + 和 * 不看顺序，所以减去两个重复的
     private double[] compute(double x, double y) {
-        
         return new double[]{x + y, x - y, y - x, x * y, x / y, y / x};
-        
     }
 }
