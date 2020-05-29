@@ -1,20 +1,22 @@
 class Solution {
     public int peakIndexInMountainArray(int[] A) {
-       
-        int a = 0; 
         
-        int b = A.length - 1;
+        int lo = 0 ;
+        int hi  = A.length - 1; 
         
+        int mid; 
         
-        while(a < b){
+        while(lo + 1 < hi){
             
-            int mi = a + (b-a)/2;
+            mid = lo + (hi-lo)/2; 
             
-            if(A[mi] < A[mi+1])
-                a = mi + 1; 
-            else 
-                b = mi; 
-        }
-        return a; 
+            if( A[mid] < A[mid+1]) lo = mid; 
+
+            if( A[mid] > A[mid+1]) hi = mid;             
+             
+        } 
+         
+        if(lo<hi) return hi;
+        else return lo; 
     }
 }
