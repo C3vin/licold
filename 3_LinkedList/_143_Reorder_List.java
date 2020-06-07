@@ -1,4 +1,5 @@
 class Solution {
+    
     public void reorderList(ListNode head) {
         
         if(head == null || head.next == null || head.next.next == null) return ; 
@@ -8,13 +9,13 @@ class Solution {
         
         B = reverseList(B); 
         
-        
-        while( B != null){
+        while( B != null){              //这个可以心里重复演算一下
+                                        //上下两排，对齐演算
             
             ListNode tmp_A = A.next; 
             ListNode tmp_B = B.next;
             
-            A.next = B; 
+            A.next = B;                 
             
             B.next = tmp_A; 
             
@@ -23,14 +24,8 @@ class Solution {
             B = tmp_B; 
             
         }
-        
         return ; 
-        
-        
-        
-        
     }
-    
     
     private ListNode findMid(ListNode head){
  
@@ -41,15 +36,12 @@ class Solution {
             
             fast = fast.next.next; 
             slow = slow.next; 
-        
         }
  
         ListNode halfHead = slow.next;
-        
         slow.next = null;
         
-        return halfHead; 
-         
+        return halfHead;  
     }
     
     private ListNode reverseList(ListNode head){
@@ -58,25 +50,18 @@ class Solution {
         
         ListNode curr = head; 
         
-        while(curr != null){
+        while(curr != null){  // 右左右右
             
             ListNode tmp = curr.next; 
             
             curr.next = pre; 
-            
             pre = curr; 
             
             curr = tmp;  
         }
+        
         return pre; 
     }
 }
+ 
 
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) { val = x; }
- * }
- */

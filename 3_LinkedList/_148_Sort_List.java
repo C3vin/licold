@@ -1,8 +1,7 @@
 class Solution {
-   public ListNode sortList(ListNode head) {
-
-
-
+    
+       public ListNode sortList(ListNode head) {
+ 
             /** Check corner case**/
             if (head == null || head.next == null) return head;
 
@@ -26,12 +25,10 @@ class Solution {
 
         /** 4. Start Merge **/
         public ListNode merge(ListNode l1, ListNode l2) {
-
-            /** 4.1 Define Dummy and Tail | Tail就是尾巴，最小的意思 */
+ 
             ListNode dummy = new ListNode(0);
             ListNode tail = dummy;
-
-            /** 4.2 Compare two node | until the end */
+ 
             while (l1 != null && l2 != null) {
 
                 if(l1.val > l2.val) {
@@ -44,21 +41,11 @@ class Solution {
 
                 tail = tail.next;
             }
-
-            /** 4.3 */
+ 
             tail.next = (l1 == null) ? l2 : l1;
-
-            /** Dummy is the begining*/
+ 
             return dummy.next;
 
         }
 }
-
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) { val = x; }
- * }
- */
+ 
