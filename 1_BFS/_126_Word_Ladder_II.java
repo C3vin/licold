@@ -5,26 +5,30 @@ public class Solution {
 
             /** 1.1 定義池子  **/
             HashSet<String> dict = new HashSet<String>(wordList);
-
+            
             /** 1.2 定義 結果集  **/
             List<List<String>> res = new ArrayList<List<String>>();
-
+            
             /** 1.3 定義HashMap --> 找鄰居  **/
-            HashMap<String, ArrayList<String>> nodeNeighbors = new HashMap<String, ArrayList<String>>();// Neighbors for every node
+            HashMap<String, ArrayList<String>> nodeNeighbors 
+            = new HashMap<String, ArrayList<String>>();// Neighbors for every node
+            
             /** 1.4 定義HashMap --> 找node到起點的距離  **/
-            HashMap<String, Integer> distance = new HashMap<String, Integer>();// Distance of every node from the start node
-
+            HashMap<String, Integer> distance 
+            = new HashMap<String, Integer>();// Distance of every node from the start node
+            
             /** 1.5 定義 單個的結果  **/
             ArrayList<String> solution = new ArrayList<String>();
-
+            
             /** 2.0 把start加入池子  **/
             dict.add(start);
-
+            
             /**  3.0 用 BFS 找出 每個node的（和start的距離），一層一層的查 */
             bfs(start, end, dict, nodeNeighbors, distance);
-
+            
             /**  4.0 用 DFS 找出所有 最短的 paths **/
             dfs(start, end, dict, nodeNeighbors, distance, solution, res);
+            
             return res;
         }
 
@@ -143,7 +147,7 @@ public class Solution {
                 for (String n : nodeNeighbors.get(cur)) {
                     
                     /** ~~1 注意！這裡表示: 測試 n 是否 被 檢查過 --> 若 n 屬於最小路徑之一，必須BFS的時候，被檢查過 --> 參考本代碼94行**/
-                    if (distance.get(n) == distance.get(cur) + 1) {
+                    if ( distance.get(cur) + 1 == distance.get(n) ) {
 
                         /** ~~~1 如果是的：繼續 DFS  **/
                         dfs(n, end, dict, nodeNeighbors, distance, solution, res);
@@ -157,3 +161,4 @@ public class Solution {
 
         }
 }
+

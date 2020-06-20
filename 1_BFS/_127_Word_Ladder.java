@@ -3,6 +3,7 @@ class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         
         HashSet<String> wList = new HashSet(wordList); 
+        
         if(!wList.contains(endWord)) return 0; 
         
         HashSet<String> forward = new HashSet<String>(); 
@@ -17,11 +18,11 @@ class Solution {
         
         while(!forward.isEmpty()) {
             
-            HashSet<String> nextLayer = new HashSet<String>(); 
+             HashSet<String> nextLayer = new HashSet<String>(); 
             
-            wList.removeAll(forward); 
+             wList.removeAll(forward); 
             
-            for(String s1 : forward) {
+             for(String s1 : forward) {
                 
                     char[] curr = s1.toCharArray(); 
 
@@ -43,21 +44,22 @@ class Solution {
                                    }
                         
                                     curr[i] = X; 
-                       }
+                    }
               }
              
               if(nextLayer.size() > backward.size()){
+                  
                   forward = backward; 
                   backward = nextLayer; 
+                  
               } else {
+                  
                   forward = nextLayer; 
               }
-            
               level++;   
-            
         }
-        
         return 0;   
     }
     
 }
+
