@@ -10,9 +10,13 @@ class Solution {
         
         for (int i = 0; i < numCourses; i++) neigh[i] = new LinkedList<>();
         
+        //////////////////////////////////
+        
         for (int[] pair : prerequisites) {
-            neigh[pair[1]].add(pair[0]);
-            indegree[pair[0]]++;
+            
+            neigh[ pair[1] ].add( pair[0] );
+            
+            indegree[ pair[0] ]++; 
         }
         
         for (int i = 0; i < indegree.length; i++)

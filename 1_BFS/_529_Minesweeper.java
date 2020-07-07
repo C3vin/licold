@@ -3,33 +3,31 @@ class Solution {
     public static final int[][] dirs = new int[][] {{1, 0}, {-1, 0}, {0, -1}, {0, 1}, {1, 1}, {-1, -1}, {1, -1}, {-1, 1}};
     
     private char count(char[][] board, int x, int y) {
-        int res = 0, m = board.length, n = board[0].length;
-       
-         
         
+        int count = 0, m = board.length, n = board[0].length;
+   
          for(int[] dir:dirs){
                 
                 int i = dir[0]+x; 
                 int j = dir[1]+y;
                 
                 if( i>=0 && i<m && j>=0 && j<n ) {
-        
-        
-                if (board[i][j] == 'M') {
-                    res++;
+                        if (board[i][j] == 'M') {
+                            count++;
+                        }
                 }
-            }
-             
-            
         }
-    
-        return res > 0 ? (char)(res + '0') : 'B';
+        
+        return count > 0 ? (char)(count + '0') : 'B';
     }
+    
     public char[][] updateBoard(char[][] board, int[] click) {
+        
         if (board[click[0]][click[1]] == 'M') {
             board[click[0]][click[1]] = 'X';
             return board;
         }
+        
         int m = board.length, n = board[0].length;
        
         Queue<int[]> q = new LinkedList<>();
@@ -65,3 +63,10 @@ class Solution {
         return board;
     }
 }
+
+ 
+ 
+    
+    
+
+

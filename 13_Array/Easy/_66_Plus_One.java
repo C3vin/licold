@@ -5,15 +5,17 @@ class Solution {
             int n = digits.length;
 
             for(int i=n-1; i>=0; i--) {
-                
-                if(digits[i] < 9) {
+  
+                if(digits[i] != 9) { 
+                                        digits[i]++;
                     
-                    digits[i]++;
-                    
-                    return digits;
+                                        return digits;
                 }
                 
-                digits[i] = 0;
+                if(digits[i] == 9) { 
+                                         digits[i] = 0;
+                }
+                
             }
 
             /** corner case --> for 999 etc */
