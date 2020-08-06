@@ -1,99 +1,66 @@
-public class DiningPhilosopher {
+// UDP client sends a message to the server and gets a reply
 
-    public static void main(String[] args) {
-        
-        Semaphore chopsticks[];
-        Philosopher philosopher[];
-        
-        int K = 7;      //////// --> you can initiate to any integer number 
+import java.net.*;
+import java.io.*;
+public class UDPClient {
+
+	public static void main(String args[]) { // args give message contents and server hostname DatagramSocket aSocket = null; try { aSocket = new DatagramSocket(); byte [] m = args[0].getBytes();
+
+		InetAddress aHost = InetAddress.getByName(args[1]);
+
+		int serverPort = 6789;
+
+		DatagramPacket request = new DatagramPacket(m, m.length(), aHost, serverPort);
+		aSocket.send(request);
+
+		byte[] buffer = new byte[1000];
+
+		DatagramPacket reply = new DatagramPacket(buffer, buffer.length);
+		aSocket.receive(reply);
+		System.out.println("Reply: " + new String(reply.getData()));
+	} catch (SocketException e) {
+		System.out.println("Socket: " + e.getMessage());
+	} catch (IOException e) {
+		System.out.println("IO: " + e.getMessage());
+	} finally {
+		if (aSocket != null) aSocket.close();
+	}
+
+}
  
-        chopsticks=new Semaphore[K];   //////// --> Create an array of K Semaphores  
- 
-        for (int i=0; i<5;i++){   //////// -->   Create K  Semaphore objects and assign to the array
-            chopsticks[i] =new Semaphore(1);    //////// --> Semaphore initial value=1
-        }
-         
-        philosopher = new Philosopher[K];    //////// -->  Create an array of five philosopher thread object reference handles
- 
-        for(int i=0;i<K;i++)   //////// --> Create and initiate K philosopher Thread objects
-        {
-            philosopher[i] = new Philosopher(i,chopsticks);
-            philosopher[i].start();
-        }
-    }
+
+
+
+************
+
+// UDP server repeatedly receives a request and sends it back to the client
+
+import java.net.*;
+import java.io.*;
+public class UDPServer {
+
+	public static void main(String args[]) {
+		DatagramSocket aSocket = null;
+		try {
+			aSocket = new DatagramSocket(6789);
+
+			byte[] buffer = new byte[1000];
+
+			while (true) {
+				DatagramPacket request = new DatagramPacket(buffer, buffer.length);
+				aSocket.receive(request);
+				DatagramPacket reply = new DatagramPacket(request.getData(), request.getLength(), request.getAddress(), request.getPort());
+				aSocket.send(reply);
+			}
+		} catch (SocketException e) {
+			System.out.println("Socket: " + e.getMessage());
+		} catch (IOException e) {
+			System.out.println("IO: " + e.getMessage());
+		} finally {
+			if (aSocket != null) aSocket.close();
+		}
+
+	}
+
 }
 
-class Semaphore{
-    private int value;
-
-    public Semaphore(int value)
-    {
-        this.value=value;
-
-    }
-
-    public synchronized void p()
-    {
-        while(value==0)
-        {
-            try {
-                System.out.println("chopStick not available");
-                wait();         /////////->  The calling thread waits until semaphore becomes free
-            }catch (InterruptedException e){}
-        }
-        value=value-1;
-    }
-    public synchronized void v()
-    {
-        value=value+1;
-        notify();
-    }
-}
-class Philosopher extends Thread
-{
-    private int myName;
-    private Semaphore chopsticks[];
-
-    //Executes when a philosopher thread us first created
-    public Philosopher(int myName,Semaphore chopsticks[]){
-        this.myName=myName;
-        this.chopsticks=chopsticks;
-    }
-
-    //This is what each philosopher thread executes
-    public void run()
-    {
-        while (true)
-        {
-            System.out.println("philosopher "+ myName+" thinking");
-            try{
-                Thread.sleep(new Random().nextInt(100)+50);
-
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-            System.out.println("Philosopher "+myName+" hungry.");
-
-            chopsticks[myName].p(); //Acquire right chopstick
-            System.out.println("Philosopher takes the chopstick: "+myName);
-
-            chopsticks[(myName+1)%5].p(); //Acquire left chopstick
-            System.out.println("Philosopher takes the chopstick: "+(myName+1)%5);
-
-            System.out.println("Philosophers "+myName+" eating");
-            try{
-                Thread.sleep(new Random().nextInt(100)+50);
-            }catch (InterruptedException e)
-            {
-                e.printStackTrace();
-            }
-
-            chopsticks[myName].v();// release right chopstick
-            System.out.println("Philosopher releases the chopstick: "+myName);
-
-            chopsticks[(myName+1)%5].v();//release left chopstick
-            System.out.println("Philosopher releases the chopstick: "+(myName+1)%)5;
-
-        }
-    }
-}
