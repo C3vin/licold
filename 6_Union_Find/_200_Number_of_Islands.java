@@ -2,6 +2,8 @@ class Solution {
     
     int[][] distance = {{1,0},{-1,0},{0,1},{0,-1}};
     
+    // int[][] distance = {{1,0},{0,1}};
+    
     public int numIslands(char[][] grid) {
         
         /** 1. 边界条件 **/
@@ -33,6 +35,7 @@ class Solution {
                             if (x >= 0 && x < rows && y >= 0 && y < cols && grid[x][y] == '1') {
 
                                 int id1 = i*cols+j; /** 原先的点 **/
+                                
                                 int id2 = x*cols+y; /** 新方向的点 **/
 
                                 uf.union(id1, id2);  /** 合并，把id2并进去 **/
@@ -65,8 +68,7 @@ class Solution {
             
             for (int i = 0; i < m; i++) {  
                 for (int j = 0; j < n; j++) {  
-                    
-                    /** 把每一个1，变成爸爸里面的仔 **/
+               
                     if (grid[i][j] == '1') {
                     
                         int id = i * n + j;
@@ -88,7 +90,7 @@ class Solution {
             
             if(find1 != find2) {
                 
-                father[find1] = find2;
+                father[find2] = find1;
                 
                 count--;
             }
@@ -105,6 +107,5 @@ class Solution {
             
             return father[node];
         }
-    } 
-    
+    }    
 }
