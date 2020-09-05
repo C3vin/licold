@@ -1,7 +1,5 @@
 class Solution {
-    
-	// https://www.youtube.com/watch?v=pYKGRZwbuzs 
-	
+ 
     public boolean wordBreak(String s, List<String> wordDict) {
     
         if(s==null || wordDict == null) return false; 
@@ -14,21 +12,23 @@ class Solution {
         
         breakable[0] = true; 
         
-        for(int i = 1; i<=s.length(); i++) {
+        for(int i = 1; i <= s.length(); i++) {
             
-            for(int j = i; j > 0; j--) {
+            for(int j = 1; j <= i; j++) {
                 
-                String sub = s.substring(i-j, i); 
-                
-                if(dict.contains(sub)) {
-                    
-                    if(breakable[i-j] == true) {
-                        breakable[i] = true;
-                        break; 
+                    String sub = s.substring(i-j, i); 
+
+                    if( dict.contains(sub) ) {
+
+                        if( breakable[i-j] == true ) {
+                            
+                            breakable[i] = true;
+                            break; 
+                        }   
                     }   
-                }   
             }            
-        }        
+        }   
+        
       return breakable[s.length()];    
     }
 }
