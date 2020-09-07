@@ -1,7 +1,6 @@
 class MyCircularQueue {
 
             // what is queue: https://youtu.be/1j2gWyY5CK4 
-    
             final int[] a;
     
             int front;
@@ -14,12 +13,7 @@ class MyCircularQueue {
             public boolean enQueue(int val) {
                 
                 if (!isFull()) {
-
-                    /**   _ _ _ _ _
-                     *      F
-                     *    R
-                     * */
-
+ 
                     /** 用這種方式來定位 */
                     rear = (rear + 1) % a.length;
                     a[rear] = val;
