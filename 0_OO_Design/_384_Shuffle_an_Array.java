@@ -20,7 +20,7 @@ public class Solution {
         
         int[] a = nums.clone();
         
-        for(int j = 1; j < a.length; j++) {
+        for(int j = 0; j < a.length; j++) {
             
             int i = random.nextInt(j + 1);
             
@@ -39,3 +39,4 @@ public class Solution {
         a[j] = t;
     }
 }
+
