@@ -1,37 +1,54 @@
 class Solution {
+    
+        int[][] dirs = new int[][]{ {-1, 0}, {1, 0}, {0, 1}, {0, -1} };
 
-    public boolean hasPath(int[][] maze, int[] start, int[] destination) {
-
-        boolean[][] visited = new boolean[maze.length][maze[0].length];
-
-        int[][] dirs = {{0,1},{0,-1},{1,0},{-1,0}};
-
-        return helper(maze, start, destination, visited, dirs);
-    }
-
-    public boolean helper(int[][] maze, int[] start, int[] destination, boolean[][] visited, int[][] dirs) {
-
-        if (visited[start[0]][start[1]]) return false;
-
-        visited[start[0]][start[1]] = true;
-
-        if (start[0] == destination[0] && start[1] == destination[1]) return true;
-
-        int X;  int Y;
-        boolean flag;
-
-        for (int[] dir: dirs) {
-
-            X = start[0] + dir[0];     Y = start[1] + dir[1];
-
-            while (X >= 0 && X < maze.length && Y >= 0 && Y < maze[0].length && maze[X][Y] == 0) {
-                X += dir[0];     Y += dir[1];
-            }
-
-            flag = helper(maze, new int[] {X-dir[0], Y-dir[1]}, destination, visited, dirs); 
-			
-            if (flag) return true;
+        public boolean hasPath(int[][] maze, int[] start, int[] destination) {
+            boolean[][] visited = new boolean[maze.length][maze[0].length];
+            return dfs(maze, start, destination, visited);
         }
-        return false;
-    }
+
+        private boolean dfs(int[][] maze, int[] p, int[] destination, boolean[][] visited) {
+            
+            if (visited[p[0]][p[1]]) {
+                return false;
+            }
+            
+            if (p[0] == destination[0] && p[1] == destination[1]) {
+                return true;
+            }
+            
+            visited[p[0]][p[1]] = true;
+            
+            for (int i = 0; i < dirs.length; i++) {
+                
+                int[] dir = dirs[i];
+                
+                int row = p[0];
+                int col = p[1];
+                
+                while (isValid(maze, row + dir[0], col + dir[1])) {
+                    
+                    row += d[0];
+                    col += d[1];
+                    
+                }
+                
+                if (dfs(maze, new int[]{ row, col }, destination, visited)) {
+                    
+                    return true;
+                    
+                }
+                
+            }
+            return false;
+        }
+
+        private boolean isValid(int[][] maze, int row, int col) {
+            
+             return row >= 0 && row < maze.length && col >= 0 && col < maze[0].length && maze[row][col] != 1;
+            
+        }
 }
+    
+    
+     

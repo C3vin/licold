@@ -1,20 +1,28 @@
 class Solution {
     
-    public TreeNode prev = null;
-
     public void flatten(TreeNode root) {
-
-        if (root == null) return;
-
-        flatten(root.right); // last prev == root.right
         
-        flatten(root.left);  // go deep into the most right
-
-        root.right = prev;
-        root.left = null;
-
-        prev = root;
+        flatten(root,null);
+        
     }
+    
+    private TreeNode flatten(TreeNode root, TreeNode curr) {
+        
+        if(root==null) return curr;
+        
+        curr = flatten(root.right,curr);    
+        
+        curr = flatten(root.left,curr);
+        
+        root.right=curr;
+        
+        root.left = null;
+        
+        curr = root;
+        
+        return curr;
+    }
+    
 }
 
 /**
