@@ -1,39 +1,50 @@
 class Solution {
-
-    int[] mapping = new int[26]; 
+    
+    List<Character> hash; 
      
     public boolean isAlienSorted(String[] words, String order) {
-        
-        for(int i = 0 ; i < order.length(); i ++ ){
-            
-            mapping[ order.charAt(i) - 'a' ] = i; 
-            
-        }
-        
-        
-        for(int j = 1; j < words.length; j++) {
-            
-            if( bigger(words[j], words[j-1]) )  return false; 
-        }
-        
-        return true;
          
+        hash = new LinkedList<>(); 
         
-    }
-     
-    public boolean bigger(String a, String b){
-        
-        int m = a.length();
-        int n = a.length(); 
-        
-        for(int i = 0; i < m && i < n ; i ++)  
+        for(char k : order.toCharArray()){
             
-            if( a.charAt(i) != b.charAt(i) )  
-                 
-               return mapping[a.charAt(i)-'a'] < mapping[b.charAt(i)-'a'];
-
-        return a.length() < b.length(); 
+            hash.add(k);
+             
+        }
+        
+        for(int i = 0; i < words.length - 1; i++){
+            
+            if( biggerOrNot(words[i], words[i+1]) ) {
+                
+                return false; 
+            }
+            
+        }
+        
+        return true; 
         
     }
     
+    public boolean biggerOrNot(String a, String b){
+        
+        int aLen = a.length(); 
+        int bLen = b.length(); 
+
+        int curr = 0; 
+        
+        while(curr < aLen && curr < bLen){
+            
+            if(a.charAt(curr) != b.charAt(curr)){
+                
+                return hash.indexOf(a.charAt(curr)) > hash.indexOf(b.charAt(curr));
+            }
+            
+            curr++; 
+            
+        }
+        
+        return aLen > bLen; 
+             
+    } 
+         
 }

@@ -2,52 +2,53 @@ public class Solution {
     
     public String decodeString(String s) {
         
-        String res = "";
+        // Use Deque as Stack
+        Deque<Integer> intStack = new LinkedList<>();
+        Deque<StringBuilder> strStack = new LinkedList<>();
         
-        Deque<Integer> countStack = new LinkedList<>();
+        StringBuilder cur = new StringBuilder();
         
-        Deque<String> resStack    = new LinkedList<>();
+        int k = 0;
         
-        int idx = 0;
-        
-        while (idx < s.length()) {
-            
-            if (Character.isDigit(s.charAt(idx))) {
+        for (char ch : s.toCharArray()) {
+             
+            if( Character.isLetter(ch) ) cur.append(ch);
+            if( Character.isDigit(ch)  ) k = k * 10 + ch - '0';
+             
+            if ( ch == '[') {
                 
-                int count = 0;
+                intStack.addFirst(k);       strStack.addFirst(cur);
                 
-                while (Character.isDigit(s.charAt(idx))) {
-                    count = 10 * count + (s.charAt(idx) - '0');
-                    idx++;
-                }
-                
-                countStack.addFirst(count);
-                
-            } else if (s.charAt(idx) == '[') {
-                
-                resStack.addFirst(res);
-                res = "";
-                idx++;
-                
-            } else if (s.charAt(idx) == ']') {
-                
-                StringBuilder temp = new StringBuilder(resStack.removeFirst());
-                
-                int repeatTimes = countStack.removeFirst();
-                
-                for (int i = 0; i < repeatTimes; i++) {
-                    temp.append(res);
-                }
-                
-                res = temp.toString();
-                
-                idx++;
-                
-            } else {
-                res += s.charAt(idx++);
+                k = 0; cur = new StringBuilder();
             }
+            
+            if (ch == ']') {
+                
+                StringBuilder tmp = cur;
+                
+                cur = strStack.removeFirst();
+                
+                for (k = intStack.removeFirst(); k > 0; --k) cur.append(tmp);
+                
+            } 
         }
-        
-        return res;
+        return cur.toString();         
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

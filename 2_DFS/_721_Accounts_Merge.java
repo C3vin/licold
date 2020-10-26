@@ -8,6 +8,7 @@ class Solution {
         
         Map<String, String> names = new HashMap<String, String>(); //email - username
         Map<String, Set<String>> map = new HashMap<String, Set<String>>(); //email - neighbors
+        
         Set<String> emails = new HashSet<String>(); 
         
         for(List<String> list : accounts){
@@ -37,13 +38,21 @@ class Solution {
         for(String s : emails)
             
             if( !visited.contains(s) ){
+                
                 visited.add(s);
+                
                 List<String> buffer = new ArrayList<String>();
+                
                 buffer.add(s);
+                
                 helper(s, map, visited, buffer);
+                
                 Collections.sort(buffer);
+                
                 buffer.add(0, names.get(s));
+                
                 result.add(buffer);
+                
             }
         
         return result; 

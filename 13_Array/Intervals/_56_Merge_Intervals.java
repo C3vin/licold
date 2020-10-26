@@ -1,41 +1,39 @@
 class Solution {
+    
+    int[][] M = null; 
+    
+	public int[][] merge(int[][] intervals) {
+        
+        M = intervals;
+	
+        if (M.length <= 1)
+			return M;
+ 
+		Arrays.sort(M, (a,b) -> (a[0]-b[0]));
 
-    public int[][] merge(int[][] intervals) {
-        
-        // 1. Corner case 
-        List<int[]> res = new ArrayList<>();
-        
-        if(intervals.length == 0 || intervals == null) return res.toArray(new int[0][0]);
-        
-        // 2. Sort the input, small to big
-        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
-        
-        // 3. Define start && end 
-        int start = intervals[0][0];
-        int end = intervals[0][1];
-        
-        // 4. Loop
-        for(int[] i : intervals) {
+		List<int[]> res = new ArrayList<>();
+		
+        int[] curr = M[0];
+		
+        res.add(curr);
+		
+        for (int[] i : M) {
             
-            if(i[0] <= end) {
-                end = Math.max(end, i[1]);
-            }
-            
-            else {
+			if (i[0] <= curr[1])  
                 
-                res.add(new int[]{start, end});
+				curr[1] = Math.max(curr[1], i[1]);
+			else {                             
                 
-                start = i[0];
-                end = i[1];
-                
-            }
-        }
+				curr = i;
+				res.add(curr);
+			}
+		}
+
+        int[][] newRes = new int[res.size()][2]; 
         
-        res.add(new int[]{start, end});
+        res.toArray(newRes); 
         
-       return res.toArray(new int[0][0]);
-         
-    }
-    
-    
+		//return result.toArray(new int[0][0]); 
+         return newRes;
+	}
 }

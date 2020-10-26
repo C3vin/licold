@@ -41,3 +41,69 @@ class Solution {   //  https://youtu.be/nKf6wJ6SCa8?t=24
             return res;
         }
 }
+
+
+////////////////////////////////////////////////////////////////////////////////2020_1023_16:30//////////////////////////////////////////////////////////////////////////////////////////
+class Solution {
+    
+    public List<Integer> partitionLabels(String S) {
+    
+        ////////////////////////////////////////// Corner Case
+        List<Integer> res = new LinkedList<>(); 
+         
+        if(S.length() == 1){
+            
+            res.add(1); 
+            
+            return res; 
+            
+        }
+        
+        ////////////////////////////////////////// Set up data structures, and prepare the utilities... 
+        int[] freq = new int[26]; 
+         
+        for(char k : S.toCharArray()){
+            
+            freq[k-'a']++; 
+            
+        }
+        
+        HashSet<Character> set = new HashSet<Character>(); 
+        
+        ////////////////////////////////////////// use Two pointers to traverse the characters in the String 
+        
+        int left = 0; 
+        int right = 0;
+         
+        while(right < S.length()){
+            
+            char curr = S.charAt(right); 
+            
+            if(!set.contains(curr)){                
+                                        set.add(curr);   
+            } 
+            
+            freq[curr - 'a']--; 
+            
+            if(freq[curr - 'a'] == 0){
+                
+                set.remove(curr); 
+                
+            }
+            
+            if(set.isEmpty()){
+                
+                res.add(right - left + 1); 
+                
+                left = right + 1; 
+            }
+         
+            
+            right++; 
+        }
+         
+        return res; 
+    }
+     
+}
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

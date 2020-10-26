@@ -29,12 +29,12 @@ class Solution {
         // and left nodes on the last level.
     }
     
-    public boolean exists(int idx, int d, TreeNode node) {
+    public boolean exists(int target, int d, TreeNode node) {
         int left = 0, right = (int)Math.pow(2, d) - 1;
         int pivot;
         for(int i = 0; i < d; ++i) {
           pivot = left + (right - left) / 2;
-          if (idx <= pivot) {
+          if (target <= pivot) {
             node = node.left;
             right = pivot;
           }
