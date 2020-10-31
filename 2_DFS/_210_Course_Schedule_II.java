@@ -26,7 +26,7 @@ class Solution {
 
     private boolean isCyclic(Course cur, int[] result) {  // if cyclic, then no solution
 		
-        if (cur.tested == true) return false;  // Check if cyclic 
+        if (cur.added == true) return false;  // Check if an added course 
 		
         if (cur.visited == true) return true;  // visited before --> cyclic!!!
 		
@@ -37,10 +37,10 @@ class Solution {
                 return true;
             }
         }
-		
-        cur.tested = true;   	    //  confirmed already tested OK  
-		
+		 
         result[N++] = cur.number;   // build such result 
+        
+        cur.added = true;   	    //  confirmed if already added    
 		
         return false;
     }
@@ -49,7 +49,7 @@ class Solution {
 		
         boolean visited = false;
 		
-        boolean tested = false;
+        boolean added = false;
 		
         int number;
 		
