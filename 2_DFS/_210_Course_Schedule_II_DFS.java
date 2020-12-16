@@ -1,10 +1,7 @@
 class Solution {
 
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-
-        boolean[] root = new boolean[numCourses]; // check if node i it is root (no parent)
-        Arrays.fill(root, true);
-        
+ 
         ArrayList < Integer > [] graph = new ArrayList[numCourses];
         
         for (int i = 0; i < numCourses; i++) {
@@ -12,9 +9,7 @@ class Solution {
         }
         
         for (int i = 0; i < prerequisites.length; i++) {
-            
-            root[prerequisites[i][0]] = false;
-            
+        
             graph[prerequisites[i][1]].add(prerequisites[i][0]);
             
         } // build graph & root[];
@@ -22,11 +17,10 @@ class Solution {
         Boolean[] visited = new Boolean[numCourses];
         
         List < Integer > ans = new ArrayList < Integer > ();
-        
-        for (int i = 0; i < numCourses; i++) {
-            
-            if (root[i]) { //找到没有pre-requisites的课程，当成入口，进入。
-                 
+   
+          for (int i = 0; i < visited.length; i++) {
+      
+              if( visited[i] == null){
                 if ( !dfs(i, graph, ans, visited) ) return new int[0];
             }
             
@@ -62,6 +56,7 @@ class Solution {
         return true;
     }
 }
+
 
 
 

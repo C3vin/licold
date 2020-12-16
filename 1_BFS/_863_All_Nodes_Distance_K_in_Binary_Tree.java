@@ -1,78 +1,94 @@
 class Solution {
-      
-     public List<Integer> distanceK(TreeNode treeRoot, TreeNode startNode, int targetDistance) {
- 
-            Map<TreeNode, TreeNode> dadMap = new HashMap();
- 
-            dad(dadMap, treeRoot, null);
- 
-            Queue<TreeNode> queue = new LinkedList();
-         
-            queue.add(startNode);
- 
-            Set<TreeNode> seen = new HashSet();
- 
-            seen.add(startNode);
- 
-            int currentLayer = 0;
- 
-            while (!queue.isEmpty()) {
- 
-                        if (currentLayer == targetDistance) return getLayer(queue);
- 
-                        int layerSize = queue.size();
- 
-                        for (int i = 0; i < layerSize; i++) {
- 
-                            TreeNode curr = queue.poll();
- 
-                            if (curr.left != null && !seen.contains(curr.left)) {
-                                seen.add(curr.left);
-                                queue.offer(curr.left);
-                            }
- 
-                            if (curr.right != null && !seen.contains(curr.right)) {
-                                seen.add(curr.right);
-                                queue.offer(curr.right);
-                            }
+    
+    Map<TreeNode, List<TreeNode>> map = new HashMap();
 
-                            /** ~3. 檢查老爸 **/
-                            TreeNode dad = dadMap.get(curr);
-
-                            if (dad != null && !seen.contains(dad)) {
-                                seen.add(dad);
-                                queue.offer(dad);
-                            }
-
-                        }
-                        currentLayer++;
-            }
-
-            return new ArrayList<Integer>();
-        }
-
-        /** 把樹擼一遍，找到所有節點的父母  **/
-        private void dad(Map<TreeNode, TreeNode> dadMap, TreeNode root, TreeNode parent) {
-
-            /** 1. 邊界條件 **/
-            if (root == null) { return; }
-
-            /** 2. 製造root的爸媽  **/
-            dadMap.put(root, parent);
-
-            dad(dadMap, root.left, root);
-            dad(dadMap, root.right, root);
-        }
-
-        /** 找出當前Layer的節點 **/
-        private List<Integer> getLayer(Queue<TreeNode> queue) {
+    public List<Integer> distanceK(TreeNode root, TreeNode target, int K) {
+        
+        List<Integer> res = new ArrayList<Integer> ();
+        
+        if (root == null || K < 0) return res;
+        
+        buildMap(root, null); 
+        
+        if (!map.containsKey(target)) return res;
+        
+        Set<TreeNode> visited = new HashSet<TreeNode>();
+        
+        Queue<TreeNode> q = new LinkedList<TreeNode>();
+        
+        q.add(target);
+        
+        visited.add(target);
+        
+        while (!q.isEmpty()) {
             
-            List<Integer> res = new ArrayList<>();
+            int size = q.size();
+            
+            if (K == 0) {
                 
-            for (TreeNode node : queue) {
-                res.add(node.val);
+                for (int i = 0; i < size ; i++) res.add(q.poll().val);
+                
+                return res;
             }
             
-            return res;
+            for (int i = 0; i < size; i++) {
+                
+                TreeNode node = q.poll();
+                
+                for (TreeNode next : map.get(node)) {
+                    
+                    if (visited.contains(next)) continue;
+                    
+                    visited.add(next);
+                    
+                    q.add(next);
+                }
+            }
+            K--;
         }
+        return res;
+    }
+    
+    private void buildMap(TreeNode node, TreeNode parent) {
+        
+        if (node == null) return;
+        
+        if (!map.containsKey(node)) {
+            
+            map.put(node, new ArrayList<TreeNode>());
+            
+            if (parent != null)  { 
+                 map.get(node).add(parent); 
+                 map.get(parent).add(node) ; 
+            }
+            
+            buildMap(node.left, node);
+            buildMap(node.right, node);
+        }
+    }    
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
