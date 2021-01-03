@@ -1,44 +1,47 @@
 class Solution {
+      
+    public TreeNode buildTree(int[] preorder, int[] inorder) {
+       
+        Map<Integer, Integer> inMap = new HashMap<>(); 
+         
+        int len = inorder.length; 
+          
+        for(int i = 0; i < inorder.length; i++){
+             
+            inMap.put(inorder[i], i); 
+        }
+         
+        TreeNode root = helper(preorder, 0, len - 1, inorder, 0, len - 1, inMap); 
+          
+        return root; 
+    }
+     
     
-  // start from first preorder element
-  int pre_idx = 0;
-  int[] preorder;
-  int[] inorder;
-  HashMap<Integer, Integer> idx_map = new HashMap<Integer, Integer>();
-
-  public TreeNode helper(int in_left, int in_right) {
-    // if there is no elements to construct subtrees
-      
-    if (in_left == in_right)
-      return null;
-
-    // pick up pre_idx element as a root
-    int root_val = preorder[pre_idx];
-    TreeNode root = new TreeNode(root_val);
-
-    // root splits inorder list
-    // into left and right subtrees
-    int index = idx_map.get(root_val);
-
-    // recursion 
-    pre_idx++;
-    // build left subtree
-      
-    root.left = helper(in_left, index);
-    // build right subtree
-    root.right = helper(index + 1, in_right);
-    return root;
-  }
-
-  public TreeNode buildTree(int[] preorder, int[] inorder) {
-    this.preorder = preorder;
-    this.inorder = inorder;
-
-    // build a hashmap value -> its index
-    int idx = 0;
-    for (Integer val : inorder)
-      idx_map.put(val, idx++);
-    return helper(0, inorder.length);
-  }
-    
-}
+    public TreeNode helper(int[] pre, int preStart, int preEnd, 
+                           int[] in, int inStart, int inEnd,
+                           Map<Integer, Integer> inMap)
+    {
+     
+        if(preStart > preEnd || inStart > inEnd) return null;  
+         
+        int val = pre[preStart]; 
+          
+        TreeNode root = new TreeNode( val); 
+         
+        int inPosition = inMap.get( val ); 
+         
+        int leftRange = inPosition - inStart; 
+         
+        root.left =  helper( pre, preStart + 1,              preStart + leftRange, 
+                             in,  inStart,                   inPosition - 1, 
+                             inMap
+                           ); 
+          
+        root.right = helper( pre, preStart + leftRange + 1,   preEnd, 
+                             in,  inPosition + 1,             inEnd, 
+                             inMap
+                           );         
+         
+        return root; 
+    } 
+} 

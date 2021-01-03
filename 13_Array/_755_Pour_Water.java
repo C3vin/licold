@@ -17,7 +17,7 @@ class Solution {
             }
             
             // Move left to K
-            while(cur > K && heights[cur] >= heights[cur - 1]) {
+            while(cur > K && heights[cur] == heights[cur - 1]) {
                 cur--;
             }
             

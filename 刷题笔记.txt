@@ -1,8 +1,0 @@
-- char是primitive，所以可以直接用 char == 'c' 来判断相等
-- Queue<int[]> q = new LinkedList<int[]>();  
-- char[][] grid -->  grid.length; grid.length(); length()是method call，length是attribute;除了array都是method call
-
--- 200. Number of Islands 的教训  ： 应该在入队之前标记visited，不然会重复入队；
-
--- 101. Symmetric Tree:   if(a == null && b == null) return continue; --> 这里是不是return true而是continue!!!
-
